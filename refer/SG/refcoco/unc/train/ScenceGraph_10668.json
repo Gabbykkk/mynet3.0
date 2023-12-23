@@ -1,0 +1,1 @@
+{"objects": ["cow", "camera", "us"], "relationships": [[0, "at", 1], [0, "facing", 1]]}

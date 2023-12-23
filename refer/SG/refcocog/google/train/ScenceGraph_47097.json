@@ -1,0 +1,1 @@
+{"objects": ["zibra", "face direction", "zebra", "giraffes", "enclosure"], "relationships": [[0, "standing", 1], [0, "between", 1], [0, "between", 2], [2, "inside", 3]]}

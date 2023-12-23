@@ -1,0 +1,1 @@
+{"objects": ["motor cycle", "park bench", "tree", "motorcycle", "carry box"], "relationships": [[0, "between", 1], [2, "between", 1], [0, "with", 1]]}

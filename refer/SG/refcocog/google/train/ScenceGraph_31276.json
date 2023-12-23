@@ -1,0 +1,1 @@
+{"objects": ["color umbrella", "chair", "umbrella", "segments", "stripes"], "relationships": [[0, "sitting", 1], [0, "with", 1], [2, "with", 1], [0, "over", 3], [2, "over", 3]]}

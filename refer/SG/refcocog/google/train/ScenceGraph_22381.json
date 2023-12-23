@@ -1,0 +1,1 @@
+{"objects": ["man", "cake", "that", "tie", "suit coat", "shirt", "corner", "birthday cake"], "relationships": [[0, "holding", 1], [2, "wearing", 3], [0, "in", 1], [2, "in", 1], [2, "without", 3], [3, "holding", 4], [4, "of", 5]]}

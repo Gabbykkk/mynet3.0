@@ -1,0 +1,1 @@
+{"objects": ["fountain", "ball", "center", "side", "pedestal", "sculpture", "top", "sculptures"], "relationships": [[0, "with", 1], [0, "with", 3], [1, "in", 2], [3, "in", 2], [3, "to", 4], [0, "on", 5], [1, "on", 2], [0, "higher than", 3]]}

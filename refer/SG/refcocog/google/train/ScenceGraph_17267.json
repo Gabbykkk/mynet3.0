@@ -1,0 +1,1 @@
+{"objects": ["man", "jeans", "vest", "tan shirt", "hat", "face", "sheep", "that", "goat"], "relationships": [[0, "wearing", 1], [0, "holding", 5], [5, "of", 6], [1, "petting", 2]]}

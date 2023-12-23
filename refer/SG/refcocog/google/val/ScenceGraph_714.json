@@ -1,0 +1,1 @@
+{"objects": ["ox", "that", "water", "yak", "beach", "body"], "relationships": [[1, "towards", 2], [0, "laying on", 1], [0, "near", 2], [2, "of", 3]]}

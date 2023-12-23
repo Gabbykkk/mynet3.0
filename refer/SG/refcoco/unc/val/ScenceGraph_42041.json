@@ -1,0 +1,1 @@
+{"objects": ["catcher", "umpire", "mask"], "relationships": [[0, "wearing", 1]]}

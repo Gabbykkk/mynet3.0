@@ -1,0 +1,1 @@
+{"objects": ["bottle", "wine", "chocovine", "which", "picture", "windmill", "it", "middle", "vegetables"], "relationships": [[0, "of", 1], [3, "has", 4], [4, "of", 5], [5, "on", 6], [3, "of", 4]]}

@@ -1,0 +1,1 @@
+{"objects": ["giraffee", "that", "standing", "tree", "giraffe", "back"], "relationships": [[1, "is", 2], [2, "by", 3], [0, "in", 1]]}

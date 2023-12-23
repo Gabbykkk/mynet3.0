@@ -1,0 +1,1 @@
+{"objects": ["woman", "hands", "teddy bears", "lady", "t shirt", "coat", "jeans", "sandals", "toys", "image"], "relationships": [[0, "putting", 1], [0, "on", 2], [0, "wearing", 1], [3, "wearing", 1], [3, "wearing", 4], [4, "showing", 5]]}

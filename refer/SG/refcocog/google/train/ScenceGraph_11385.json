@@ -1,0 +1,1 @@
+{"objects": ["truck", "t", "bottles", "truck top", "pickup truck"], "relationships": [[1, "include", 2], [2, "higher than", 3]]}

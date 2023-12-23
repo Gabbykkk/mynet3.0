@@ -1,0 +1,1 @@
+{"objects": ["table", "window", "frame", "top", "corner"], "relationships": [[0, "by", 1], [0, "with", 1], [0, "with", 2], [1, "in", 3], [2, "in", 3], [0, "next to", 4]]}

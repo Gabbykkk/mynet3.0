@@ -1,0 +1,1 @@
+{"objects": ["lamb", "which", "front", "goat", "hind legs", "it"], "relationships": [[1, "goes in", 2], [0, "with", 1], [0, "behind", 2]]}

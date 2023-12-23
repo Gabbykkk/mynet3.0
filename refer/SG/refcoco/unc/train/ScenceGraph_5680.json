@@ -1,0 +1,1 @@
+{"objects": ["steel unit", "top", "mans", "what", "hell", "thing", "guys", "box"], "relationships": [[0, "at", 1], [1, "behind", 2], [1, "is", 0], [2, "above", 3]]}

@@ -1,0 +1,1 @@
+{"objects": ["book", "spawn", "jean leg", "cover", "us"], "relationships": [[1, "written", 0], [0, "nearest", 1]]}

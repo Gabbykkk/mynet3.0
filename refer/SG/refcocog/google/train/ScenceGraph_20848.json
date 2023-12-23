@@ -1,0 +1,1 @@
+{"objects": ["monitor", "wall", "time"], "relationships": [[0, "on", 1], [0, "displays", 1]]}

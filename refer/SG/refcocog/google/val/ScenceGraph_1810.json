@@ -1,0 +1,1 @@
+{"objects": ["bubble vest", "stack", "donuts", "person", "pastries"], "relationships": [[0, "next to", 1], [1, "of", 2], [0, "behind", 1]]}

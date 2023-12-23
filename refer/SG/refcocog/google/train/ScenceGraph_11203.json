@@ -1,0 +1,1 @@
+{"objects": ["giraffe", "foreground", "camera"], "relationships": [[0, "next to", 1], [0, "towards", 2]]}

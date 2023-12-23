@@ -1,0 +1,1 @@
+{"objects": ["keyboard", "note", "top", "mouse button", "white keyboard", "mouse"], "relationships": [[0, "with", 1], [3, "with", 1], [1, "on", 2]]}

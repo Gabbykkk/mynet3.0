@@ -1,0 +1,1 @@
+{"objects": ["group", "oranges", "top", "picture", "fruit bundle", "lemons", "row", "bananas", "kiwis"], "relationships": [[0, "of", 1], [0, "in", 2], [2, "of", 3], [0, "begins", 4], [0, "in", 1], [1, "between", 2], [1, "between", 3]]}

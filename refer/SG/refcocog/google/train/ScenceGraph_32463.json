@@ -1,0 +1,1 @@
+{"objects": ["signal box", "that", "picture", "deniro", "back", "signal", "right"], "relationships": [[1, "facing", 2], [2, "of", 3], [0, "of", 1], [1, "on", 2]]}

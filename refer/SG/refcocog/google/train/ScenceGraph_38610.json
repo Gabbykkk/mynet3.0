@@ -1,0 +1,1 @@
+{"objects": ["purse", "woman", "ring", "hand", "phone", "orange bag"], "relationships": [[0, "near", 1], [1, "wearing", 2], [1, "on", 3]]}

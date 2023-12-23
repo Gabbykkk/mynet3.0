@@ -1,0 +1,1 @@
+{"objects": ["car", "intersection", "taxi", "turn"], "relationships": [[0, "entering", 1], [0, "making", 1]]}

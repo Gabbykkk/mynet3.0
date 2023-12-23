@@ -1,0 +1,1 @@
+{"objects": ["macau", "right", "bird", "backm"], "relationships": [[1, "inspected", 0], [1, "on", 2], [0, "cleaning", 1]]}

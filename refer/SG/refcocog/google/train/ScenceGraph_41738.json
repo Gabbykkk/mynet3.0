@@ -1,0 +1,1 @@
+{"objects": ["motorcycle", "that", "gap", "steering", "wheel", "people", "it"], "relationships": [[1, "has", 2], [2, "between", 3], [2, "between", 4], [1, "riding", 2]]}

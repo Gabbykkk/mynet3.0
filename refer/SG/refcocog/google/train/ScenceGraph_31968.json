@@ -1,0 +1,1 @@
+{"objects": ["baggage", "truck", "jet engine", "vehicle", "rail", "right", "man", "green vest"], "relationships": [[0, "handling", 1], [0, "with", 1], [0, "to", 2], [2, "of", 3], [2, "with", 4]]}

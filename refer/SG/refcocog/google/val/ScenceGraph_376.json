@@ -1,0 +1,1 @@
+{"objects": ["man", "t shirt", "orange pants", "ball", "racket", "tennis player", "court", "tee shirt", "mtv logo", "orange shorts"], "relationships": [[0, "wearing", 1], [0, "wearing", 2], [0, "hits", 3], [0, "with", 4], [0, "on", 1], [0, "wearing", 3], [0, "with", 5]]}

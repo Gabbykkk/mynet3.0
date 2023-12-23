@@ -1,0 +1,1 @@
+{"objects": ["yellow box", "noodles", "it", "container", "that", "noodles shrimp", "peppers"], "relationships": [[0, "having", 1], [0, "in", 2], [1, "has", 2], [1, "has", 3], [3, "in", 4]]}

@@ -1,0 +1,1 @@
+{"objects": ["portion", "bench", "man", "bottom", "chain", "fence"], "relationships": [[0, "of", 1], [0, "under", 2], [0, "linked", 2], [0, "under", 3]]}

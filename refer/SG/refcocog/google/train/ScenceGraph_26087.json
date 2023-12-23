@@ -1,0 +1,1 @@
+{"objects": ["bowl", "green curry", "soup", "salad"], "relationships": [[0, "of", 1], [4, "of", 1], [0, "between", 2], [4, "between", 2], [2, "of", 3]]}

@@ -1,0 +1,1 @@
+{"objects": ["bottle", "color tape", "neck", "color label", "bottom", "leftmost bottle", "microwave"], "relationships": [[0, "with", 1], [1, "on", 2], [1, "on", 3], [3, "on", 4], [0, "on", 1]]}

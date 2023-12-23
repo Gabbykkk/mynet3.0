@@ -1,0 +1,1 @@
+{"objects": ["polo player", "horse chasing", "ball", "horse", "guy", "shirt"], "relationships": [[0, "riding", 1], [1, "towards", 2], [0, "under", 1], [1, "wearing", 2]]}

@@ -1,0 +1,1 @@
+{"objects": ["man", "camara", "baseball", "bat", "hand"], "relationships": [[0, "looking to", 1], [0, "playing", 1], [0, "holding", 2], [0, "on", 3]]}

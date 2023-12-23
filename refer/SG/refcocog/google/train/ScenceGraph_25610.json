@@ -1,0 +1,1 @@
+{"objects": ["fishing boat", "people", "it", "middle", "ocean", "boat", "barge", "ship"], "relationships": [[0, "with", 1], [1, "on", 2], [0, "in", 3], [3, "of", 4], [5, "pushing", 6], [0, "next to", 1]]}

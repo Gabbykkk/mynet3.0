@@ -1,0 +1,1 @@
+{"objects": ["decker bus", "bus", "camera"], "relationships": [[0, "next to", 1], [0, "from", 1]]}

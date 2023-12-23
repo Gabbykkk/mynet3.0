@@ -1,0 +1,1 @@
+{"objects": ["monitor", "word document", "right", "desk", "binder", "paperwork", "background"], "relationships": [[0, "with", 1], [0, "to", 2], [2, "of", 3], [0, "on", 4], [4, "with", 5], [5, "of", 6]]}

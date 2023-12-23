@@ -1,0 +1,1 @@
+{"objects": ["horse", "tree", "horses", "lamppost", "right", "police officer"], "relationships": [[0, "behind", 1], [0, "between", 1], [0, "between", 2], [0, "between", 4], [1, "to", 3], [2, "to", 3], [4, "to", 3]]}

@@ -1,0 +1,1 @@
+{"objects": ["man", "camera", "person", "chef coat", "hair", "container", "hand"], "relationships": [[0, "closest to", 1], [0, "in", 1], [2, "holding", 3], [2, "in", 4]]}

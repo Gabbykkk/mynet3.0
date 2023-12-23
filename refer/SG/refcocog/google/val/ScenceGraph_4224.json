@@ -1,0 +1,1 @@
+{"objects": ["person", "piece", "foof", "index finger", "man", "donut"], "relationships": [[0, "holding", 1], [1, "of", 2], [1, "between", 3]]}

@@ -1,0 +1,1 @@
+{"objects": ["doughnut", "coffee mug", "donut", "plate"], "relationships": [[0, "close to", 1], [0, "on", 1], [1, "touching", 2]]}

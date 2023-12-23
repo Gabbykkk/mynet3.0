@@ -1,0 +1,1 @@
+{"objects": ["hands", "nail polish", "wine glass", "hand", "glass", "wine", "that", "s"], "relationships": [[0, "with", 1], [1, "holding", 2], [0, "holding", 1], [1, "of", 2], [4, "below", 5], [4, "with", 6]]}

@@ -1,0 +1,1 @@
+{"objects": ["side mirror", "car", "front", "view mirror", "camera", "photo"], "relationships": [[0, "of", 1], [0, "in", 2], [0, "captures", 1], [1, "taking", 2]]}

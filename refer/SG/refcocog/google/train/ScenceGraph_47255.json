@@ -1,0 +1,1 @@
+{"objects": ["computer monitor", "windows", "computer screen", "programme", "it"], "relationships": [[0, "showing", 1], [0, "displaying", 1], [1, "running on", 2]]}

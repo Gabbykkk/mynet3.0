@@ -1,0 +1,1 @@
+{"objects": ["man", "chef", "bread dough", "bakery"], "relationships": [[0, "kneading", 1], [1, "in", 2]]}

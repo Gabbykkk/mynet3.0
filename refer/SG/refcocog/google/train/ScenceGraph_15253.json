@@ -1,0 +1,1 @@
+{"objects": ["book", "pile", "books", "poisonwood bible"], "relationships": [[0, "on top of", 1], [1, "of", 2], [0, "titled", 1]]}

@@ -1,0 +1,1 @@
+{"objects": ["man", "frame", "table"], "relationships": [[0, "through", 1], [0, "at", 1]]}

@@ -1,0 +1,1 @@
+{"objects": ["boat", "variety", "produce", "man", "cap"], "relationships": [[0, "carrying", 1], [0, "carrying", 3], [1, "of", 2], [3, "of", 2], [3, "in", 4], [0, "with", 1]]}

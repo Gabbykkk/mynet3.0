@@ -1,0 +1,1 @@
+{"objects": ["tote bag", "cutting boards", "bag", "which", "colour", "middle", "products"], "relationships": [[0, "holding", 1], [1, "having", 2], [3, "of", 4]]}

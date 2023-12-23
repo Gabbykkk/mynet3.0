@@ -1,0 +1,1 @@
+{"objects": ["treein", "corner", "bin", "it"], "relationships": [[1, "with", 2], [0, "next to", 3]]}

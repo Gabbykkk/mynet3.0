@@ -1,0 +1,1 @@
+{"objects": ["pigeon", "wings", "top", "beak"], "relationships": [[0, "with", 1], [2, "of", 3]]}

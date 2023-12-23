@@ -1,0 +1,1 @@
+{"objects": ["women", "jacket", "dogs", "fire", "female", "baseball cap", "campfire", "dog", "camera"], "relationships": [[0, "in", 1], [1, "roasting", 2], [2, "on", 3], [0, "wearing", 1], [1, "at", 2], [2, "roasting", 3]]}

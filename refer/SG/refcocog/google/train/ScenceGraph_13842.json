@@ -1,0 +1,1 @@
+{"objects": ["plane", "corner", "another", "planes", "gates"], "relationships": [[0, "in", 1], [2, "in", 1], [0, "in", 3], [2, "in", 3], [0, "at", 1]]}

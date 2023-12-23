@@ -1,0 +1,1 @@
+{"objects": ["man", "stairs", "middle", "men", "president", "they", "air force"], "relationships": [[0, "down", 1], [0, "in", 2], [2, "of", 3], [0, "behind", 1], [2, "exit", 3]]}

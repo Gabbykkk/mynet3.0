@@ -1,0 +1,1 @@
+{"objects": ["groom", "glasses", "hair", "tuxedo", "wedding cake", "man", "suit"], "relationships": [[0, "with", 1], [0, "with", 2], [0, "in", 3], [3, "cutting", 4], [0, "wearing", 1], [0, "wearing", 2], [1, "into", 3], [2, "into", 3]]}

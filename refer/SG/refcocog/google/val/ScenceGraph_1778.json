@@ -1,0 +1,1 @@
+{"objects": ["maroon motorcycle", "tassels", "seat", "motorcycles", "parking lot", "motorcycle", "nexti"], "relationships": [[0, "with", 1], [2, "with", 1], [2, "next to", 3], [2, "in", 4], [0, "parked", 1], [0, "to", 2]]}

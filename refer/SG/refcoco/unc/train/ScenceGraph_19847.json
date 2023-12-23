@@ -1,0 +1,1 @@
+{"objects": ["board", "guy", "forces guy", "holdin guy board"], "relationships": [[0, "next to", 1]]}

@@ -1,0 +1,1 @@
+{"objects": ["burlap fabric", "left", "cat", "sofa"], "relationships": [[0, "to", 1], [1, "of", 2], [0, "holds", 1]]}

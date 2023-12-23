@@ -1,0 +1,1 @@
+{"objects": ["monitor", "table", "package", "cd disks", "headphones", "computer monitor"], "relationships": [[0, "on", 1], [0, "next to", 2], [2, "of", 3], [2, "of", 4]]}

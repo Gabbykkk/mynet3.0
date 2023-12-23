@@ -1,0 +1,1 @@
+{"objects": ["middle", "it", "bear", "photo", "road", "bears"], "relationships": [[1, "is", 2], [2, "in", 3], [0, "crossing", 1], [0, "with", 2], [2, "accompanying", 3]]}

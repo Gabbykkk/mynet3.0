@@ -1,0 +1,1 @@
+{"objects": ["box", "plastic", "piece", "furniture", "cardboard", "sheeting"], "relationships": [[0, "in", 1], [0, "of", 1], [0, "packed in", 2], [0, "packed in", 3]]}

@@ -1,0 +1,1 @@
+{"objects": ["patron", "wine", "glass", "bartender", "pair", "hands", "wine glass", "bar"], "relationships": [[2, "by", 3], [0, "of", 1], [1, "holding", 2], [1, "on", 3]]}

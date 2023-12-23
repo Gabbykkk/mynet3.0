@@ -1,0 +1,1 @@
+{"objects": ["giraffe", "painting", "wall", "drawing", "female", "kerchief"], "relationships": [[0, "past", 1], [0, "with", 2], [2, "of", 3], [3, "wearing", 4]]}

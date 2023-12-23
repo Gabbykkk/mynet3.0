@@ -1,0 +1,1 @@
+{"objects": ["pile", "broccoli", "shopping carts", "stack", "shopping baskets"], "relationships": [[0, "of", 1], [0, "nearest", 2], [1, "closest to", 2]]}

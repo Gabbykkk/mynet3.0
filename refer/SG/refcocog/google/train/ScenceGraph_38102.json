@@ -1,0 +1,1 @@
+{"objects": ["faucet", "sink", "forground"], "relationships": [[0, "above", 1], [1, "in", 2], [0, "on", 1]]}

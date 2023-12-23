@@ -1,0 +1,1 @@
+{"objects": ["bus", "succession", "buses", "street", "camera", "road", "front", "line"], "relationships": [[1, "of", 2], [2, "down", 3], [2, "towards", 4], [0, "on", 1], [0, "second from", 2], [2, "of", 3]]}

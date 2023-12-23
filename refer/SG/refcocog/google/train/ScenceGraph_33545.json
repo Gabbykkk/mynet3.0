@@ -1,0 +1,1 @@
+{"objects": ["woman", "bowl", "cut mushrooms", "hair", "shirt", "mushrooms", "pizza"], "relationships": [[0, "holds", 1], [1, "of", 2], [0, "with", 1], [0, "in", 2], [0, "putting", 3], [0, "on", 4]]}

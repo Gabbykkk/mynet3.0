@@ -1,0 +1,1 @@
+{"objects": ["train engine", "silver tanker", "tracks"], "relationships": [[0, "behind", 1], [0, "on", 2]]}

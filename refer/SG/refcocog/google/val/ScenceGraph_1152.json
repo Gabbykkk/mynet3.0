@@ -1,0 +1,1 @@
+{"objects": ["vodka bottle", "the", "fifth", "vodka", "can", "campbell", "tomato juice"], "relationships": [[0, "behind", 1], [0, "of", 1], [0, "next to", 2], [2, "of", 3], [2, "of", 4]]}

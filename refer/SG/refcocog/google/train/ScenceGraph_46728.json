@@ -1,0 +1,1 @@
+{"objects": ["surfer", "leg", "way", "hand", "air", "knee"], "relationships": [[0, "on top of", 1], [0, "with", 2], [0, "with", 4], [2, "in", 3], [4, "in", 3], [4, "on", 5]]}

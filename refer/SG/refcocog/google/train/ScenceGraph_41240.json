@@ -1,0 +1,1 @@
+{"objects": ["tree", "man", "exit sign"], "relationships": [[0, "behind", 1], [0, "by", 1]]}

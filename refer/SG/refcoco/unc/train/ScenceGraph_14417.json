@@ -1,0 +1,1 @@
+{"objects": ["book", "book center", "center", "photo center"], "relationships": [[0, "in", 1], [1, "of", 2]]}

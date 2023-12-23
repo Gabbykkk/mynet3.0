@@ -1,0 +1,1 @@
+{"objects": ["circus performer", "bicycle", "wire", "woman", "rope"], "relationships": [[0, "riding", 1], [0, "on", 2], [0, "on", 1]]}

@@ -1,0 +1,1 @@
+{"objects": ["kite", "right", "kites", "picture", "man", "side", "art piece", "diamond", "eith shape red", "center"], "relationships": [[4, "to", 1], [1, "of", 2], [1, "in", 3], [0, "of", 1], [0, "is", 2], [2, "in", 3]]}

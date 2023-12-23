@@ -1,0 +1,1 @@
+{"objects": ["orange reddish train", "walkway", "people", "train", "track", "it", "right"], "relationships": [[0, "close to", 1], [1, "with", 2], [0, "on", 1], [2, "near", 3], [0, "to", 4], [4, "of", 5]]}

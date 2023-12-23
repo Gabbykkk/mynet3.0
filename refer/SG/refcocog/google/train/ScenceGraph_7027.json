@@ -1,0 +1,1 @@
+{"objects": ["man", "girl", "baby girl", "jiraffe"], "relationships": [[0, "carrying", 1], [0, "holding", 1], [0, "near", 2]]}

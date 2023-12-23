@@ -1,0 +1,1 @@
+{"objects": ["man", "vestments", "ceremony", "judge", "folder"], "relationships": [[0, "in", 1], [1, "perfomring", 2]]}

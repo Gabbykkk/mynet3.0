@@ -1,0 +1,1 @@
+{"objects": ["fork", "napkin", "handle"], "relationships": [[0, "on", 1], [0, "with", 1], [1, "sitting on", 2]]}

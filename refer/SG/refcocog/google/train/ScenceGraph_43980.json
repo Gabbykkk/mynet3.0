@@ -1,0 +1,1 @@
+{"objects": ["slice", "orange", "that", "corner", "container", "orange slice", "camera"], "relationships": [[0, "of", 1], [2, "touching", 3], [3, "of", 4], [0, "closest to", 1]]}

@@ -1,0 +1,1 @@
+{"objects": ["sort", "food", "flakes", "bowl", "triangles", "rim", "zigzag pattern"], "relationships": [[0, "of", 1], [1, "with", 2], [1, "in", 3], [1, "with", 4], [4, "around", 5], [0, "with", 2]]}

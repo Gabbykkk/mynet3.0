@@ -1,0 +1,1 @@
+{"objects": ["streamer", "kite", "air", "tail"], "relationships": [[0, "on", 1], [0, "in", 2], [0, "of", 1]]}

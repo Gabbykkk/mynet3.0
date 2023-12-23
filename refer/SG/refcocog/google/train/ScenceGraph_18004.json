@@ -1,0 +1,1 @@
+{"objects": ["zebra", "head", "back", "pair", "zebras", "bonding", "side", "ones", "others"], "relationships": [[0, "holding", 1], [0, "over", 2], [2, "of", 3], [0, "of", 1], [0, "on", 2], [3, "by", 4], [5, "over", 6]]}

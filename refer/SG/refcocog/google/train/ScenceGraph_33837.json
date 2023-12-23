@@ -1,0 +1,1 @@
+{"objects": ["paddington bear", "bear paddington book", "bear", "hat"], "relationships": [[0, "holding", 1], [0, "wearing", 1]]}

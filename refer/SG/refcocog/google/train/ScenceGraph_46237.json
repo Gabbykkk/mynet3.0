@@ -1,0 +1,1 @@
+{"objects": ["toddler", "red", "baby", "outfit", "boy", "infant baby"], "relationships": [[0, "wearing", 1], [0, "snuggling", 2], [2, "wearing", 3], [0, "kisses", 1]]}

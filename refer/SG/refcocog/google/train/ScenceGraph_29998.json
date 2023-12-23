@@ -1,0 +1,1 @@
+{"objects": ["patio chair", "corner", "patio table", "umbrella pole", "chair", "left", "iron table"], "relationships": [[0, "facing", 1], [3, "facing", 1], [1, "of", 2], [0, "on", 1]]}

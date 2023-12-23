@@ -1,0 +1,1 @@
+{"objects": ["mass", "monitor", "laptop", "side"], "relationships": [[0, "behind", 1]]}

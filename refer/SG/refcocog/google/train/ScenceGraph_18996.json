@@ -1,0 +1,1 @@
+{"objects": ["umbrella", "rack", "umbrellas"], "relationships": [[0, "on", 1], [1, "between", 2]]}

@@ -1,0 +1,1 @@
+{"objects": ["flowers", "hand", "flower", "thumb", "kids", "sidewalk", "umbrellas"], "relationships": [[0, "holding", 1], [0, "by", 2], [3, "down", 4], [4, "carrying", 5]]}

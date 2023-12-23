@@ -1,0 +1,1 @@
+{"objects": ["vehicle", "street", "side", "car", "man", "phone", "center", "hand picture"], "relationships": [[0, "across", 1], [0, "on", 2], [2, "of", 3], [0, "behind", 1], [1, "on", 2], [0, "in", 3], [0, "in", 4]]}

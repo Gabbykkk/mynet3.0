@@ -1,0 +1,1 @@
+{"objects": ["traffic signal", "colours", "light", "signal"], "relationships": [[0, "has", 1], [1, "of", 2]]}

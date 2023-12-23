@@ -1,0 +1,1 @@
+{"objects": ["cushions", "edge", "center edge", "pic", "cushion", "chair", "side"], "relationships": [[0, "on", 1], [0, "left", 1], [1, "of", 2], [0, "left", 2], [2, "of", 3]]}

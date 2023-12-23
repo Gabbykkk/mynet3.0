@@ -1,0 +1,1 @@
+{"objects": ["woman", "foreground", "mitt", "she", "dirt", "cleats", "ball"], "relationships": [[0, "in", 1], [0, "with", 2], [3, "kicked", 4], [3, "under", 5], [0, "pitching", 1]]}

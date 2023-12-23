@@ -1,0 +1,1 @@
+{"objects": ["pipe hose hold", "woman", "who", "child", "pants", "t shirt", "orange umbrella", "hose"], "relationships": [[0, "by", 1], [2, "next to", 3], [3, "in", 4], [2, "standing", 5], [0, "holding", 1]]}

@@ -1,0 +1,1 @@
+{"objects": ["guard ship", "people", "boat", "it", "life preservers"], "relationships": [[0, "rescuing", 1], [1, "on", 2], [1, "with", 3]]}

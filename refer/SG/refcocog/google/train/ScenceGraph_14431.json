@@ -1,0 +1,1 @@
+{"objects": ["scatting board", "bag", "it", "pair", "eyes", "snow", "backpack", "top"], "relationships": [[0, "with", 1], [1, "over", 2], [0, "of", 1], [0, "down on", 2], [0, "with", 3], [3, "sitting on", 4]]}

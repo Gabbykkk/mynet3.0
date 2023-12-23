@@ -1,0 +1,1 @@
+{"objects": ["baseball player", "mets mascot", "woman", "mets jersey", "mascot"], "relationships": [[0, "with", 1], [0, "wearing", 1], [1, "next to", 2]]}

@@ -1,0 +1,1 @@
+{"objects": ["girl", "braids", "flower", "hair", "shirt", "piece", "cake"], "relationships": [[0, "with", 1], [2, "with", 1], [2, "in", 3], [0, "wearing", 4], [2, "wearing", 4], [5, "of", 6], [0, "in", 1], [0, "eats", 2]]}

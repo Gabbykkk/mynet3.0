@@ -1,0 +1,1 @@
+{"objects": ["giraffe", "that", "hand", "girl", "baby giraffe", "fence", "adult giraffe"], "relationships": [[1, "licking", 2], [0, "at", 3], [0, "looking over", 1], [0, "next to", 2]]}

@@ -1,0 +1,1 @@
+{"objects": ["player", "row", "bottom row", "front row"], "relationships": [[0, "from", 1]]}

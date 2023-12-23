@@ -1,0 +1,1 @@
+{"objects": ["cow", "tongue", "head", "car", "ceiling"], "relationships": [[0, "with", 1], [0, "with", 2], [0, "in", 3], [0, "inside of", 2], [2, "licking", 3]]}

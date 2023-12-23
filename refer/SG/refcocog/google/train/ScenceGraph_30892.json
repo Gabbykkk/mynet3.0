@@ -1,0 +1,1 @@
+{"objects": ["man", "coffee mug", "camera", "person", "mouth", "cup"], "relationships": [[0, "holding", 1], [0, "looking into", 2], [0, "with", 1], [0, "holding", 2]]}

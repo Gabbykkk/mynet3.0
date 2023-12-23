@@ -1,0 +1,1 @@
+{"objects": ["signal", "right", "pole", "light", "street lights", "side"], "relationships": [[0, "on", 1], [1, "of", 2]]}

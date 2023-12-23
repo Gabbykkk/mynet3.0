@@ -1,0 +1,1 @@
+{"objects": ["addida", "suit", "men", "man", "tennis racquet", "ball", "net"], "relationships": [[0, "track", 1], [0, "for", 2], [0, "in", 1], [0, "holding", 2], [0, "holding", 3], [2, "between", 4], [2, "between", 5], [3, "between", 4], [3, "between", 5]]}

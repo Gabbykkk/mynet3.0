@@ -1,0 +1,1 @@
+{"objects": ["cow", "animal", "that", "color", "left", "side", "picture"], "relationships": [[0, "facing", 1], [3, "towards", 4], [5, "of", 6]]}

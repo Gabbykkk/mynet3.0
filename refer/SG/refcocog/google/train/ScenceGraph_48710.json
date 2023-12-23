@@ -1,0 +1,1 @@
+{"objects": ["dog", "bun", "box", "plastic wrap"], "relationships": [[0, "in", 1], [1, "next to", 2], [2, "of", 3], [0, "inside", 1], [0, "nearest", 2]]}

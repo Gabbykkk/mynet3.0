@@ -1,0 +1,1 @@
+{"objects": ["crosswalk box", "right", "pole", "crosswalk sign"], "relationships": [[0, "to", 1], [0, "to", 2], [0, "on", 3]]}

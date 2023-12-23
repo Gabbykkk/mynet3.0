@@ -1,0 +1,1 @@
+{"objects": ["car", "snow", "truck", "suv", "that"], "relationships": [[0, "in", 1], [0, "between", 1], [0, "between", 2]]}

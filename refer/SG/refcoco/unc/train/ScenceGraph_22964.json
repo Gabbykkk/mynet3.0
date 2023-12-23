@@ -1,0 +1,1 @@
+{"objects": ["controller", "thing", "item", "side", "cord", "head"], "relationships": [[0, "on", 1]]}

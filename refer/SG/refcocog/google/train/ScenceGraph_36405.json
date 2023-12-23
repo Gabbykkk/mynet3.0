@@ -1,0 +1,1 @@
+{"objects": ["arm", "sweater", "ring", "baby carrot", "dog", "hand", "shirt", "finger"], "relationships": [[0, "wearing", 1], [0, "wearing", 2], [2, "feeding", 3], [2, "to", 4], [0, "with", 1], [1, "under", 2], [2, "wearing", 3], [3, "on", 4]]}

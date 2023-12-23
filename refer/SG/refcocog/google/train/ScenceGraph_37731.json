@@ -1,0 +1,1 @@
+{"objects": ["man", "surfboard", "bike"], "relationships": [[0, "carrying", 1], [0, "riding", 1], [0, "with", 2]]}

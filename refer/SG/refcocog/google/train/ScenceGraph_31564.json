@@ -1,0 +1,1 @@
+{"objects": ["it", "bear", "edge", "pond", "paw", "head", "nose", "ear", "affection"], "relationships": [[0, "is", 1], [1, "at", 2], [2, "of", 3], [4, "resting", 5], [4, "resting", 6], [6, "on", 7], [6, "on", 8], [4, "at", 9], [0, "receiving", 1], [0, "from", 2]]}

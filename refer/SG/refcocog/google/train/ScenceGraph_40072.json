@@ -1,0 +1,1 @@
+{"objects": ["minivan", "garbage truck", "street", "blue minivan", "vehicles"], "relationships": [[0, "beside", 1], [1, "on", 2], [0, "moving on", 1], [0, "with", 2]]}

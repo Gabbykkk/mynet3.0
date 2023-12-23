@@ -1,0 +1,1 @@
+{"objects": ["body", "apron", "hands", "tongs", "paper cup", "dough", "worker", "shirt", "pancake", "cup"], "relationships": [[0, "in", 1], [0, "holding", 3], [0, "holding", 4], [0, "with", 5], [0, "wearing", 1], [0, "putting", 2], [0, "in", 3]]}

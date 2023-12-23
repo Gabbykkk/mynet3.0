@@ -1,0 +1,1 @@
+{"objects": ["metal pole", "ground", "metal pipe", "fire", "top"], "relationships": [[0, "from", 1], [0, "with", 1], [1, "on", 2]]}

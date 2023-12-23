@@ -1,0 +1,1 @@
+{"objects": ["color truk", "car", "truck", "markings"], "relationships": [[0, "near", 1], [0, "with", 1]]}

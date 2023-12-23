@@ -1,0 +1,1 @@
+{"objects": ["rainbow", "kite", "ground"], "relationships": [[0, "striped", 1], [0, "touching", 1]]}

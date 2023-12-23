@@ -1,0 +1,1 @@
+{"objects": ["man", "toboggan", "orange coat", "pants", "skis", "people", "ski poles", "hand", "orange shirt"], "relationships": [[0, "wearing", 1], [0, "wearing", 2], [2, "on", 4], [3, "on", 4], [2, "with", 5], [3, "with", 5], [5, "with", 6], [2, "in", 7], [3, "in", 7], [0, "in", 1]]}

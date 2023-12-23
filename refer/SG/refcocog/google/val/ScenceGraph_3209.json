@@ -1,0 +1,1 @@
+{"objects": ["base runner", "that", "home", "catcher", "person", "vest", "shirt", "ground"], "relationships": [[1, "into", 2], [0, "in", 1], [1, "over", 2], [0, "on", 3]]}

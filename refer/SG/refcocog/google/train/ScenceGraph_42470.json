@@ -1,0 +1,1 @@
+{"objects": ["digital clock", "that", "temperature", "clock", "options"], "relationships": [[1, "displays", 2], [0, "with", 1]]}

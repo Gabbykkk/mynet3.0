@@ -1,0 +1,1 @@
+{"objects": ["horse", "group", "polo horse", "man", "players"], "relationships": [[0, "in", 1], [0, "carrying", 1], [1, "between", 2]]}

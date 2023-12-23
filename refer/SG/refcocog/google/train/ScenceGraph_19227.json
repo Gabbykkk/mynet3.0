@@ -1,0 +1,1 @@
+{"objects": ["man", "hat", "headphones", "air", "skateboard", "shirt", "pants", "rock"], "relationships": [[0, "wearing", 1], [0, "wearing", 2], [0, "jumping in", 3], [0, "on", 4], [0, "in", 1], [2, "in", 1], [0, "jumps", 3], [2, "jumps", 3], [0, "over", 4], [2, "over", 4]]}

@@ -1,0 +1,1 @@
+{"objects": ["car", "fire truck", "suv", "road", "fire city engine"], "relationships": [[0, "in front of", 1], [0, "on", 1]]}

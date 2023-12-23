@@ -1,0 +1,1 @@
+{"objects": ["refrigerator", "things", "front", "it", "magnets"], "relationships": [[0, "with", 1], [1, "stuck to", 2], [2, "of", 3], [1, "on", 2]]}

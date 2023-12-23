@@ -1,0 +1,1 @@
+{"objects": ["tour edinburgh bus", "which", "car", "it", "tour bus", "bus", "that"], "relationships": [[1, "with", 2], [1, "with", 4], [2, "in front of", 3], [4, "in front of", 3], [4, "behind", 5]]}

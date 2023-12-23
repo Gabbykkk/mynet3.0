@@ -1,0 +1,1 @@
+{"objects": ["assessment appeal", "bed", "dog", "documents", "paper", "handbook", "tax assessment", "appeals"], "relationships": [[0, "titled", 1], [1, "on", 2], [0, "titled", 3]]}

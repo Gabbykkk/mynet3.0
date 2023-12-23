@@ -1,0 +1,1 @@
+{"objects": ["pipe right", "connector", "pipe", "cap", "object"], "relationships": [[0, "of", 1], [0, "with", 1], [1, "closest to", 2]]}

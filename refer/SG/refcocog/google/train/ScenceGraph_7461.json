@@ -1,0 +1,1 @@
+{"objects": ["infant lays", "back", "space", "itself", "teddy bear", "baby", "bed"], "relationships": [[0, "on", 1], [4, "on", 1], [1, "with", 2], [2, "between", 3], [0, "in", 1]]}

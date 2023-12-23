@@ -1,0 +1,1 @@
+{"objects": ["toothbrushes", "glass", "coaster", "that"], "relationships": [[0, "on top of", 1], [2, "holding", 3]]}

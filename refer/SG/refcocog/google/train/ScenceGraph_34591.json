@@ -1,0 +1,1 @@
+{"objects": ["baby", "mouse", "keyboard", "hands"], "relationships": [[0, "for", 1], [0, "for", 2]]}

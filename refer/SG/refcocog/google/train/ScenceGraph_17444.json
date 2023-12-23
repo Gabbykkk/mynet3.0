@@ -1,0 +1,1 @@
+{"objects": ["backside view", "skoda car", "band", "companies", "it", "radioshack", "leopard", "trek", "that", "bikes", "roof", "car"], "relationships": [[0, "of", 1], [0, "with", 2], [2, "of", 3], [3, "across", 4], [0, "like", 5], [0, "like", 6], [8, "has", 9], [9, "on", 10], [1, "has", 2], [2, "on", 3]]}

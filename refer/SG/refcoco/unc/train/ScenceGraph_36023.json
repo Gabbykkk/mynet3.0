@@ -1,0 +1,1 @@
+{"objects": ["girl", "coach", "camera", "pumpkin shirt", "shirt pumpkin girl"], "relationships": [[0, "next to", 1], [1, "facing", 2], [2, "wearing", 3], [0, "with", 1]]}

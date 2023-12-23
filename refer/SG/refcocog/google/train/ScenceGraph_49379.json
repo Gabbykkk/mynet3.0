@@ -1,0 +1,1 @@
+{"objects": ["this", "ship", "ocean", "horizon"], "relationships": [[0, "is", 1], [1, "in", 2], [0, "on", 1]]}

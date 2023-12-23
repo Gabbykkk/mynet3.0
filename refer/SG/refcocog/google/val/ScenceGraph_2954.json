@@ -1,0 +1,1 @@
+{"objects": ["girl", "top", "video game", "game video controller", "hands"], "relationships": [[0, "in", 1], [0, "playing", 2], [0, "with", 1], [1, "in", 2]]}

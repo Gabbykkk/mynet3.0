@@ -1,0 +1,1 @@
+{"objects": ["man", "pants", "shirt", "stars", "it", "string instrument", "cowboy hat", "bass"], "relationships": [[0, "in", 1], [2, "in", 1], [2, "with", 3], [4, "holding", 5], [0, "leaning on", 2]]}

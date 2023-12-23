@@ -1,0 +1,1 @@
+{"objects": ["dish", "liquid sauce", "sauce dish", "creamy sauce", "ramekin", "dessert"], "relationships": [[0, "holding", 1], [0, "behind", 2], [2, "holding", 3]]}

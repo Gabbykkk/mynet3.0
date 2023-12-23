@@ -1,0 +1,1 @@
+{"objects": ["bus", "people", "bicycles", "plaza approaches", "side", "troupe", "bicyclists"], "relationships": [[0, "behind", 1], [1, "on", 2], [0, "for", 1], [1, "along", 2], [2, "of", 3], [3, "of", 4]]}

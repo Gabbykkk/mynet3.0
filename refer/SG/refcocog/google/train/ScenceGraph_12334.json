@@ -1,0 +1,1 @@
+{"objects": ["car window", "which", "driver", "cars", "view", "seat", "street"], "relationships": [[2, "in", 1], [2, "see", 3], [0, "through", 1], [1, "of", 2]]}

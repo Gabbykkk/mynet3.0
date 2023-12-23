@@ -1,0 +1,1 @@
+{"objects": ["tennis balls", "one", "line", "right"], "relationships": [[0, "except", 1], [0, "except", 3], [1, "touching", 2], [3, "touching", 2], [3, "on", 4]]}

@@ -1,0 +1,1 @@
+{"objects": ["airplane", "truck", "wing", "man", "safety vest", "it"], "relationships": [[0, "with", 1], [3, "with", 1], [1, "under", 2], [3, "wearing", 4]]}

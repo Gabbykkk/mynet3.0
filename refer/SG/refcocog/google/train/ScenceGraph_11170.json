@@ -1,0 +1,1 @@
+{"objects": ["woman", "shirt", "hand", "food", "chef", "ingredient bowl"], "relationships": [[0, "in", 1], [0, "reaching", 2], [0, "towards", 3], [0, "with", 1], [1, "into", 2]]}

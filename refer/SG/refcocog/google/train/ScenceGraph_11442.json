@@ -1,0 +1,1 @@
+{"objects": ["profile car", "motorcycle", "svt mustang cobra", "traffic"], "relationships": [[0, "following", 1], [0, "sits in", 1]]}

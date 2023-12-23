@@ -1,0 +1,1 @@
+{"objects": ["van", "pedestrian cross", "van drives", "city crosswalk"], "relationships": [[0, "passing", 1], [0, "through", 1]]}

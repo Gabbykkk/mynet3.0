@@ -1,0 +1,1 @@
+{"objects": ["wall clock", "london time", "clocks", "times", "cities", "clock", "wall"], "relationships": [[0, "showing", 1], [0, "next to", 2], [2, "showing", 3], [3, "for", 4], [0, "on", 1]]}

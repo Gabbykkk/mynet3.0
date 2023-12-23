@@ -1,0 +1,1 @@
+{"objects": ["bat", "batter", "holdig", "right", "s", "arm"], "relationships": [[1, "is", 2], [0, "under", 1], [0, "left", 2]]}

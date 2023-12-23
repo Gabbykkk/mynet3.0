@@ -1,0 +1,1 @@
+{"objects": ["piece", "metal", "numbers", "lights", "camera", "light", "bottom", "traffic light"], "relationships": [[0, "of", 1], [0, "with", 2], [2, "below behind", 3], [0, "under", 1]]}

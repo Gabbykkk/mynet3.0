@@ -1,0 +1,1 @@
+{"objects": ["clock", "that", "it", "noi", "wall", "ha noi"], "relationships": [[1, "says", 2], [0, "on", 1], [1, "with", 2], [0, "beneath", 3]]}

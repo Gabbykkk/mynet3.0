@@ -1,0 +1,1 @@
+{"objects": ["pot", "bottom", "rack", "view", "microwave", "aluminum saucepan", "pans"], "relationships": [[0, "in", 1], [1, "of", 2], [0, "blocking", 3], [3, "of", 4], [0, "on top of", 1]]}

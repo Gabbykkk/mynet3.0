@@ -1,0 +1,1 @@
+{"objects": ["shot", "imac", "that", "photo", "penguin", "it", "apple computer", "screen"], "relationships": [[0, "of", 1], [2, "has", 3], [3, "of", 4], [4, "on", 5], [0, "with", 1]]}

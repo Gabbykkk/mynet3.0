@@ -1,0 +1,1 @@
+{"objects": ["guitar player", "fireplace", "guy", "right", "guitar"], "relationships": [[0, "in front of", 1], [0, "from", 1], [0, "with", 2], [0, "second from", 1]]}

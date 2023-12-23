@@ -1,0 +1,1 @@
+{"objects": ["person", "tee shirt", "rain", "woman", "umbrella", "man", "ladies", "who", "umbrellas"], "relationships": [[0, "in", 1], [0, "through", 2], [3, "with", 4], [0, "without", 1], [0, "with", 2], [3, "have", 4]]}

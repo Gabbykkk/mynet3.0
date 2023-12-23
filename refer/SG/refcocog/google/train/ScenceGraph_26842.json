@@ -1,0 +1,1 @@
+{"objects": ["oven", "that", "metal", "stove", "steel"], "relationships": [[1, "is", 2], [2, "under", 3]]}

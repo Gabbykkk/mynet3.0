@@ -1,0 +1,1 @@
+{"objects": ["man", "beach", "kite", "track jacket", "handle"], "relationships": [[0, "on", 1], [0, "flying", 2], [0, "in", 1], [1, "holding onto", 2], [2, "of", 3]]}

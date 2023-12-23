@@ -1,0 +1,1 @@
+{"objects": ["motorcycle", "street", "curve"], "relationships": [[0, "sitting on", 1], [0, "next to", 1]]}

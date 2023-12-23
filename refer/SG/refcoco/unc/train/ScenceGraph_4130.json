@@ -1,0 +1,1 @@
+{"objects": ["man", "audience", "player", "hand", "chin", "front chin row", "blurry man", "face"], "relationships": [[0, "in", 1], [0, "behind", 2], [0, "with", 3], [0, "on", 4], [0, "with", 1], [0, "on", 2]]}

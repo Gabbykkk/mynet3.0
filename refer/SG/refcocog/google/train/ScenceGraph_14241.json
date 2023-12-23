@@ -1,0 +1,1 @@
+{"objects": ["cardinals player", "glove", "hand", "bench", "man", "camera"], "relationships": [[0, "with", 1], [1, "on", 2], [0, "sitting on", 3], [0, "at", 1]]}

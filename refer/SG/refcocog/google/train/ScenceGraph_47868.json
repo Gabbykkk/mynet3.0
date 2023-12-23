@@ -1,0 +1,1 @@
+{"objects": ["bathroom counter", "bamboo trays", "side", "it", "bathroom", "racks"], "relationships": [[0, "has", 1], [1, "on", 2], [2, "of", 3], [0, "with", 1]]}

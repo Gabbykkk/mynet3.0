@@ -1,0 +1,1 @@
+{"objects": ["picture", "man", "squiggles", "eyes", "star", "face"], "relationships": [[0, "of", 1], [0, "of", 4], [1, "with", 2], [4, "with", 2], [1, "thru", 3], [4, "thru", 3], [4, "against", 5]]}

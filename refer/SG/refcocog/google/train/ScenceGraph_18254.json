@@ -1,0 +1,1 @@
+{"objects": ["spirit", "bed", "ghost"], "relationships": [[0, "on", 1], [0, "sleeping on", 1]]}

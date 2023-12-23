@@ -1,0 +1,1 @@
+{"objects": ["table", "metal appliance", "counter", "right"], "relationships": [[0, "adjacent to", 1], [0, "on", 1]]}

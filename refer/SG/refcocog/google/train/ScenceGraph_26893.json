@@ -1,0 +1,1 @@
+{"objects": ["hair hand", "finger", "piece", "cake", "hand", "something"], "relationships": [[0, "pointed", 1], [0, "towards", 2], [2, "of", 3], [0, "at", 1]]}

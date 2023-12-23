@@ -1,0 +1,1 @@
+{"objects": ["goat", "ram", "hill", "day", "ram companions"], "relationships": [[0, "on", 2], [2, "among", 3]]}

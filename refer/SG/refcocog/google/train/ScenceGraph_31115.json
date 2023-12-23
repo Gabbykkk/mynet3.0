@@ -1,0 +1,1 @@
+{"objects": ["stone wall", "line", "coulumn", "that", "plants"], "relationships": [[1, "from", 2], [2, "sitting on", 1]]}

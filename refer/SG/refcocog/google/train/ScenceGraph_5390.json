@@ -1,0 +1,1 @@
+{"objects": ["bird", "feathers", "right", "birds", "duck", "side", "picture", "back", "camera"], "relationships": [[0, "preening", 1], [0, "to", 2], [2, "of", 3], [0, "on", 1], [1, "of", 2], [0, "with", 3], [3, "to", 4]]}

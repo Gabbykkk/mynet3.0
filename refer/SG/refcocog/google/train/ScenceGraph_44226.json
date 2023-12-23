@@ -1,0 +1,1 @@
+{"objects": ["boy", "bed", "mother", "him", "brother", "side", "kid", "hands", "head"], "relationships": [[0, "in", 1], [2, "beside", 3], [4, "laying on", 5], [0, "laying on", 1], [0, "laying", 2], [0, "on", 3]]}

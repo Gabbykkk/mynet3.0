@@ -1,0 +1,1 @@
+{"objects": ["back", "bike", "tire gold guard", "it", "tray", "top", "things"], "relationships": [[0, "of", 1], [0, "with", 2], [2, "on", 3], [0, "with", 4], [4, "on", 5], [4, "carry", 6]]}

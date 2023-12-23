@@ -1,0 +1,1 @@
+{"objects": ["automobile", "curb", "sidewalk", "carriage", "horse", "suv"], "relationships": [[0, "next to", 1], [1, "of", 2]]}

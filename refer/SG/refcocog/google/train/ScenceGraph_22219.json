@@ -1,0 +1,1 @@
+{"objects": ["man", "moto bike", "racer", "dirtbike", "turn", "race"], "relationships": [[0, "riding", 1], [0, "on", 1], [1, "making", 2], [1, "during", 3]]}

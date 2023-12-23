@@ -1,0 +1,1 @@
+{"objects": ["elephant", "baby", "her", "side", "adult elephant", "baby elephant", "adult", "backside", "picture"], "relationships": [[0, "with", 1], [0, "against", 2], [0, "of", 1], [1, "with", 2], [2, "facing", 3]]}

@@ -1,0 +1,1 @@
+{"objects": ["giraffe", "fence", "lettuce", "girl", "ponytail", "hair", "tail", "tank top", "hand"], "relationships": [[0, "behind", 1], [3, "with", 4], [0, "with", 1], [3, "with", 1], [0, "in", 2], [3, "in", 2], [3, "in", 5]]}

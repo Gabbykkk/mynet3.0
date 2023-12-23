@@ -1,0 +1,1 @@
+{"objects": ["fireman dresses", "uniform", "scene", "firefighter", "street"], "relationships": [[0, "in", 1], [0, "away from", 2], [0, "walking on", 1]]}

@@ -1,0 +1,1 @@
+{"objects": ["hotdog", "hamburgers", "that", "tongs", "sausage link", "patty", "bottom", "left", "links"], "relationships": [[2, "touching", 3], [0, "under", 1], [3, "of", 4]]}

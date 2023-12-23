@@ -1,0 +1,1 @@
+{"objects": ["man", "moped", "street", "phone", "aman", "bike seat", "cell phone"], "relationships": [[0, "sitting on", 1], [0, "in", 2], [0, "on", 3], [0, "sitting", 1]]}

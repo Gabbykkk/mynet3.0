@@ -1,0 +1,1 @@
+{"objects": ["train", "smoke", "photographer"], "relationships": [[0, "blowing", 1], [1, "towards", 2]]}

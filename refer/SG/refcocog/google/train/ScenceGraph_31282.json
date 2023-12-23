@@ -1,0 +1,1 @@
+{"objects": ["motor bike", "motor bikes", "wheel", "right", "honda motorcycle", "grass", "couple", "motorcycles", "cars"], "relationships": [[0, "amongst", 1], [0, "with", 2], [2, "facing", 3], [0, "on", 1], [0, "in front of", 2], [0, "in front of", 4], [2, "of", 3], [4, "of", 3]]}

@@ -1,0 +1,1 @@
+{"objects": ["girl", "who", "giraffe tongue", "tongue", "shirt", "glasses", "head", "giraffe"], "relationships": [[1, "touches", 2], [1, "with", 3], [0, "wearing", 1], [0, "with", 2], [0, "on", 3], [0, "kissing", 4]]}

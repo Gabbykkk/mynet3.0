@@ -1,0 +1,1 @@
+{"objects": ["scooter", "bottom", "area", "feet", "space", "seat", "handlebars", "motorbike"], "relationships": [[0, "on", 1], [0, "between", 1], [0, "between", 2], [0, "on", 3]]}

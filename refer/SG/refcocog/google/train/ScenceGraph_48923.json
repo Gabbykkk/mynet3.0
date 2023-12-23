@@ -1,0 +1,1 @@
+{"objects": ["tennis women judge", "outfit", "shoes", "hat", "man", "cap", "jacket", "pants"], "relationships": [[0, "wear", 1], [1, "with", 2], [1, "with", 3], [0, "with", 1], [0, "with", 2]]}

@@ -1,0 +1,1 @@
+{"objects": ["woman", "outfit", "rope", "horse", "hair", "jacket", "jeans", "boots", "dirt surface", "horse reins"], "relationships": [[0, "in", 1], [0, "holding", 2], [0, "for", 3], [0, "with", 1], [0, "wearing", 2], [0, "wearing", 3], [2, "walking on", 5], [3, "walking on", 5]]}

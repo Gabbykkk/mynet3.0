@@ -1,0 +1,1 @@
+{"objects": ["series", "childrens books", "cubby", "teddy bear", "middle", "compartments", "books", "bear", "s"], "relationships": [[0, "of", 1], [0, "in", 2], [2, "next to", 3], [1, "of", 2], [1, "behind", 3], [1, "behind", 4]]}

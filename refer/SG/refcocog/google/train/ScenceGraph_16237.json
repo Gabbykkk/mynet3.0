@@ -1,0 +1,1 @@
+{"objects": ["man", "polo shirt", "video game", "polo", "business man", "wii"], "relationships": [[0, "wearing", 1], [0, "play", 3], [0, "in", 1], [0, "watches", 2]]}

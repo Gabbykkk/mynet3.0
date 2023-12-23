@@ -1,0 +1,1 @@
+{"objects": ["decker buss", "stripe", "street", "decker bus", "hoarding", "center"], "relationships": [[0, "with", 1], [1, "down", 2], [1, "in", 2]]}

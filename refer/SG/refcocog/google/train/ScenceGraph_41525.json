@@ -1,0 +1,1 @@
+{"objects": ["man", "tie", "skull", "crossbones", "water", "bottle", "person", "shirt", "skull tie", "aviators", "drink"], "relationships": [[0, "with", 1], [1, "with", 2], [1, "with", 3], [0, "drinking", 4], [0, "from", 5], [0, "in", 1], [2, "taking", 4], [3, "taking", 4], [4, "of", 5]]}

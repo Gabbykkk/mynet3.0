@@ -1,0 +1,1 @@
+{"objects": ["counter top", "pizza", "counter"], "relationships": [[0, "holds", 1]]}

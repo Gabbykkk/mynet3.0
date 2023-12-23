@@ -1,0 +1,1 @@
+{"objects": ["city bus", "london", "bus", "that", "word", "victoria", "front"], "relationships": [[0, "from", 1], [1, "has", 2], [3, "written in", 4]]}

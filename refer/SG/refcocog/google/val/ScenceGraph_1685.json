@@ -1,0 +1,1 @@
+{"objects": ["part", "giraffe", "itself", "girl", "shirt"], "relationships": [[0, "of", 1], [0, "by", 1], [0, "closest to", 2], [2, "in", 3]]}

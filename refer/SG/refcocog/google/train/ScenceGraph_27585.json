@@ -1,0 +1,1 @@
+{"objects": ["man", "pizza cutter", "woman", "shirt", "scarf", "pizza"], "relationships": [[0, "near", 1], [0, "in", 1], [0, "wearing", 2], [2, "behind", 3]]}

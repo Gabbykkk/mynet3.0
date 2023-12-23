@@ -1,0 +1,1 @@
+{"objects": ["rectangle", "computer program", "sidebars", "image", "bottom", "computer screen", "email client"], "relationships": [[0, "showing", 1], [0, "with", 2], [0, "at", 1], [1, "of", 2], [2, "of", 3]]}

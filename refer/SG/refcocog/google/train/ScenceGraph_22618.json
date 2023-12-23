@@ -1,0 +1,1 @@
+{"objects": ["chair", "porch", "back chair", "patio", "another", "style", "plastic chair", "cat"], "relationships": [[0, "on", 1], [0, "sits on", 1]]}

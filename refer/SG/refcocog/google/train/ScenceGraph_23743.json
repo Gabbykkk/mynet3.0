@@ -1,0 +1,1 @@
+{"objects": ["laptop", "silver", "keys"], "relationships": [[0, "opened", 1], [0, "with", 2]]}

@@ -1,0 +1,1 @@
+{"objects": ["woman", "girls", "slice", "pizza"], "relationships": [[0, "above", 1], [1, "of", 2], [0, "behind", 1]]}

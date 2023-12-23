@@ -1,0 +1,1 @@
+{"objects": ["seagull", "that", "it", "wings", "bird", "water"], "relationships": [[1, "has", 2], [0, "on", 1]]}

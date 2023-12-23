@@ -1,0 +1,1 @@
+{"objects": ["arm", "pic", "camera", "foreground"], "relationships": [[0, "taking", 1], [0, "with", 1]]}

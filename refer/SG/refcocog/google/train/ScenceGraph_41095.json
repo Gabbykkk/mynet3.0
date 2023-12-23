@@ -1,0 +1,1 @@
+{"objects": ["decker bus", "stripe", "bottom", "truck", "story bus", "tow truck", "it"], "relationships": [[0, "with", 1], [1, "on", 2], [2, "behind", 3], [1, "in front of", 2]]}

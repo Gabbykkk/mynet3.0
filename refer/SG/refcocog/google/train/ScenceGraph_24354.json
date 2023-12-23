@@ -1,0 +1,1 @@
+{"objects": ["cargo carts", "train furthest", "station", "cargo car", "train", "left", "signpost"], "relationships": [[0, "of", 1], [1, "away from", 2], [0, "on", 2], [0, "next to", 3]]}

@@ -1,0 +1,1 @@
+{"objects": ["metal chairr", "cushion", "deck", "chair", "back", "trailer", "that", "part", "parade", "clowns", "motorcycles"], "relationships": [[0, "with", 1], [0, "on", 2], [0, "on", 1], [1, "of", 2], [3, "is", 4], [4, "of", 5], [6, "has", 7], [7, "on", 8]]}

@@ -1,0 +1,1 @@
+{"objects": ["toothbrush", "toothpaste", "toothbrushes", "sink"], "relationships": [[0, "closest to", 1], [0, "among", 1], [0, "on", 2]]}

@@ -1,0 +1,1 @@
+{"objects": ["area", "cats", "blacket", "cat"], "relationships": [[0, "above", 1], [0, "under", 1]]}

@@ -1,0 +1,1 @@
+{"objects": ["boy", "cake", "container", "shirt", "tie", "apron"], "relationships": [[0, "squeezing", 1], [0, "inside of", 2], [0, "wearing", 1], [0, "wearing", 2]]}

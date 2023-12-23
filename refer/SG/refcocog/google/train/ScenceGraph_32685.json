@@ -1,0 +1,1 @@
+{"objects": ["lady officer", "uniform suite", "officer", "man", "tantrums", "hands", "woman", "hair", "jacket"], "relationships": [[0, "in", 1], [1, "next to", 2], [0, "watching", 3], [3, "showing", 4], [3, "with", 5], [0, "with", 1], [1, "in", 2]]}

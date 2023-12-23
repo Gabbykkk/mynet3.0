@@ -1,0 +1,1 @@
+{"objects": ["man", "head", "part", "face"], "relationships": [[0, "see", 1], [0, "of", 1]]}

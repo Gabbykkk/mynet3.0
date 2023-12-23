@@ -1,0 +1,1 @@
+{"objects": ["giraffes", "park", "sign post", "giraffe", "sign"], "relationships": [[0, "in", 1], [0, "closer to", 1]]}

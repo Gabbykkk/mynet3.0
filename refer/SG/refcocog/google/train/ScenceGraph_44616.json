@@ -1,0 +1,1 @@
+{"objects": ["lady", "kite", "kid", "dog", "denim", "t color shirt", "sand land", "man", "thread"], "relationships": [[0, "fly", 1], [2, "wearing", 4], [2, "wearing", 5], [3, "wearing", 4], [3, "wearing", 5], [2, "on", 6], [3, "on", 6], [0, "with", 1], [1, "of", 2]]}

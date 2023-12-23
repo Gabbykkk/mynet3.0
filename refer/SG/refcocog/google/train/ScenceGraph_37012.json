@@ -1,0 +1,1 @@
+{"objects": ["park ranger", "uniform", "hat", "man", "who", "color hat"], "relationships": [[0, "in", 1], [0, "wearing", 2], [1, "wearing", 2]]}

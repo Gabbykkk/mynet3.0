@@ -1,0 +1,1 @@
+{"objects": ["player", "bat", "baseball", "summo wrestler"], "relationships": [[0, "holding", 1]]}

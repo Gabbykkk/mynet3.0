@@ -1,0 +1,1 @@
+{"objects": ["granite countertop", "that", "bar stools", "it", "side", "bar"], "relationships": [[1, "has", 2], [2, "at", 3], [0, "of", 1], [1, "with", 2], [0, "next to", 3]]}

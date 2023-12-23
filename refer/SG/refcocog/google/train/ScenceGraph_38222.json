@@ -1,0 +1,1 @@
+{"objects": ["level", "bench", "gym"], "relationships": [[0, "seating", 1], [0, "in", 2]]}

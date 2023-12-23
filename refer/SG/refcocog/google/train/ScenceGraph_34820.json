@@ -1,0 +1,1 @@
+{"objects": ["section", "dictionary", "part", "entry", "aquarium", "picture"], "relationships": [[0, "of", 1], [0, "including", 2], [2, "of", 3], [3, "for", 4]]}

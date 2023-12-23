@@ -1,0 +1,1 @@
+{"objects": ["right", "group", "scissors", "handles", "scissor"], "relationships": [[0, "of", 1], [1, "of", 2], [0, "has", 3]]}

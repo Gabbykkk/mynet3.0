@@ -1,0 +1,1 @@
+{"objects": ["man", "suit", "hands", "tman", "soldiers", "tie"], "relationships": [[0, "in", 1], [0, "shacking", 2], [0, "shaking", 1]]}

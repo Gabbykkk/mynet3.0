@@ -1,0 +1,1 @@
+{"objects": ["bride", "veil", "wedding dress", "end", "motorcycle", "husband", "lady", "dress"], "relationships": [[0, "wearing", 1], [0, "wearing", 2], [2, "on", 3], [3, "of", 4], [4, "with", 5]]}

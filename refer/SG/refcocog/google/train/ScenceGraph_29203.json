@@ -1,0 +1,1 @@
+{"objects": ["wheeler truck", "tractor trailer", "truck", "back", "picture"], "relationships": [[0, "with", 1], [0, "between", 1], [0, "in", 2], [2, "of", 3]]}

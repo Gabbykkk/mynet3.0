@@ -1,0 +1,1 @@
+{"objects": ["center", "tie", "looks", "cans"], "relationships": [[0, "on", 1], [1, "like", 2]]}

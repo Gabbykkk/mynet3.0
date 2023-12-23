@@ -1,0 +1,1 @@
+{"objects": ["side", "bathroom", "urinal", "air freshener", "drain"], "relationships": [[0, "in", 1], [0, "with", 1], [1, "inside", 2]]}

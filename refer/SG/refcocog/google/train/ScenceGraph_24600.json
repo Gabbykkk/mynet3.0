@@ -1,0 +1,1 @@
+{"objects": ["mixing bowl", "temperature sensor", "steel vessel", "laptop", "kitchen", "switch board"], "relationships": [[0, "holding", 1], [0, "next to", 1], [0, "next in", 2]]}

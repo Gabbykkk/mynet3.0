@@ -1,0 +1,1 @@
+{"objects": ["glass", "plate", "donuts", "water glass", "donut plate"], "relationships": [[0, "behind", 1], [1, "of", 2]]}

@@ -1,0 +1,1 @@
+{"objects": ["bus", "words pentreband", "canton", "it", "route"], "relationships": [[0, "with", 1], [1, "via", 2], [0, "on", 3], [0, "on", 1]]}

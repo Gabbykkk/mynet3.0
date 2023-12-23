@@ -1,0 +1,1 @@
+{"objects": ["keyboard", "elaptop", "that", "markings", "stickers", "rest wrist area"], "relationships": [[0, "on", 1], [2, "has", 3], [2, "has", 4], [3, "in", 5], [4, "in", 5]]}

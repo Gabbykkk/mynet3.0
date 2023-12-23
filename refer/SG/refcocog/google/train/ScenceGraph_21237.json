@@ -1,0 +1,1 @@
+{"objects": ["table", "that", "cameras", "it", "camera equipment"], "relationships": [[1, "has", 2], [2, "to", 3]]}

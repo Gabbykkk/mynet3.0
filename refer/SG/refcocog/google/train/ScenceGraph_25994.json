@@ -1,0 +1,1 @@
+{"objects": ["front", "ship", "navy stripe", "stripe", "it", "float object", "boat", "floater"], "relationships": [[0, "of", 1], [5, "of", 1], [1, "with", 2], [2, "with", 3], [3, "under", 4], [5, "from", 6], [0, "with", 1], [1, "in front of", 2]]}

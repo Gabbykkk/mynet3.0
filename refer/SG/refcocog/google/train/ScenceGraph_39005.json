@@ -1,0 +1,1 @@
+{"objects": ["skateboarder", "helmet", "shirt", "man", "skate", "board grab"], "relationships": [[0, "with", 1], [2, "with", 1], [0, "in", 1], [0, "doing", 2]]}

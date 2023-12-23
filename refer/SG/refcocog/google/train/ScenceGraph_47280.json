@@ -1,0 +1,1 @@
+{"objects": ["chef", "face", "tongue", "restaurant chef"], "relationships": [[0, "making", 1], [1, "with", 2], [0, "sticking", 1]]}

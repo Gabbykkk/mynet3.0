@@ -1,0 +1,1 @@
+{"objects": ["bowl", "fron", "tof", "man", "that", "metal tray", "fire", "dish", "stand"], "relationships": [[0, "in", 1], [4, "sitting on", 5], [5, "with", 6], [0, "atop", 1]]}

@@ -1,0 +1,1 @@
+{"objects": ["pizza directl", "slice", "plate", "section", "pizza", "side", "part"], "relationships": [[0, "opposite", 1], [1, "on", 2], [0, "of", 1], [0, "on", 2]]}

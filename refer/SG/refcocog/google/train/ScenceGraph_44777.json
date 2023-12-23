@@ -1,0 +1,1 @@
+{"objects": ["zebra", "dirt trail", "profile"], "relationships": [[0, "on", 2], [0, "has", 1]]}

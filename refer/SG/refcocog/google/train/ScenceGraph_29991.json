@@ -1,0 +1,1 @@
+{"objects": ["man", "rashguard", "beach", "object", "hands", "thighs", "suit", "surfboard"], "relationships": [[0, "wearing", 1], [0, "on", 2], [0, "sitting on", 3], [0, "with", 4], [4, "on", 5], [0, "in", 1], [0, "beside", 2]]}

@@ -1,0 +1,1 @@
+{"objects": ["pillows", "sofa", "laptop", "person", "shirt", "pillow"], "relationships": [[0, "laying on", 1], [1, "next to", 2], [0, "with", 1], [0, "with", 2]]}

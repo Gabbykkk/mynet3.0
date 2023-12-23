@@ -1,0 +1,1 @@
+{"objects": ["photo", "woman", "friend", "girl", "hair", "camera"], "relationships": [[0, "of", 1], [1, "sitting with", 2], [0, "with", 1], [0, "looks into", 2]]}

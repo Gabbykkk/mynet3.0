@@ -1,0 +1,1 @@
+{"objects": ["back table", "wall", "table", "table cloth", "boxes", "it"], "relationships": [[0, "parallel to", 1], [0, "in", 1], [0, "with", 2], [2, "on", 3]]}

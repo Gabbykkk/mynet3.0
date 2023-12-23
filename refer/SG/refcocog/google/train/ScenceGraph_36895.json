@@ -1,0 +1,1 @@
+{"objects": ["bear", "door", "fridge", "refrigerator door"], "relationships": [[0, "atop", 1], [1, "of", 2]]}

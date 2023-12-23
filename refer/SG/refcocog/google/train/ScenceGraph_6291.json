@@ -1,0 +1,1 @@
+{"objects": ["cake", "wall", "tissue box", "table"], "relationships": [[0, "near", 1], [0, "in front of", 2], [0, "in", 1]]}

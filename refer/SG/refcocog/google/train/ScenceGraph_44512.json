@@ -1,0 +1,1 @@
+{"objects": ["pairs", "feet", "socks", "man", "skateboard", "motion", "lining"], "relationships": [[0, "of", 1], [0, "wearing", 2], [0, "behind", 3], [3, "sitting on", 4], [3, "in", 5], [0, "with", 1], [1, "with", 2]]}

@@ -1,0 +1,1 @@
+{"objects": ["person", "bicycle", "ramp", "garage", "scarf", "skirt", "scooter", "storage facility"], "relationships": [[0, "wheeling", 1], [0, "up", 2], [0, "into", 3], [0, "wearing", 1], [0, "wearing", 2], [0, "rolling", 3], [0, "up", 4], [0, "into", 5]]}

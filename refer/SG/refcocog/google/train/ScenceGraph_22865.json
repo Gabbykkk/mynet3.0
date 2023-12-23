@@ -1,0 +1,1 @@
+{"objects": ["bamboo chair", "cats", "chair", "rope", "corners", "middle", "fabric seat"], "relationships": [[0, "behind", 1], [0, "with", 1], [0, "around", 2], [0, "around", 3]]}

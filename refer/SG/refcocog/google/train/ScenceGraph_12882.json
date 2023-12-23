@@ -1,0 +1,1 @@
+{"objects": ["sink", "metal drain", "center", "hair drier"], "relationships": [[0, "with", 1], [1, "visible at", 2], [0, "furthest from", 1]]}

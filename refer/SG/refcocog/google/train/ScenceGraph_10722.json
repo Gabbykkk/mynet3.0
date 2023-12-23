@@ -1,0 +1,1 @@
+{"objects": ["white sink", "camera", "wash basin", "side"], "relationships": [[0, "nearest", 1], [0, "first from", 1]]}

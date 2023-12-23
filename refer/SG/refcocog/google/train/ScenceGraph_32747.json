@@ -1,0 +1,1 @@
+{"objects": ["man", "shirt", "dinner beer", "glasses", "blue", "white", "beer bottle", "left", "girl", "who", "him"], "relationships": [[0, "in", 1], [0, "with", 1], [0, "with", 2], [0, "with", 3], [0, "stripped", 4], [4, "holding", 5], [4, "to", 6], [6, "of", 7]]}

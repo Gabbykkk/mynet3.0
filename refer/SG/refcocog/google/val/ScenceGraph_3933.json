@@ -1,0 +1,1 @@
+{"objects": ["metal bowl", "bowl", "metal rods", "ends", "it", "bottom"], "relationships": [[1, "with", 2], [2, "with", 3], [3, "supporting", 4], [3, "from", 5]]}

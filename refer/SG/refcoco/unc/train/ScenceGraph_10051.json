@@ -1,0 +1,1 @@
+{"objects": ["screen", "cover", "lot", "code", "it", "monitor"], "relationships": [[0, "towards", 1], [0, "has", 2], [2, "of", 3], [2, "on", 4]]}

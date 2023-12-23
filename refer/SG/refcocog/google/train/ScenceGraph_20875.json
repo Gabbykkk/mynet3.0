@@ -1,0 +1,1 @@
+{"objects": ["clock", "hexagon", "o"], "relationships": [[0, "like", 1], [1, "showing", 2], [1, "showing", 3], [0, "showing", 1], [0, "showing", 2]]}

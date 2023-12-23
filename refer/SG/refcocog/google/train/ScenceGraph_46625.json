@@ -1,0 +1,1 @@
+{"objects": ["rearview mirror", "traffic jam", "trucks", "picture", "view mirror", "vehicle", "traffic"], "relationships": [[0, "showing", 1], [1, "with", 2], [0, "of", 1], [1, "in", 2], [2, "showing", 3], [3, "in", 4]]}

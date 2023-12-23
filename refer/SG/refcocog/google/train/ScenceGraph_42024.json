@@ -1,0 +1,1 @@
+{"objects": ["man", "guitar", "drums", "who"], "relationships": [[0, "strumming", 1], [1, "playing", 2]]}

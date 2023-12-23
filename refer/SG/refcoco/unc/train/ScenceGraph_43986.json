@@ -1,0 +1,1 @@
+{"objects": ["glare", "side", "pizza", "silver", "left", "center edge", "photo", "silver bowl", "edge"], "relationships": [[0, "on", 1], [0, "next to", 2], [1, "of", 2], [0, "left", 3], [3, "of", 4]]}

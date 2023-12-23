@@ -1,0 +1,1 @@
+{"objects": ["giraffe", "fence", "brick building", "background"], "relationships": [[0, "looking over", 1], [0, "at", 2], [0, "in", 1], [0, "looks over", 2]]}

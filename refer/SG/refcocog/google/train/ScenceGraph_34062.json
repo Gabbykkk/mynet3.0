@@ -1,0 +1,1 @@
+{"objects": ["sandwich", "poppyseed bun", "wrap", "bun", "seeds", "top", "wrapper", "market"], "relationships": [[0, "with", 1], [1, "in", 2], [0, "on", 2], [0, "in", 3], [3, "from", 4]]}

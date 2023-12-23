@@ -1,0 +1,1 @@
+{"objects": ["man", "stand", "elephant contemplating", "this", "idea", "platform", "elephant"], "relationships": [[0, "on", 1], [1, "in front of", 2], [3, "was", 4], [0, "beside", 2]]}

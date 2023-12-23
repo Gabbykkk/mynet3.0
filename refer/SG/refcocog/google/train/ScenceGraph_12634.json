@@ -1,0 +1,1 @@
+{"objects": ["veggie pizza", "plate", "pizza", "toppings", "green table"], "relationships": [[0, "sits on", 1], [0, "with", 1], [0, "sits on", 2], [2, "upon", 3]]}

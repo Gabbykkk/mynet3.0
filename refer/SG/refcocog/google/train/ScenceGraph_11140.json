@@ -1,0 +1,1 @@
+{"objects": ["ship", "distance sailing", "shore", "boat", "steam"], "relationships": [[0, "in", 1], [1, "to", 2], [0, "letting", 1]]}

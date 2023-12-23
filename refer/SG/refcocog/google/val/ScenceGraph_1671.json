@@ -1,0 +1,1 @@
+{"objects": ["bike", "sidewalk", "building"], "relationships": [[0, "near", 1], [2, "near", 1]]}

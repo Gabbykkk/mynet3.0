@@ -1,0 +1,1 @@
+{"objects": ["soup", "cat", "pieces", "cheese", "food", "that", "cats", "it"], "relationships": [[0, "with", 1], [0, "shaped", 2], [2, "of", 3], [0, "cutout", 1], [2, "like", 3], [3, "on top of", 4]]}

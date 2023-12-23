@@ -1,0 +1,1 @@
+{"objects": ["orange truck", "stop lights", "red", "truck"], "relationships": [[0, "behind", 1], [0, "pick", 1]]}

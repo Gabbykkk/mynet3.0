@@ -1,0 +1,1 @@
+{"objects": ["plane", "flag", "tail pointing", "right", "ground"], "relationships": [[0, "with", 1], [1, "on", 2], [2, "to", 3], [0, "on", 1]]}

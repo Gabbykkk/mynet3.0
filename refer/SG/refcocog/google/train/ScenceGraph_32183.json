@@ -1,0 +1,1 @@
+{"objects": ["hand towel", "handle", "stove", "boy", "oven mitt", "silver bar"], "relationships": [[0, "hangs on", 1], [1, "of", 2], [2, "behind", 3], [0, "on", 1]]}

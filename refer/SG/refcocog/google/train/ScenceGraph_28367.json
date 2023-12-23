@@ -1,0 +1,1 @@
+{"objects": ["elephant trunk", "ground", "elephant", "trunk", "barricade"], "relationships": [[0, "near", 1], [1, "over", 2]]}

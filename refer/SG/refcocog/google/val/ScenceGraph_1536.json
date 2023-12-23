@@ -1,0 +1,1 @@
+{"objects": ["cupcake", "that", "hat", "bow", "front", "side", "image"], "relationships": [[1, "like", 2], [2, "with", 3], [3, "in", 4], [0, "in", 1], [1, "of", 2]]}

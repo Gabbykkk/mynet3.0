@@ -1,0 +1,1 @@
+{"objects": ["sheets", "mirror", "bed", "side", "image"], "relationships": [[0, "furthest from", 1], [0, "in", 1], [1, "of", 2]]}

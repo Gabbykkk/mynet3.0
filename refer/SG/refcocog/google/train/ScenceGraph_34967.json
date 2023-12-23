@@ -1,0 +1,1 @@
+{"objects": ["scoop", "ice cream", "leaf", "sugar", "edge", "bowl", "mint", "top"], "relationships": [[0, "of", 1], [0, "with", 2], [2, "on", 3], [2, "on", 4], [4, "of", 5], [0, "with", 1], [1, "on", 2]]}

@@ -1,0 +1,1 @@
+{"objects": ["apple screen", "man", "webcam", "apple monitor"], "relationships": [[0, "with", 1], [1, "looking into", 2]]}

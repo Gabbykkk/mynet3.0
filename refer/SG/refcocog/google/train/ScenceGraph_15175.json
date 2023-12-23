@@ -1,0 +1,1 @@
+{"objects": ["dishwasher", "right", "kitchen sink", "washing dish machine", "cabinets"], "relationships": [[0, "on", 1], [1, "of", 2], [0, "next to", 1]]}

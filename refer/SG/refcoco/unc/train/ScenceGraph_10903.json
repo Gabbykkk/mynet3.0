@@ -1,0 +1,1 @@
+{"objects": ["man", "guy", "back", "guy guy", "headlock", "we", "arms"], "relationships": [[0, "assaulting", 1], [0, "choking", 1], [0, "in", 1], [1, "of", 2], [2, "putting", 3], [2, "on", 4], [5, "see", 6]]}

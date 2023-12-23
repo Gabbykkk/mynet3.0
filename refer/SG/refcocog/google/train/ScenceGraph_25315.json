@@ -1,0 +1,1 @@
+{"objects": ["container", "powdery substance", "sink", "lid"], "relationships": [[0, "holding", 1], [0, "next to", 2], [0, "without", 1]]}

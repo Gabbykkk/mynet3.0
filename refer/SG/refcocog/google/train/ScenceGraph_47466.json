@@ -1,0 +1,1 @@
+{"objects": ["officer", "perp", "cop", "victim", "who"], "relationships": [[0, "holding", 1], [0, "arresting", 1]]}

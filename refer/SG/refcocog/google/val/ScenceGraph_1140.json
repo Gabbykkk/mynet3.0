@@ -1,0 +1,1 @@
+{"objects": ["elephant", "that", "stick", "elephants", "plants"], "relationships": [[1, "carrying", 2], [0, "eating", 1]]}

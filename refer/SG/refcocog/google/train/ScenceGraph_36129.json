@@ -1,0 +1,1 @@
+{"objects": ["motorbike", "rider", "planks", "rowboats", "girl", "it", "they", "boat"], "relationships": [[0, "with", 1], [1, "on", 2], [2, "atop", 3], [0, "sitting on", 1]]}

@@ -1,0 +1,1 @@
+{"objects": ["lid", "container"], "relationships": [[0, "under", 1], [0, "on", 1]]}

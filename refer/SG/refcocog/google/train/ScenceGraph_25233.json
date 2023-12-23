@@ -1,0 +1,1 @@
+{"objects": ["elephant", "rear", "procession", "group", "elephants"], "relationships": [[0, "in", 1], [1, "of", 2], [0, "behind", 1]]}

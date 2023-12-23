@@ -1,0 +1,1 @@
+{"objects": ["elephant", "dirt road", "path", "vehicle"], "relationships": [[0, "leading", 1], [1, "across", 2], [0, "crossing", 1]]}

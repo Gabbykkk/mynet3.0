@@ -1,0 +1,1 @@
+{"objects": ["group", "crots", "seasoning", "slices", "carrots", "meat", "vegetables"], "relationships": [[0, "of", 1], [0, "with", 2], [0, "by", 2], [0, "by", 3]]}

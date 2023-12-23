@@ -1,0 +1,1 @@
+{"objects": ["motorcycle", "chrome finish", "helmet", "handlebar", "headers", "exhaust", "handle bars"], "relationships": [[0, "with", 1], [2, "off", 3], [4, "off", 3], [4, "to", 5]]}

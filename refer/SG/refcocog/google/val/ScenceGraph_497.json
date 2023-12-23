@@ -1,0 +1,1 @@
+{"objects": ["newspaper", "table", "tv remotes", "it"], "relationships": [[0, "on", 1], [0, "with", 1], [1, "on top of", 2]]}

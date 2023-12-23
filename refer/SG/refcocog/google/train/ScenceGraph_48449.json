@@ -1,0 +1,1 @@
+{"objects": ["broccoli", "bit", "that"], "relationships": [[0, "under", 1], [0, "of", 1], [2, "under", 3], [3, "of", 4]]}

@@ -1,0 +1,1 @@
+{"objects": ["truck", "gas pump", "fuel truck", "cab", "tank"], "relationships": [[0, "next to", 1], [0, "with", 1], [0, "with", 2]]}

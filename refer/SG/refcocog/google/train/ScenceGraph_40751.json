@@ -1,0 +1,1 @@
+{"objects": ["infant giraffe", "ground", "adult giraffe", "baby giraffe", "giraffe"], "relationships": [[0, "on", 1], [0, "below", 2], [0, "next to", 1]]}

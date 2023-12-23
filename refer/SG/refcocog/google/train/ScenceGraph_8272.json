@@ -1,0 +1,1 @@
+{"objects": ["sandwich", "jack colby cheese", "tomato", "bread", "part", "knife", "cheese"], "relationships": [[0, "with", 1], [0, "with", 2], [0, "on", 3], [0, "of", 1]]}

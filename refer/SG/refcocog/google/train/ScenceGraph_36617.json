@@ -1,0 +1,1 @@
+{"objects": ["man", "who", "eye", "t color shirt", "selfie", "girl friend", "hotel", "shirt", "camera"], "relationships": [[1, "having", 2], [0, "taking", 4], [0, "with", 5], [5, "in", 6], [0, "in", 1], [0, "facing", 2]]}

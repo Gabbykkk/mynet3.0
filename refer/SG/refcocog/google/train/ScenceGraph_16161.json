@@ -1,0 +1,1 @@
+{"objects": ["refridgator", "lot", "stickers", "front", "fridge", "magnets"], "relationships": [[0, "with", 1], [1, "of", 2], [1, "on", 3], [0, "complete with", 1], [0, "complete with", 2]]}

@@ -1,0 +1,1 @@
+{"objects": ["taxi", "right", "view mirror", "someone", "selfie", "taxi cab", "tail lights", "mirror"], "relationships": [[0, "to", 1], [1, "of", 2], [3, "taking", 4]]}

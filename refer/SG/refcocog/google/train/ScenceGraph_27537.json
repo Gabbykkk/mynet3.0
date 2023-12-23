@@ -1,0 +1,1 @@
+{"objects": ["tier", "birthday cake", "part", "balls", "bottom", "bow", "top"], "relationships": [[0, "of", 1], [0, "of", 4], [1, "with", 2], [4, "with", 2], [2, "on", 3], [4, "on", 5]]}

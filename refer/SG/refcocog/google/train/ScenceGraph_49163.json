@@ -1,0 +1,1 @@
+{"objects": ["woman", "goalie", "hands", "soccer ball", "shirt", "person", "that", "ball"], "relationships": [[0, "playing", 1], [0, "with", 2], [2, "on", 3], [3, "wearing", 4]]}

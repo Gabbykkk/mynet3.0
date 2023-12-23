@@ -1,0 +1,1 @@
+{"objects": ["half", "bananna", "fork", "it", "part", "banana", "side", "shelf"], "relationships": [[0, "of", 1], [1, "without", 2], [2, "in", 3], [0, "sits on", 2], [2, "of", 3]]}

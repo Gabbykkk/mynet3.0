@@ -1,0 +1,1 @@
+{"objects": ["wine glass", "center", "table", "glass center", "wine bottle"], "relationships": [[0, "in", 1], [1, "of", 2], [0, "in front of", 1]]}

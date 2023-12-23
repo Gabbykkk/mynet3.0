@@ -1,0 +1,1 @@
+{"objects": ["tie", "flag tie", "left", "amer flag"], "relationships": [[0, "next to", 1], [0, "to", 1], [1, "of", 2]]}

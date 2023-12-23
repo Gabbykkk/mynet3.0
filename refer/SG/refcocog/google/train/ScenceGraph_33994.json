@@ -1,0 +1,1 @@
+{"objects": ["color court", "jean pant", "cutter hair", "hair", "man", "jacket"], "relationships": [[1, "wearing", 2], [0, "cutting", 3], [1, "cutting", 3], [0, "in", 1]]}

@@ -1,0 +1,1 @@
+{"objects": ["store", "pack", "wall", "pockets"], "relationships": [[0, "hanging on", 1], [0, "with", 2]]}

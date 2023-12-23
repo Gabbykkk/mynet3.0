@@ -1,0 +1,1 @@
+{"objects": ["carrot", "green lettuce", "carrots", "celery", "lettuce"], "relationships": [[0, "touching", 1], [0, "between", 1], [0, "between", 2]]}

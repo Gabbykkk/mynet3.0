@@ -1,0 +1,1 @@
+{"objects": ["color dress", "girl", "photo snap", "color mobile", "color cake", "person", "coat", "picture", "cake"], "relationships": [[0, "wearing", 1], [3, "taking", 2], [3, "of", 4], [1, "taking", 2], [2, "of", 3]]}

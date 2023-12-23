@@ -1,0 +1,1 @@
+{"objects": ["sake cup", "counter clockwise", "sake bottle", "flower cup", "cup"], "relationships": [[0, "placed", 1], [0, "from", 2], [0, "behind", 1]]}

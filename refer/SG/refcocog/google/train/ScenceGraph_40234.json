@@ -1,0 +1,1 @@
+{"objects": ["chef", "white", "cell phone", "grill", "beach", "man", "apron", "phone", "people"], "relationships": [[0, "in", 1], [0, "holds", 2], [3, "on", 4], [0, "at", 2], [0, "with", 3]]}

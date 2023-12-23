@@ -1,0 +1,1 @@
+{"objects": ["bowl", "right", "candle holder", "shape", "that", "holder", "left", "one", "bottom"], "relationships": [[0, "from", 1], [0, "with", 1], [0, "between", 3], [3, "to", 4], [3, "to", 5], [6, "toward", 7], [6, "on", 8]]}

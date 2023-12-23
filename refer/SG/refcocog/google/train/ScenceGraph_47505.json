@@ -1,0 +1,1 @@
+{"objects": ["sandwhich furthest", "edge", "counter", "loaf", "bread", "middle", "board"], "relationships": [[0, "from", 1], [1, "of", 2], [0, "of", 1], [0, "bent on", 2], [3, "of", 4]]}

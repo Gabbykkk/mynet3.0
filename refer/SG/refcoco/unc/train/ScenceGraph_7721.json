@@ -1,0 +1,1 @@
+{"objects": ["tan book", "what", "spots", "spine", "center"], "relationships": [[1, "like", 2], [2, "on", 3], [0, "spotted", 2]]}

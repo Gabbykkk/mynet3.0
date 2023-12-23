@@ -1,0 +1,1 @@
+{"objects": ["sheep", "it", "s", "face", "viewer", "view", "side", "that", "direction", "others"], "relationships": [[0, "turning", 1], [0, "turning", 2], [0, "turning", 3], [3, "towards", 4], [5, "of", 6], [0, "turning", 7], [0, "turning", 8], [1, "is", 2], [2, "than", 3]]}

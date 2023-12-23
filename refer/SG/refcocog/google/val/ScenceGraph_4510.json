@@ -1,0 +1,1 @@
+{"objects": ["man", "ski jacket", "mountain", "person", "jacket"], "relationships": [[0, "in", 1], [0, "furthest", 2]]}

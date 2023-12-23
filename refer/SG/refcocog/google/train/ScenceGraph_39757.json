@@ -1,0 +1,1 @@
+{"objects": ["white goat", "horns", "side", "goat", "sticks", "part", "trio", "bale", "hay"], "relationships": [[1, "on", 2], [0, "closest to", 1], [2, "of", 3], [3, "standing around", 4], [4, "of", 5]]}

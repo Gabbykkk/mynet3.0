@@ -1,0 +1,1 @@
+{"objects": ["airplane", "middle", "formation", "color elicapter", "air", "position"], "relationships": [[0, "in", 1], [1, "of", 2], [0, "fling", 1], [0, "fling", 2]]}

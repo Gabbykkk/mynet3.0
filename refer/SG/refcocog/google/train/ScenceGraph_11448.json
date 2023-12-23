@@ -1,0 +1,1 @@
+{"objects": ["snowboarder jump", "sky day", "boy", "violet", "suit", "snow", "skating"], "relationships": [[0, "on", 1], [0, "with", 1], [1, "over", 2], [2, "jumping on", 3], [2, "with", 4]]}

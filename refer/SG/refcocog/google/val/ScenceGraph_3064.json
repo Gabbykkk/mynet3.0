@@ -1,0 +1,1 @@
+{"objects": ["book", "weather station", "it", "side", "table", "which", "thermometer", "that"], "relationships": [[0, "with", 1], [0, "on", 1], [0, "on", 2], [3, "has", 4], [4, "on top of", 5]]}

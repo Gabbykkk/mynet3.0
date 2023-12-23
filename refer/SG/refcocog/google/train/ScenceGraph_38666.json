@@ -1,0 +1,1 @@
+{"objects": ["procession", "zebras", "street", "zebra", "line", "road"], "relationships": [[0, "of", 1], [1, "crossing", 2], [0, "in", 1]]}

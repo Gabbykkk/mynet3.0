@@ -1,0 +1,1 @@
+{"objects": ["board", "that", "sand", "persons feet", "it", "surf board", "ground"], "relationships": [[1, "laying on", 2], [1, "with", 3], [3, "on", 4], [1, "on", 2]]}

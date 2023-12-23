@@ -1,0 +1,1 @@
+{"objects": ["bike", "background", "that", "s", "windsheild"], "relationships": [[0, "in", 1], [3, "seen", 2], [3, "seen through", 4]]}

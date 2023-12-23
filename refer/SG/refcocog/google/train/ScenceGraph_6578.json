@@ -1,0 +1,1 @@
+{"objects": ["man", "standing", "umpire", "strike"], "relationships": [[0, "in", 1], [1, "behind", 2], [0, "calling", 1]]}

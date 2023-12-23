@@ -1,0 +1,1 @@
+{"objects": ["windshield", "bus", "reflection", "sign", "caution", "lights", "roof", "buss"], "relationships": [[0, "of", 1], [0, "in", 2], [0, "nearest", 4], [1, "nearest", 4], [4, "of", 5]]}

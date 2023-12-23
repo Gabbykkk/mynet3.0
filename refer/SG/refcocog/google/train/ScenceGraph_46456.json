@@ -1,0 +1,1 @@
+{"objects": ["parking meter", "minutes", "art easel", "it", "painting"], "relationships": [[0, "with", 1], [1, "with", 2], [0, "against", 3], [1, "from", 2]]}

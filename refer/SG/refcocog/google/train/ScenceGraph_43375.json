@@ -1,0 +1,1 @@
+{"objects": ["that", "back", "bus", "shopping cart", "front", "sign"], "relationships": [[0, "is", 1], [1, "of", 2], [1, "with", 3], [3, "in", 4], [0, "of", 1], [1, "containing", 2]]}

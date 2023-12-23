@@ -1,0 +1,1 @@
+{"objects": ["butter knife", "piece", "birthday cake", "woman", "candle", "silver knife", "that", "plate"], "relationships": [[0, "next to", 1], [1, "of", 2], [1, "with", 3], [3, "blowing", 4], [1, "sitting on", 2]]}

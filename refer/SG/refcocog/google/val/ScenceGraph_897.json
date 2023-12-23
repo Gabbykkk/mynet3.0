@@ -1,0 +1,1 @@
+{"objects": ["boats", "distance", "bus", "ship", "port"], "relationships": [[2, "obscured", 0], [0, "in", 1], [0, "at", 1]]}

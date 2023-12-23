@@ -1,0 +1,1 @@
+{"objects": ["truck", "turn", "car", "center", "truck blury"], "relationships": [[0, "taking", 1], [0, "in", 1]]}

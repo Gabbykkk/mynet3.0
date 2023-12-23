@@ -1,0 +1,1 @@
+{"objects": ["kitchen", "microwave", "stove"], "relationships": [[0, "above", 1]]}

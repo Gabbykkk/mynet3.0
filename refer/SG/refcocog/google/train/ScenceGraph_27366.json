@@ -1,0 +1,1 @@
+{"objects": ["fedex", "train", "train car", "windows", "writing", "side", "design"], "relationships": [[0, "branded", 1], [0, "with", 1], [2, "on", 3], [4, "on", 3], [4, "below", 5]]}

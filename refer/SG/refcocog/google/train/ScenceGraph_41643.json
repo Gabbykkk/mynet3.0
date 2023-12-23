@@ -1,0 +1,1 @@
+{"objects": ["man", "lever", "track", "person", "black", "foreground"], "relationships": [[0, "pulling", 1], [0, "near", 2], [0, "in", 1], [0, "in", 2]]}

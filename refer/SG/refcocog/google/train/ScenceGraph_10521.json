@@ -1,0 +1,1 @@
+{"objects": ["control", "coffee cup", "that", "pioneer system", "remote", "right", "coffee mug"], "relationships": [[0, "next to", 1], [0, "to", 1], [1, "of", 2]]}

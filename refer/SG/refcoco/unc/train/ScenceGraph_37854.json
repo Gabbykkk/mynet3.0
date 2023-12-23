@@ -1,0 +1,1 @@
+{"objects": ["man", "body view", "box man", "suit", "blockhead"], "relationships": [[0, "on", 1], [0, "behind", 2], [0, "of", 1]]}

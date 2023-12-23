@@ -1,0 +1,1 @@
+{"objects": ["microwave", "they", "these", "box", "samsung", "front"], "relationships": [[1, "make", 2], [0, "with", 1], [0, "on", 2]]}

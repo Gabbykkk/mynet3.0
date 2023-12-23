@@ -1,0 +1,1 @@
+{"objects": ["stack", "papers", "banana", "hilighter", "it", "piece", "paper"], "relationships": [[0, "of", 1], [0, "with", 2], [0, "with", 3], [2, "on top of", 4], [3, "on top of", 4], [0, "underneath", 2]]}

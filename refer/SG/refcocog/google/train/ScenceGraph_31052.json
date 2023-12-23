@@ -1,0 +1,1 @@
+{"objects": ["stove", "clock", "oven", "clock reading"], "relationships": [[0, "on", 1]]}

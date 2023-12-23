@@ -1,0 +1,1 @@
+{"objects": ["man iwth", "shirt", "veggies", "man", "market", "bunch", "vegetable produce"], "relationships": [[0, "checked", 1], [1, "beside", 2], [0, "at", 1], [0, "beside", 2], [2, "of", 3]]}

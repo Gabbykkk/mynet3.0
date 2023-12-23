@@ -1,0 +1,1 @@
+{"objects": ["wicker basket", "plastic bags", "something", "bowl", "right", "that", "fruit", "them", "woman"], "relationships": [[0, "containing", 1], [1, "of", 2], [0, "on", 1], [2, "baked", 3], [2, "in", 4]]}

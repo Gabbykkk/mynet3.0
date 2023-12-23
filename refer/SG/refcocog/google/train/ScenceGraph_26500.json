@@ -1,0 +1,1 @@
+{"objects": ["bicycle", "road", "wheel", "background", "table", "mug", "lemonade", "plate", "vegetables"], "relationships": [[0, "on", 1], [0, "of", 1], [0, "in", 2], [2, "behind", 3], [3, "with", 4], [3, "with", 6], [6, "of", 7]]}

@@ -1,0 +1,1 @@
+{"objects": ["sail", "frame", "boat", "seagull", "top", "part", "it"], "relationships": [[0, "upon", 1], [1, "of", 2], [0, "with", 3], [3, "on", 4], [0, "of", 1], [1, "with", 2], [2, "upon", 3]]}

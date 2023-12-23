@@ -1,0 +1,1 @@
+{"objects": ["person", "orange", "side", "fence", "tennis orange judge"], "relationships": [[0, "wearing", 1], [0, "on", 2], [2, "of", 3]]}

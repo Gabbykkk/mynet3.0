@@ -1,0 +1,1 @@
+{"objects": ["passenger car", "water", "car", "spray"], "relationships": [[1, "splashed", 0], [0, "through", 1], [1, "of", 2]]}

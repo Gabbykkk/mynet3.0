@@ -1,0 +1,1 @@
+{"objects": ["elephant", "lady", "clothes", "flag usa colors", "usa flag", "back", "trunk", "circus emblem", "head"], "relationships": [[0, "with", 1], [1, "wearing", 2], [2, "of", 3], [2, "carrying", 4], [2, "on", 5], [2, "on", 3]]}

@@ -1,0 +1,1 @@
+{"objects": ["vent", "oven", "restaurant", "broiler"], "relationships": [[0, "above", 1]]}

@@ -1,0 +1,1 @@
+{"objects": ["s head", "neck", "tongue", "giraffes", "leafy bush", "zebra", "camera"], "relationships": [[0, "with", 1], [1, "protruding", 2], [3, "next to", 4], [0, "facing", 1], [0, "with", 2]]}

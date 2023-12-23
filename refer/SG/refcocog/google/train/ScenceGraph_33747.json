@@ -1,0 +1,1 @@
+{"objects": ["man", "hotdog", "arm", "hotdog label", "bottom", "person", "hotdog cutout", "that", "dogs", "it"], "relationships": [[0, "in", 1], [0, "with", 2], [0, "covering", 3], [0, "on", 4], [2, "have", 3], [3, "visible on", 4]]}

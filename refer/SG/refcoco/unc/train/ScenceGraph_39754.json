@@ -1,0 +1,1 @@
+{"objects": ["item", "picture", "right", "bottom right"], "relationships": [[0, "lowest in", 1], [0, "lowest to", 2]]}

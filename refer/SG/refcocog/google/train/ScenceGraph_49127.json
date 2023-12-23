@@ -1,0 +1,1 @@
+{"objects": ["car", "streak", "back", "lights", "car drives", "light"], "relationships": [[0, "with", 1], [1, "on", 2], [2, "from", 3], [0, "through", 1]]}

@@ -1,0 +1,1 @@
+{"objects": ["man", "ice cream", "road side", "person", "jacket"], "relationships": [[0, "scooping", 1], [0, "by", 2], [0, "in", 1], [0, "taking", 2]]}

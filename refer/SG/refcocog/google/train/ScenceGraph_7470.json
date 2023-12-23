@@ -1,0 +1,1 @@
+{"objects": ["zebra", "charge", "ground"], "relationships": [[0, "leading", 1], [0, "running in", 1]]}

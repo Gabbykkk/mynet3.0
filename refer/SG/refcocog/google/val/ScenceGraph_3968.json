@@ -1,0 +1,1 @@
+{"objects": ["motorcycle", "gold helmet", "handlebar", "seat", "handlebars"], "relationships": [[0, "with", 1], [0, "on", 2], [0, "with", 2], [2, "atop", 3]]}

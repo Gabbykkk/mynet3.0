@@ -1,0 +1,1 @@
+{"objects": ["parking meter", "time", "it"], "relationships": [[0, "with", 1], [1, "left on", 2]]}

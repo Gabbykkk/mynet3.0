@@ -1,0 +1,1 @@
+{"objects": ["tool box", "toolbox", "case", "electronics"], "relationships": [[0, "next to", 1], [0, "full of", 1]]}

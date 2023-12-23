@@ -1,0 +1,1 @@
+{"objects": ["people", "window", "section", "decker bus", "picture", "bird", "bus"], "relationships": [[0, "looking out", 1], [1, "of", 2], [2, "of", 3], [0, "of", 1], [1, "on the side of", 2]]}

@@ -1,0 +1,1 @@
+{"objects": ["video", "future", "ideas", "book", "stack"], "relationships": [[0, "titled", 1], [1, "of", 2], [0, "on", 1]]}

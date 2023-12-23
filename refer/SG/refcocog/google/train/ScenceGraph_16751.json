@@ -1,0 +1,1 @@
+{"objects": ["bicycle", "that", "cabinet", "rack", "bike"], "relationships": [[2, "obscured", 1], [3, "hanging on", 4], [0, "below", 1]]}

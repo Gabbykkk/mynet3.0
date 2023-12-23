@@ -1,0 +1,1 @@
+{"objects": ["screen", "laptop", "display", "silver laptop"], "relationships": [[0, "behind", 1], [0, "over", 1]]}

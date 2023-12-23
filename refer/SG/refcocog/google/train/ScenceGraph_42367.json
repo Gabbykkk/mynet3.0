@@ -1,0 +1,1 @@
+{"objects": ["woman", "swimsuit", "brunette woman", "strapless bikini", "model jet", "sky", "cat", "air"], "relationships": [[0, "wearing", 1], [0, "in", 1], [0, "behind", 2], [0, "in", 3], [0, "next to", 4], [4, "in", 5]]}

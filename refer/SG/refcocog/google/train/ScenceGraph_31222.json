@@ -1,0 +1,1 @@
+{"objects": ["adult", "kid", "person", "boy"], "relationships": [[0, "behind", 1], [0, "near", 1]]}

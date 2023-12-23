@@ -1,0 +1,1 @@
+{"objects": ["man", "pickup truck", "crate", "bed", "truck", "teeshirt", "packets"], "relationships": [[0, "in", 1], [1, "lifting", 2], [1, "into", 3], [3, "of", 4], [1, "loading", 2], [1, "to", 3]]}

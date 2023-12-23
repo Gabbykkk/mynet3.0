@@ -1,0 +1,1 @@
+{"objects": ["skin", "lady", "front", "top", "hair", "us", "girl", "back", "camera"], "relationships": [[0, "in", 1], [0, "with", 2], [0, "with", 3], [2, "back towards", 4], [3, "back towards", 4], [0, "with", 1], [1, "facing", 2]]}

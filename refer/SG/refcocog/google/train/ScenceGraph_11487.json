@@ -1,0 +1,1 @@
+{"objects": ["rail", "balcony", "that", "control panel", "middle", "it", "guard rail", "side", "wall"], "relationships": [[0, "of", 1], [2, "has", 3], [3, "in", 4], [4, "of", 5], [0, "sitting on", 1], [1, "of", 2]]}

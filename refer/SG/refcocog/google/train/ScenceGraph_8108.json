@@ -1,0 +1,1 @@
+{"objects": ["zebra", "building", "which", "head", "background"], "relationships": [[0, "next to", 1], [0, "with", 1], [0, "down in", 2]]}

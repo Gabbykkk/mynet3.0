@@ -1,0 +1,1 @@
+{"objects": ["man", "suite", "white surfboard", "bill", "clinton mask", "suit", "surfboard", "wave"], "relationships": [[0, "in", 1], [1, "riding", 2], [0, "sitting on", 4]]}

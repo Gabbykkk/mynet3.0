@@ -1,0 +1,1 @@
+{"objects": ["post", "wall", "poster"], "relationships": [[0, "on", 1]]}

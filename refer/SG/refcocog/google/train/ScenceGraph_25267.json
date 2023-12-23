@@ -1,0 +1,1 @@
+{"objects": ["baseball pitcher", "glove", "air", "baseball player", "#", "back", "legs", "side", "arm"], "relationships": [[0, "points", 1], [0, "into", 2], [0, "with", 1], [0, "on", 2], [5, "to", 4], [5, "high in", 6]]}

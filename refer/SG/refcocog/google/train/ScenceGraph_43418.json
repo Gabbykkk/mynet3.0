@@ -1,0 +1,1 @@
+{"objects": ["train", "that", "windshield wiper", "window"], "relationships": [[1, "has", 2], [2, "on", 3]]}

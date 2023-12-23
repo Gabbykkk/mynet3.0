@@ -1,0 +1,1 @@
+{"objects": ["foot", "shoe", "heel", "skateboard", "torso", "legs", "tan pants", "sneakers", "man"], "relationships": [[0, "wearing", 1], [1, "on", 2], [2, "of", 3], [3, "next to", 4], [4, "with", 5], [0, "in", 2], [0, "in", 3], [1, "in", 2], [1, "in", 3]]}

@@ -1,0 +1,1 @@
+{"objects": ["finger bowl", "that", "right", "broccoli", "hand side", "plate", "rice", "eggroll", "it", "bowl", "pieces", "scallions", "sauce"], "relationships": [[2, "of", 3], [4, "of", 5], [6, "has", 7], [6, "has", 8], [8, "on", 9], [10, "has", 11], [11, "of", 12], [11, "in", 13], [0, "with", 1], [1, "in", 2]]}

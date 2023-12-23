@@ -1,0 +1,1 @@
+{"objects": ["ikea magazine", "flower vase", "half", "cover", "ikea catalog"], "relationships": [[0, "beside", 1], [0, "of", 1], [1, "of", 2]]}

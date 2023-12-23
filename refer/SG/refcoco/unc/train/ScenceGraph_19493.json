@@ -1,0 +1,1 @@
+{"objects": ["seat", "right", "boy", "mt seat", "chair"], "relationships": [[0, "to", 1], [1, "of", 2]]}

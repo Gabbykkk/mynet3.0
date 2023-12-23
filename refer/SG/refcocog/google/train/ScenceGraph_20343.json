@@ -1,0 +1,1 @@
+{"objects": ["model engine", "passenger car", "roof", "train", "that", "red", "side", "bottom", "screen", "building"], "relationships": [[0, "pulling", 1], [0, "with", 2], [1, "has", 2], [2, "on", 3], [5, "left", 6], [6, "of", 7], [8, "of", 9]]}

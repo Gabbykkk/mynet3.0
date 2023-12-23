@@ -1,0 +1,1 @@
+{"objects": ["book", "orange", "picture", "ninja", "spine", "orange book", "right", "face", "eyes", "it"], "relationships": [[0, "in", 1], [0, "with", 2], [2, "of", 3], [3, "on", 4], [1, "with", 2], [1, "on", 2]]}

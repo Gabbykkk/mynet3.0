@@ -1,0 +1,1 @@
+{"objects": ["divider", "corner", "hanging", "wall", "right"], "relationships": [[0, "on", 1], [0, "to", 2]]}

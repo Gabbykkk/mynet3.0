@@ -1,0 +1,1 @@
+{"objects": ["mirror image", "cat", "leash", "ground", "reflection", "harness"], "relationships": [[0, "of", 1], [0, "on", 2], [2, "on", 3], [1, "wearing", 2]]}

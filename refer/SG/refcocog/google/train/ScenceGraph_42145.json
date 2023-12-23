@@ -1,0 +1,1 @@
+{"objects": ["surfer", "wave", "who", "balance"], "relationships": [[0, "away from", 1], [0, "next to", 2], [2, "into", 3], [1, "displaying", 2]]}

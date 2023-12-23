@@ -1,0 +1,1 @@
+{"objects": ["side view", "man", "jeans", "sneakers", "glasses", "corner", "piece", "equipment", "shirt"], "relationships": [[0, "of", 1], [1, "in", 2], [1, "in", 3], [0, "with", 4], [0, "holding onto", 5], [5, "of", 6], [6, "of", 7], [0, "in", 1]]}

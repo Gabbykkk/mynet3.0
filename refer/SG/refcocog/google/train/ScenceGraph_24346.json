@@ -1,0 +1,1 @@
+{"objects": ["train", "side", "passenger cars", "sunlight", "window"], "relationships": [[0, "in", 1], [0, "reflecting", 1], [1, "from", 2]]}

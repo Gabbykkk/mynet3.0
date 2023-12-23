@@ -1,0 +1,1 @@
+{"objects": ["bike", "pole"], "relationships": [[0, "next to", 1], [0, "behind", 1]]}

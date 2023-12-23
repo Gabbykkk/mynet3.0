@@ -1,0 +1,1 @@
+{"objects": ["man", "dress whites", "handshake", "dignitary", "medal", "neck", "dress uniform", "hand", "business suit"], "relationships": [[0, "in", 1], [0, "receives", 2], [0, "from", 3], [4, "around", 5], [0, "shaking", 2], [2, "of", 3], [3, "in", 4]]}

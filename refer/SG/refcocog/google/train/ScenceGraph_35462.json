@@ -1,0 +1,1 @@
+{"objects": ["man", "reflection", "mirror", "tooth brush", "mouth"], "relationships": [[1, "showing in", 2], [0, "in front of", 1], [2, "in front of", 1], [2, "in", 3]]}

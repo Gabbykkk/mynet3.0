@@ -1,0 +1,1 @@
+{"objects": ["stack", "waffles", "background", "photo", "plate", "strawberries", "strawberry waffles"], "relationships": [[0, "of", 1], [2, "of", 3], [3, "of", 4], [4, "of", 5], [3, "with", 6], [0, "on", 2], [0, "behind", 3]]}

@@ -1,0 +1,1 @@
+{"objects": ["monitor", "right", "group", "monitors", "rightmost monitor", "which", "it"], "relationships": [[0, "on", 1], [1, "of", 2], [2, "of", 3], [0, "on", 2]]}

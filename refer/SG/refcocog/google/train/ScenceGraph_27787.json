@@ -1,0 +1,1 @@
+{"objects": ["book", "picture", "pig", "baby pigs", "pig cartoon"], "relationships": [[1, "featuring", 2], [1, "featuring", 3]]}

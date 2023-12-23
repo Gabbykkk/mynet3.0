@@ -1,0 +1,1 @@
+{"objects": ["keyboard", "player", "door", "man", "refrigerator door", "view"], "relationships": [[2, "blocked", 1], [0, "playing", 1], [2, "blocks", 3]]}

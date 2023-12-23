@@ -1,0 +1,1 @@
+{"objects": ["side", "vehicle", "truck", "plane", "it", "car", "road"], "relationships": [[0, "of", 1], [1, "near", 2], [2, "with", 3], [3, "on", 4], [0, "on", 1]]}

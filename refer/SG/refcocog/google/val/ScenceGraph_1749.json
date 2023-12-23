@@ -1,0 +1,1 @@
+{"objects": ["food truck", "curb", "truck"], "relationships": [[0, "against", 1], [0, "in front of", 1]]}

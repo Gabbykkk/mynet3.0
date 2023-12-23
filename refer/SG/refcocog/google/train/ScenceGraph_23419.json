@@ -1,0 +1,1 @@
+{"objects": ["bush", "right", "bushes", "planter box", "building"], "relationships": [[0, "in", 1], [1, "outside", 2]]}

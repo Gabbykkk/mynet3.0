@@ -1,0 +1,1 @@
+{"objects": ["giraffe", "branch", "right", "spots", "rope toy"], "relationships": [[0, "eating", 1], [0, "on", 2], [0, "with", 1], [1, "playing with", 2]]}

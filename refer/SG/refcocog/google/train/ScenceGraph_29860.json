@@ -1,0 +1,1 @@
+{"objects": ["teddy bear", "window", "sweater", "arm", "animal", "him", "hearts", "it"], "relationships": [[0, "at", 1], [0, "with", 2], [0, "with", 3], [3, "around", 4], [2, "next to", 5], [3, "next to", 5], [0, "wearing", 1], [2, "on", 3]]}

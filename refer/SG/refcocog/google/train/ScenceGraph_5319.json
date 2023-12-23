@@ -1,0 +1,1 @@
+{"objects": ["text math book", "page", "graphs", "text book", "words", "desk"], "relationships": [[0, "open to", 1], [1, "of", 2], [0, "with", 1], [1, "on", 2]]}

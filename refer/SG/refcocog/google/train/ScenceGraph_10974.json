@@ -1,0 +1,1 @@
+{"objects": ["bus", "that", "scotline tours", "it", "vanhool bus", "platform"], "relationships": [[1, "says", 2], [2, "on", 3], [0, "on", 1]]}

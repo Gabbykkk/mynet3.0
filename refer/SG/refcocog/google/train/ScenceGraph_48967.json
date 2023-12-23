@@ -1,0 +1,1 @@
+{"objects": ["truck", "traffic", "bags", "bed", "car", "coloured", "traffic man"], "relationships": [[0, "stopped in", 1], [0, "with", 2], [2, "in", 3], [2, "stopped", 0], [0, "behind", 1]]}

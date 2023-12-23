@@ -1,0 +1,1 @@
+{"objects": ["man", "overalls", "years", "horse", "sort", "food"], "relationships": [[0, "in", 1], [0, "from", 2], [0, "feeding", 3], [0, "feeding", 4], [4, "of", 5], [1, "holding", 2]]}

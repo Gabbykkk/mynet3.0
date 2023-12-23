@@ -1,0 +1,1 @@
+{"objects": ["tabletop", "foreground", "table", "camera"], "relationships": [[0, "in", 1], [0, "nearest", 1]]}

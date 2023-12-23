@@ -1,0 +1,1 @@
+{"objects": ["table", "man", "woman", "neighboring table", "patrons"], "relationships": [[0, "between", 1], [0, "between", 2], [0, "with", 1]]}

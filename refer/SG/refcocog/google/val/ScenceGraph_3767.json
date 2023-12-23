@@ -1,0 +1,1 @@
+{"objects": ["man", "shirt", "hat", "phone photo", "woman", "dogs", "her", "floor", "picture", "pets"], "relationships": [[0, "in", 1], [2, "in", 1], [0, "taking", 3], [2, "taking", 3], [3, "of", 4], [4, "with", 5], [5, "on", 6], [0, "on", 1], [0, "taking", 2], [2, "of", 3], [2, "of", 4]]}

@@ -1,0 +1,1 @@
+{"objects": ["machine", "vent", "that", "lettering", "it", "refrigerator", "chef", "side"], "relationships": [[2, "has", 3], [0, "is", 1], [1, "next to", 2], [2, "on", 3]]}

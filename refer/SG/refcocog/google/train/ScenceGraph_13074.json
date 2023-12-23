@@ -1,0 +1,1 @@
+{"objects": ["set table", "tablecloth", "turkey", "table", "chairs", "it"], "relationships": [[0, "with", 1], [1, "with", 2], [1, "shown around", 2]]}

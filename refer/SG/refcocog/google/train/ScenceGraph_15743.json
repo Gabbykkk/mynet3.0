@@ -1,0 +1,1 @@
+{"objects": ["trunk", "car", "woman", "it", "tail light", "fruit"], "relationships": [[0, "of", 1], [0, "next to", 2], [2, "at", 3], [0, "with", 2], [3, "holding", 4], [3, "next to", 5]]}

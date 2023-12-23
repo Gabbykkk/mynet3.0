@@ -1,0 +1,1 @@
+{"objects": ["color", "bus", "road", "city bus"], "relationships": [[1, "on", 2]]}

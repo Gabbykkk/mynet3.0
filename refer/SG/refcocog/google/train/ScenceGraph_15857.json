@@ -1,0 +1,1 @@
+{"objects": ["sailboat", "turquoise", "decoration", "beach", "group", "people"], "relationships": [[0, "with", 1], [2, "on", 3], [0, "behind", 1], [1, "of", 2]]}

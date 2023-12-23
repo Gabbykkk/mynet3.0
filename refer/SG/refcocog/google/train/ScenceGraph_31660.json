@@ -1,0 +1,1 @@
+{"objects": ["table", "which", "cups", "coffee", "press", "cake", "woman", "blouse", "wood table", "plates", "dishes", "it"], "relationships": [[1, "sits", 2], [1, "sits", 4], [2, "of", 3], [4, "of", 3], [7, "sliced", 6], [7, "in", 8], [0, "with", 1], [0, "with", 2], [1, "on", 3], [2, "on", 3]]}

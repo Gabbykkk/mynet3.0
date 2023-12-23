@@ -1,0 +1,1 @@
+{"objects": ["bird", "camera"], "relationships": [[0, "facing", 1], [0, "at", 1]]}

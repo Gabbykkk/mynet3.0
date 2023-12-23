@@ -1,0 +1,1 @@
+{"objects": ["man", "boots", "straw hat", "doorway", "barn", "cowboy straw hat", "shirt", "jeans", "pair", "muck boots"], "relationships": [[0, "wearing", 1], [0, "wearing", 2], [0, "standing", 1], [1, "of", 2], [0, "wearing", 3], [6, "of", 7]]}

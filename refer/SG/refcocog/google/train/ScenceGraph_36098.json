@@ -1,0 +1,1 @@
+{"objects": ["teddy", "cop", "guard uniform", "teddy bear", "police man"], "relationships": [[0, "in", 1], [0, "beat", 2], [0, "as", 1]]}

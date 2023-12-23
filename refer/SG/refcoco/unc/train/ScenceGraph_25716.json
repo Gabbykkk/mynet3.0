@@ -1,0 +1,1 @@
+{"objects": ["person center", "shirt", "shirt woman", "woman", "giraffeselect shirt", "top", "head"], "relationships": [[0, "feeding", 1], [0, "feeding", 2], [1, "of", 3], [2, "of", 3]]}

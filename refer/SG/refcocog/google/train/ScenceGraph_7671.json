@@ -1,0 +1,1 @@
+{"objects": ["suv", "sticker", "window", "sub", "light", "street"], "relationships": [[0, "with", 1], [1, "on", 2], [0, "going through", 1], [0, "on", 2]]}

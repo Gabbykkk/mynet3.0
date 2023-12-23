@@ -1,0 +1,1 @@
+{"objects": ["giraffe", "head", "window opening", "girafee", "doorway", "building"], "relationships": [[0, "pokes", 1], [0, "through", 2], [0, "with", 1], [0, "inside", 2], [2, "of", 3]]}

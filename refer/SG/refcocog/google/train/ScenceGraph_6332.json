@@ -1,0 +1,1 @@
+{"objects": ["giraffe", "that", "stone wall", "camera", "shades"], "relationships": [[1, "closest to", 2], [3, "facing", 4]]}

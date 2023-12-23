@@ -1,0 +1,1 @@
+{"objects": ["wicket keeper", "t shirt", "cap", "middle", "playes", "man", "baseball", "mitt", "hand"], "relationships": [[0, "wearing", 1], [0, "wearing", 2], [3, "of", 4], [0, "playing", 1], [0, "with", 2], [2, "on", 3]]}

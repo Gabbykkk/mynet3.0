@@ -1,0 +1,1 @@
+{"objects": ["bicycle", "wheel", "ceiling", "mall clock"], "relationships": [[0, "with", 1], [2, "with", 1], [0, "from", 3], [2, "from", 3], [0, "next to", 4], [2, "next to", 4]]}

@@ -1,0 +1,1 @@
+{"objects": ["doll", "clocok", "top"], "relationships": [[0, "on top of", 1], [0, "on", 1]]}

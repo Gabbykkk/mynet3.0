@@ -1,0 +1,1 @@
+{"objects": ["side view", "suitcases", "that", "color", "piece", "luggage", "pieces"], "relationships": [[0, "next to", 1], [2, "are", 3], [0, "of", 1], [3, "of", 4]]}

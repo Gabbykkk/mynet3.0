@@ -1,0 +1,1 @@
+{"objects": ["bench", "green bush", "side walk", "bikes"], "relationships": [[0, "next to", 1], [0, "along", 1]]}

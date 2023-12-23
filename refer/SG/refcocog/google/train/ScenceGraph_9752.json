@@ -1,0 +1,1 @@
+{"objects": ["tomato sandwich", "bread", "strawberries", "bowl", "jam", "sandwich", "orange", "left"], "relationships": [[0, "made with", 1], [0, "behind", 2], [3, "of", 4], [0, "with", 1], [0, "to", 2], [2, "of", 3]]}

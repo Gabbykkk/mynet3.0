@@ -1,0 +1,1 @@
+{"objects": ["part", "motor cycle", "man", "mo ped", "that", "stripe", "seat"], "relationships": [[0, "of", 1], [1, "near", 2], [1, "has", 2], [2, "on", 3], [1, "next to", 4]]}

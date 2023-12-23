@@ -1,0 +1,1 @@
+{"objects": ["broccoli", "camera furthest", "fork"], "relationships": [[0, "closest to", 1], [1, "from", 2]]}

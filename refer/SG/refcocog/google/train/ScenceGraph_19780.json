@@ -1,0 +1,1 @@
+{"objects": ["slice", "bread", "condiments", "it", "half", "pickel", "cheese", "meat", "sandwich", "piece", "toast", "mayo", "ketchup", "mustard"], "relationships": [[0, "of", 1], [0, "with", 2], [2, "on", 3], [2, "beside", 4], [4, "of", 5], [4, "of", 6], [4, "of", 8], [0, "in", 2], [0, "in", 3]]}

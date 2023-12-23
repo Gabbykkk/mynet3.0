@@ -1,0 +1,1 @@
+{"objects": ["child", "mirror", "teeth", "boy", "picture", "image"], "relationships": [[0, "facing", 1], [0, "facing", 2], [0, "in", 1]]}

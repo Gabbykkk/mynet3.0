@@ -1,0 +1,1 @@
+{"objects": ["red train", "train", "part", "picture", "engine"], "relationships": [[0, "in", 1], [1, "of", 2], [0, "having", 3]]}

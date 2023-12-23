@@ -1,0 +1,1 @@
+{"objects": ["section", "fruit bowl", "that", "bananas", "strawberries", "oranges", "banana"], "relationships": [[0, "of", 1], [2, "shows", 3], [2, "shows", 4], [1, "touching", 2]]}

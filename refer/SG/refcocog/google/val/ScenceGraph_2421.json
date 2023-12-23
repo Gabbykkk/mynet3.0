@@ -1,0 +1,1 @@
+{"objects": ["glass bottle", "orange sauce", "label", "bottle", "sauce", "pepper", "wrapper"], "relationships": [[0, "with", 1], [0, "with", 2], [0, "of", 1], [2, "on", 3]]}

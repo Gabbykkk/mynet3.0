@@ -1,0 +1,1 @@
+{"objects": ["cat paws", "cotta terra container", "leaves", "stem", "rim", "flower", "plant"], "relationships": [[0, "with", 2], [1, "with", 2], [3, "with", 2], [3, "beyond", 4], [3, "with", 5], [0, "with", 1]]}

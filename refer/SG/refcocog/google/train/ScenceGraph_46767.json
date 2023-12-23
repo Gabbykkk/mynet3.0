@@ -1,0 +1,1 @@
+{"objects": ["man", "woman", "who", "jet", "airplane"], "relationships": [[0, "at", 1], [2, "from", 3], [0, "in front of", 1]]}

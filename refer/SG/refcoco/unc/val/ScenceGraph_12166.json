@@ -1,0 +1,1 @@
+{"objects": ["bike", "rack", "back", "rest", "bikes", "trailer center"], "relationships": [[0, "with", 1], [1, "toward", 2], [1, "of", 2]]}

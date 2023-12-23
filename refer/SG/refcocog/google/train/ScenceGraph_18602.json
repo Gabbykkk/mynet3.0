@@ -1,0 +1,1 @@
+{"objects": ["bus", "green stripe", "flag", "front", "stripe", "yellow", "b", "lie flyer"], "relationships": [[0, "with", 1], [0, "with", 2], [0, "on", 3], [1, "on", 5], [2, "on", 5]]}

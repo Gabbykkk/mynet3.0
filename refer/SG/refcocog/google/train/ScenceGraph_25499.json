@@ -1,0 +1,1 @@
+{"objects": ["car", "parking side bay", "truck", "street", "convertable"], "relationships": [[0, "at", 1], [0, "on", 1], [0, "behind", 2]]}

@@ -1,0 +1,1 @@
+{"objects": ["laamb", "tail", "it", "meal", "end", "animal"], "relationships": [[0, "with", 1], [0, "eats", 2], [0, "eats", 3], [0, "of", 1], [0, "with", 2]]}

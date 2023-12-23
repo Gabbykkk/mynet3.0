@@ -1,0 +1,1 @@
+{"objects": ["bike", "cart", "bananas", "man", "bicycle", "cement wall", "banana"], "relationships": [[0, "next to", 1], [0, "next to", 3], [1, "of", 2], [3, "of", 2], [0, "on", 1], [0, "behind", 2]]}

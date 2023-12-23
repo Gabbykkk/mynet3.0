@@ -1,0 +1,1 @@
+{"objects": ["banana", "face", "bananas", "knife", "side", "right"], "relationships": [[0, "with", 1], [1, "behind", 2], [1, "with", 3], [3, "cutting", 4], [1, "with", 2]]}

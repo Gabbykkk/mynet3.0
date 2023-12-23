@@ -1,0 +1,1 @@
+{"objects": ["boat", "people", "area", "legs", "corner", "picture"], "relationships": [[0, "standing", 1], [0, "between", 2], [0, "of", 1]]}

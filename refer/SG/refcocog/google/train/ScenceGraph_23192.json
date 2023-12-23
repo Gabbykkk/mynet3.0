@@ -1,0 +1,1 @@
+{"objects": ["woman", "eyeglasses", "pizza restaurant", "slice", "pizza", "female", "glasses", "shirt"], "relationships": [[0, "wearing", 1], [1, "sitting in", 2], [2, "eating", 3], [3, "of", 4], [0, "in", 1], [0, "wearing", 2]]}

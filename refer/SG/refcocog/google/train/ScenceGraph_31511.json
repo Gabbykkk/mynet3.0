@@ -1,0 +1,1 @@
+{"objects": ["giraffe", "trees", "background", "camera"], "relationships": [[0, "towards", 1], [0, "away from", 2]]}

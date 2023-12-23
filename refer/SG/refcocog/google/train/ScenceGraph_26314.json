@@ -1,0 +1,1 @@
+{"objects": ["pack horse", "rear", "group", "horses", "herd", "sheep", "horse", "line", "color"], "relationships": [[0, "bringing", 1], [1, "of", 2], [2, "of", 3], [2, "escorting", 4], [4, "of", 5], [0, "in", 1]]}

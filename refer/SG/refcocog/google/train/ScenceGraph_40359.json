@@ -1,0 +1,1 @@
+{"objects": ["it", "indication", "vehicle", "state police", "red", "sign"], "relationships": [[0, "is", 1], [1, "is", 3], [3, "of", 4], [0, "on", 1]]}

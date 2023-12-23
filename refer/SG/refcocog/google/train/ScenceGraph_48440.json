@@ -1,0 +1,1 @@
+{"objects": ["decker bus", "ad", "les misrables", "side", "sign", "that", "advertisement"], "relationships": [[0, "with", 1], [1, "for", 2], [2, "on", 3], [1, "on", 2], [3, "says", 4]]}

@@ -1,0 +1,1 @@
+{"objects": ["flamingo", "bucket", "flamingos", "cut off", "crane"], "relationships": [[0, "next to", 1], [1, "behind", 2], [0, "of", 1]]}

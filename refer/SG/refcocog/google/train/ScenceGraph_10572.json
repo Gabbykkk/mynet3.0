@@ -1,0 +1,1 @@
+{"objects": ["mason jar", "lemonade", "glass jar", "metal lid"], "relationships": [[0, "full of", 1], [0, "with", 1], [1, "with", 2]]}

@@ -1,0 +1,1 @@
+{"objects": ["piece", "pizza", "right", "that", "slices", "tomato", "part", "another"], "relationships": [[0, "of", 1], [0, "on", 2], [3, "contains", 4], [4, "of", 5], [0, "right of", 2]]}

@@ -1,0 +1,1 @@
+{"objects": ["pastry", "candle", "it", "cheesecake", "camera", "that", "blueberry", "blackberries", "top"], "relationships": [[0, "with", 1], [1, "on", 2], [2, "has", 3], [2, "has", 4], [3, "on", 5], [4, "on", 5], [5, "of", 6]]}

@@ -1,0 +1,1 @@
+{"objects": ["chubby man", "mario shirt", "chubby woman", "shirt", "she", "wii", "man", "glasses", "mushroom shirt"], "relationships": [[0, "in", 1], [0, "beside", 2], [0, "in", 3], [4, "plays", 5], [0, "with", 1], [0, "wearing", 2]]}

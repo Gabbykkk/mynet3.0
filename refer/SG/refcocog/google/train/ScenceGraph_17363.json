@@ -1,0 +1,1 @@
+{"objects": ["woman", "tank top", "bottle", "right", "back", "man", "shirt", "airport lounge"], "relationships": [[0, "with", 1], [1, "behind", 2], [1, "on", 3], [0, "of", 1], [0, "without", 2], [2, "sitting in", 3]]}

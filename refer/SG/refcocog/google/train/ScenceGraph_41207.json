@@ -1,0 +1,1 @@
+{"objects": ["man", "scarf", "halfway", "dog", "coat", "tan scarf", "napkin"], "relationships": [[0, "with", 1], [0, "with", 2], [1, "through", 3], [2, "through", 3], [0, "wearing", 1], [0, "wearing", 2], [0, "holding", 3], [0, "within", 4]]}

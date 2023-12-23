@@ -1,0 +1,1 @@
+{"objects": ["glass", "bottom", "frame", "glass front"], "relationships": [[0, "near", 1], [1, "of", 2]]}

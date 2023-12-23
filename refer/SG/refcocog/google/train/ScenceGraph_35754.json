@@ -1,0 +1,1 @@
+{"objects": ["man", "pile", "plantains", "shirt", "bunch", "bananas", "banana farm"], "relationships": [[0, "at", 1], [1, "of", 2], [2, "wearing", 3], [0, "at", 3]]}

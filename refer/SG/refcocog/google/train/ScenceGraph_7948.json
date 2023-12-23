@@ -1,0 +1,1 @@
+{"objects": ["man", "hair", "button", "wiimote", "nunchaku", "pants", "shirt", "video game"], "relationships": [[0, "with", 1], [0, "in", 2], [0, "with", 3], [0, "with", 4], [0, "in", 1], [2, "in", 1], [0, "playing", 3], [2, "playing", 3]]}

@@ -1,0 +1,1 @@
+{"objects": ["propeller plane", "stripe", "wing", "circle", "body", "fighter jet", "logo", "side"], "relationships": [[0, "with", 1], [1, "on", 2], [1, "on", 3], [3, "on", 4], [0, "on", 2]]}

@@ -1,0 +1,1 @@
+{"objects": ["parking meter", "top", "meter", "camera operator"], "relationships": [[0, "of", 1], [1, "closest to", 2]]}

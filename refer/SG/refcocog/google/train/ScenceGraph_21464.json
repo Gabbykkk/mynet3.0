@@ -1,0 +1,1 @@
+{"objects": ["bicycle", "rack", "wire basket", "front", "basket", "bike rack", "beach"], "relationships": [[1, "with", 2], [2, "on", 3], [0, "with", 1], [1, "to", 2], [2, "at", 3]]}

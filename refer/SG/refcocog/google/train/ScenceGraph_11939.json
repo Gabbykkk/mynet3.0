@@ -1,0 +1,1 @@
+{"objects": ["it", "picture", "vase", "pictures", "color", "foreground"], "relationships": [[0, "is", 1], [1, "of", 2], [2, "with", 3], [3, "on", 4], [0, "in", 1]]}

@@ -1,0 +1,1 @@
+{"objects": ["cargo vehicle", "that", "luggage", "plane", "truck", "which", "camera"], "relationships": [[1, "delivers", 2], [1, "to", 3]]}

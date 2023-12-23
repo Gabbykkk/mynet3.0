@@ -1,0 +1,1 @@
+{"objects": ["orange color", "scissor", "end", "table"], "relationships": [[0, "handle", 1], [0, "in", 2], [2, "of", 3]]}

@@ -1,0 +1,1 @@
+{"objects": ["vase", "flowers", "left", "bunch"], "relationships": [[0, "with", 1], [0, "to", 2], [2, "of", 3], [3, "with", 4], [0, "on", 1], [1, "holding", 2]]}

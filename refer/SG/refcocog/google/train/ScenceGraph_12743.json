@@ -1,0 +1,1 @@
+{"objects": ["guy", "baseball player", "warriors", "makeup", "man", "baseball uniform", "which", "face", "men", "baseball uniforms"], "relationships": [[0, "in", 1], [0, "from", 2], [0, "wearing", 1], [4, "in", 5]]}

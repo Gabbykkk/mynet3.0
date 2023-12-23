@@ -1,0 +1,1 @@
+{"objects": ["donut", "front", "center row", "bottom"], "relationships": [[0, "at", 1], [0, "first from", 1]]}

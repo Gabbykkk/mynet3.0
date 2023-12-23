@@ -1,0 +1,1 @@
+{"objects": ["water mineral bottle", "dining table", "food", "water bottle", "table"], "relationships": [[1, "near", 2], [0, "on", 1], [0, "behind", 2]]}

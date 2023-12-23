@@ -1,0 +1,1 @@
+{"objects": ["horses", "saddles", "blinders", "walk", "horse", "left", "thicker white", "it", "s"], "relationships": [[0, "wearing", 1], [0, "wearing", 2], [0, "on", 1], [2, "stripe", 3], [2, "stripe", 4]]}

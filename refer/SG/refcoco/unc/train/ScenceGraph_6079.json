@@ -1,0 +1,1 @@
+{"objects": ["man", "mustache glasses", "name tag", "right"], "relationships": [[0, "with", 1], [2, "with", 1], [0, "to", 3], [2, "to", 3], [0, "on", 1]]}

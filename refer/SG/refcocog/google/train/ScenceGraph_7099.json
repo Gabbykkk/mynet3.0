@@ -1,0 +1,1 @@
+{"objects": ["rig", "stripe", "length", "trailer", "cab", "truck", "checkerboard pattern", "side"], "relationships": [[0, "with", 1], [1, "running down", 2], [2, "of", 3], [2, "of", 4], [0, "on", 2]]}

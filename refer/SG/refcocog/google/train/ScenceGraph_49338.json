@@ -1,0 +1,1 @@
+{"objects": ["orange truck", "orange trailer", "traffic light", "city"], "relationships": [[0, "for", 1], [1, "in", 2]]}

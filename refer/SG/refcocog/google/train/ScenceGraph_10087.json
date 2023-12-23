@@ -1,0 +1,1 @@
+{"objects": ["tennis player", "shirt", "that", "outline", "shorts", "ball"], "relationships": [[0, "wearing", 1], [3, "wearing", 4], [0, "hitting", 1]]}

@@ -1,0 +1,1 @@
+{"objects": ["child girl", "sweater", "kid", "toy vehicle", "girl", "her", "camera", "shirt", "hair", "pigtails"], "relationships": [[0, "in", 1], [0, "next to", 2], [2, "in", 3], [0, "with", 1], [0, "back to", 2], [0, "wearing", 3], [4, "into", 5]]}

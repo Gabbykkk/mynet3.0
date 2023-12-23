@@ -1,0 +1,1 @@
+{"objects": ["motorboat", "man", "motor", "dog", "front", "boat", "outboard", "bow"], "relationships": [[0, "with", 1], [1, "directing", 2], [1, "directing", 3], [3, "on", 4], [0, "with", 2], [0, "on", 3]]}

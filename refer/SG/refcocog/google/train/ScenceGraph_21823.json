@@ -1,0 +1,1 @@
+{"objects": ["document", "border", "batch", "documents", "table"], "relationships": [[0, "with", 1], [0, "of", 1], [1, "sitting on", 2]]}

@@ -1,0 +1,1 @@
+{"objects": ["decker bus", "officer", "words", "city sightseeing", "front", "union jack", "side", "it"], "relationships": [[0, "behind", 1], [0, "with", 1], [2, "on", 3], [2, "on", 4], [4, "on", 5], [4, "on", 6], [5, "of", 7], [6, "of", 7]]}

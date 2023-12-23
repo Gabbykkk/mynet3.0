@@ -1,0 +1,1 @@
+{"objects": ["train", "railroad tracks", "trees", "front", "marking", "track"], "relationships": [[0, "moving on", 1], [1, "between", 2], [0, "with", 1], [0, "with", 2], [0, "along", 3]]}

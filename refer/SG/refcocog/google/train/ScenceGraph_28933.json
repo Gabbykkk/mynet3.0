@@ -1,0 +1,1 @@
+{"objects": ["fork", "place", "placemat"], "relationships": [[0, "laying on", 1], [0, "on", 1], [1, "setting", 2]]}

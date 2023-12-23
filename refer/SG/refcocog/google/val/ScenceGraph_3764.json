@@ -1,0 +1,1 @@
+{"objects": ["bird", "side", "windowsill", "window", "plant"], "relationships": [[0, "on", 1], [1, "of", 2], [0, "outside", 1], [1, "toward", 2]]}

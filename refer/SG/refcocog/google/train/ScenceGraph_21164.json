@@ -1,0 +1,1 @@
+{"objects": ["man", "hat", "sunglasses", "motorcycle", "woman", "him", "shoulders", "person"], "relationships": [[0, "wearing", 1], [0, "wearing", 2], [1, "sitting on", 3], [2, "sitting on", 3], [3, "with", 4], [4, "behind", 5], [4, "holding onto", 6], [0, "with", 1]]}

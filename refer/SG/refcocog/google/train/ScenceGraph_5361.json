@@ -1,0 +1,1 @@
+{"objects": ["horse", "it", "nose", "bars", "fence", "animal", "face"], "relationships": [[0, "poking", 1], [0, "poking", 2], [0, "through", 3], [3, "of", 4], [0, "sticking", 1], [0, "through", 2]]}

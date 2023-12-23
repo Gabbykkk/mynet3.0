@@ -1,0 +1,1 @@
+{"objects": ["toothbrush", "blue", "package"], "relationships": [[0, "handled", 1], [0, "in", 2]]}

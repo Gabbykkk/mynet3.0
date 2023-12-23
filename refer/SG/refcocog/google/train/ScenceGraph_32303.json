@@ -1,0 +1,1 @@
+{"objects": ["grey suitcase", "suitcase", "seersucker", "wall"], "relationships": [[0, "behind", 1], [0, "printed", 1], [1, "against", 2]]}

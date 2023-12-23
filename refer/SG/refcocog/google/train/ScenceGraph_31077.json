@@ -1,0 +1,1 @@
+{"objects": ["metal bench", "sign", "bench", "back"], "relationships": [[0, "near", 1], [0, "in", 1]]}

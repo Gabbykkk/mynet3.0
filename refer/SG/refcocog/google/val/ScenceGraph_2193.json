@@ -1,0 +1,1 @@
+{"objects": ["man", "dress", "cricket", "refree", "wicket keeper", "baseball ground"], "relationships": [[0, "wearing", 1], [0, "watching", 2], [0, "behind", 1], [0, "on", 2]]}

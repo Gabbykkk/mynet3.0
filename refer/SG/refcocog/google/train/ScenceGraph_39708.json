@@ -1,0 +1,1 @@
+{"objects": ["sign", "word stop", "it", "lettering", "octagon", "leftmost stop"], "relationships": [[0, "with", 1], [1, "on", 2], [1, "in", 3], [0, "of", 1]]}

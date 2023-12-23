@@ -1,0 +1,1 @@
+{"objects": ["truck", "boxes", "that", "eggs", "them"], "relationships": [[0, "with", 1], [2, "say", 3], [3, "on", 4], [0, "carrying", 1], [0, "labeled", 2]]}

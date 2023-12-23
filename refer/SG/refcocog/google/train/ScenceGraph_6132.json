@@ -1,0 +1,1 @@
+{"objects": ["pyrex", "tray", "stove", "brownie", "pan", "that", "oven"], "relationships": [[0, "baking", 1], [0, "on", 2], [0, "in", 1]]}

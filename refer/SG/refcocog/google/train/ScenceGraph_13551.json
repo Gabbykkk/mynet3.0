@@ -1,0 +1,1 @@
+{"objects": ["pair", "skis", "boat", "themselves", "front"], "relationships": [[0, "of", 1], [0, "in", 2], [1, "sitting by", 2], [1, "at", 3], [3, "of", 4]]}

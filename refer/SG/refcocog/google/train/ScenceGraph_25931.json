@@ -1,0 +1,1 @@
+{"objects": ["umbrella", "family", "pole", "bags"], "relationships": [[0, "open above", 1], [0, "holding", 1]]}

@@ -1,0 +1,1 @@
+{"objects": ["sheep", "side", "sheeps", "farm", "shadows", "grass"], "relationships": [[0, "along", 1], [0, "standing", 2], [0, "in", 3], [0, "nearest", 1], [0, "on", 2]]}

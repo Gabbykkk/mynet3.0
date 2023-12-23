@@ -1,0 +1,1 @@
+{"objects": ["collection", "flowers", "woman", "bench", "plaza"], "relationships": [[0, "of", 1], [1, "near", 2], [2, "on", 3], [0, "in", 1]]}

@@ -1,0 +1,1 @@
+{"objects": ["mexican", "baseball game", "guy", "tshirt", "jeans", "baseball"], "relationships": [[0, "during", 1], [0, "in", 1], [0, "in", 2], [0, "playing", 3]]}

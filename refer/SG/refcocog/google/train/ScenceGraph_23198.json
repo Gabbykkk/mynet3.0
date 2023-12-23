@@ -1,0 +1,1 @@
+{"objects": ["fork", "banana", "cord", "it"], "relationships": [[0, "holding", 1], [0, "with", 2], [2, "behind", 3]]}

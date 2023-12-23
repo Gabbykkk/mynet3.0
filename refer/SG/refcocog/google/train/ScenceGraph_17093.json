@@ -1,0 +1,1 @@
+{"objects": ["firetruck", "parking space", "environment", "engine number", "corner"], "relationships": [[0, "in", 2], [0, "turning", 1]]}

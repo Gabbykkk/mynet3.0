@@ -1,0 +1,1 @@
+{"objects": ["woman", "sunglasses", "shirt", "kid", "her", "zoo", "infant carrier", "baby", "it", "giraffes"], "relationships": [[0, "with", 1], [0, "with", 2], [2, "carrying", 3], [2, "on", 4], [2, "back at", 5], [0, "wearing", 1], [0, "wearing", 2], [2, "with", 3], [3, "in", 4]]}

@@ -1,0 +1,1 @@
+{"objects": ["player", "glove", "catcher"], "relationships": [[0, "wearing", 1]]}

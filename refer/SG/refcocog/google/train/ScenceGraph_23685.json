@@ -1,0 +1,1 @@
+{"objects": ["suv", "police motorcycle", "utility sport vehicle", "hitch", "cop", "motocycle"], "relationships": [[0, "behind", 1], [0, "with", 1], [0, "behind", 2], [2, "against", 3]]}

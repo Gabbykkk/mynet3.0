@@ -1,0 +1,1 @@
+{"objects": ["carrot", "bell pepper", "orange brownish carrot", "peppers", "fruits", "veggies"], "relationships": [[0, "above", 1], [0, "next to", 1], [0, "next to", 2]]}

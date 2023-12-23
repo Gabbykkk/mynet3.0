@@ -1,0 +1,1 @@
+{"objects": ["cutting board", "carrots", "it", "cutting white board", "mushroom caps", "carrot slices"], "relationships": [[0, "with", 1], [1, "on", 2], [0, "with", 2], [2, "on", 3]]}

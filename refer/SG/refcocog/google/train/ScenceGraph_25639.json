@@ -1,0 +1,1 @@
+{"objects": ["laptop", "keyboard", "clutter", "scraps", "paper", "laptop computer", "papers", "items", "desk"], "relationships": [[0, "with", 1], [1, "in", 2], [2, "including", 3], [3, "of", 4], [0, "with", 2], [1, "behind", 3], [2, "behind", 3], [0, "on", 4]]}

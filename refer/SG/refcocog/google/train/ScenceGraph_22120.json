@@ -1,0 +1,1 @@
+{"objects": ["flower", "table", "object", "that", "tree", "course"], "relationships": [[0, "on", 1], [1, "resembles", 2], [1, "behind", 3]]}

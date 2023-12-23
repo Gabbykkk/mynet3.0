@@ -1,0 +1,1 @@
+{"objects": ["baby giraffe", "zoo", "pile", "rocks", "something", "adult giraffe", "shoulder"], "relationships": [[0, "in", 1], [1, "over", 2], [2, "of", 3], [5, "looking over", 6]]}

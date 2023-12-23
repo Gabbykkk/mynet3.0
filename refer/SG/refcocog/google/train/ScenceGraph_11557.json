@@ -1,0 +1,1 @@
+{"objects": ["bench", "that", "ground", "which", "guy", "skate board"], "relationships": [[1, "laying on", 2], [2, "on", 1], [2, "operating", 3]]}

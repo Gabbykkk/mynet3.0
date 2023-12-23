@@ -1,0 +1,1 @@
+{"objects": ["surf board", "water", "woman", "it", "surfboard"], "relationships": [[0, "in", 1], [0, "with", 2], [2, "on", 3], [0, "through", 1], [0, "on", 2]]}

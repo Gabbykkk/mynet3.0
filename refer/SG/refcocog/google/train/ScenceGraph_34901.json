@@ -1,0 +1,1 @@
+{"objects": ["man", "check shirts", "roller skating", "boy", "trick", "skateboard"], "relationships": [[0, "wearing", 1], [1, "practicing", 2], [0, "doing", 1], [0, "on", 2]]}

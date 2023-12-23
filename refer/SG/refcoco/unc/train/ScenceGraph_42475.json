@@ -1,0 +1,1 @@
+{"objects": ["suitcase", "cart", "luggage", "camo luggage"], "relationships": [[0, "on", 1], [0, "on top of", 1], [0, "leaning on", 1]]}

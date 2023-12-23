@@ -1,0 +1,1 @@
+{"objects": ["man", "bike rail", "stairs", "boy", "railing"], "relationships": [[0, "down", 1], [1, "leaning on", 2], [0, "on", 1]]}

@@ -1,0 +1,1 @@
+{"objects": ["zoo keeper", "person", "middle", "picture", "person center"], "relationships": [[0, "in", 1], [1, "of", 2]]}

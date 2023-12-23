@@ -1,0 +1,1 @@
+{"objects": ["laptop", "desktop background screen", "keyboard section", "papers", "computer monitor", "webpage", "background"], "relationships": [[0, "with", 1], [0, "with", 2], [0, "has", 1], [1, "with", 2]]}

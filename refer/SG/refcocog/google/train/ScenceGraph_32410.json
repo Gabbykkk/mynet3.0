@@ -1,0 +1,1 @@
+{"objects": ["travel trailer", "silver stripes", "door", "truck", "hitch", "front", "what", "trailer", "camper"], "relationships": [[0, "with", 1], [0, "with", 2], [4, "to", 3], [2, "to", 4], [3, "to", 4]]}

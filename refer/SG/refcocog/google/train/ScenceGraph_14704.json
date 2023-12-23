@@ -1,0 +1,1 @@
+{"objects": ["baseball bat", "glove", "jersey", "museum exhibit", "bat", "catchers"], "relationships": [[0, "next to", 1], [0, "next to", 2], [1, "in", 3], [2, "in", 3], [0, "behind", 1]]}

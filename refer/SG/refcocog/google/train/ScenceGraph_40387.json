@@ -1,0 +1,1 @@
+{"objects": ["boat", "mast", "side", "sailboat", "that", "shore", "sail pole", "sails"], "relationships": [[0, "with", 1], [1, "on", 2], [1, "to", 2], [0, "with", 3], [4, "with", 3]]}

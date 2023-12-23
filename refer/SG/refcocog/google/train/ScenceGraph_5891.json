@@ -1,0 +1,1 @@
+{"objects": ["bird", "bread", "ground", "birds", "pigeon", "head"], "relationships": [[0, "eating", 1], [0, "on", 2], [3, "at", 4], [4, "on", 5], [0, "with", 1]]}

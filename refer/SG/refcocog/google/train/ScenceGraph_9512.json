@@ -1,0 +1,1 @@
+{"objects": ["man", "video games", "television"], "relationships": [[0, "playing", 1], [0, "at", 1]]}

@@ -1,0 +1,1 @@
+{"objects": ["skier", "people", "face mask", "man", "skiiers"], "relationships": [[0, "between", 1], [1, "wearing", 2]]}

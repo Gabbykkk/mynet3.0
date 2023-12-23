@@ -1,0 +1,1 @@
+{"objects": ["floor mattress", "middle", "room", "flower blanket", "mattress", "blanket", "that", "mattresses"], "relationships": [[0, "in", 1], [4, "in", 1], [1, "of", 2], [0, "with", 3], [4, "with", 3], [0, "with", 1]]}

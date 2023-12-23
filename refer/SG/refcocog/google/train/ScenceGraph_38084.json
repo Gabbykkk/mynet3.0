@@ -1,0 +1,1 @@
+{"objects": ["horse", "officer", "jacket", "police officer", "that", "camera"], "relationships": [[1, "ridden", 0], [1, "without", 2], [0, "of", 1], [2, "towards", 3]]}

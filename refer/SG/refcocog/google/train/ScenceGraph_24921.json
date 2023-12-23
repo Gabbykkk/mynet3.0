@@ -1,0 +1,1 @@
+{"objects": ["bird", "facing", "leg", "air"], "relationships": [[0, "in", 1], [0, "has", 1], [1, "in", 2]]}

@@ -1,0 +1,1 @@
+{"objects": ["clock", "christmas tree", "face"], "relationships": [[0, "facing", 1], [0, "of", 1], [0, "near", 2]]}

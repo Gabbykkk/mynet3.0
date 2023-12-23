@@ -1,0 +1,1 @@
+{"objects": ["fur", "spots", "half", "collar", "it", "bed", "cat", "animal"], "relationships": [[4, "sitting on", 5], [5, "near", 6], [0, "on", 1]]}

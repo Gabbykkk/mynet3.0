@@ -1,0 +1,1 @@
+{"objects": ["motorcyle", "dirt bike", "shop", "bicycle"], "relationships": [[0, "outside", 1], [1, "beside", 2]]}

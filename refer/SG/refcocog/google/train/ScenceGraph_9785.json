@@ -1,0 +1,1 @@
+{"objects": ["fan", "back", "game", "man", "jeans", "chair", "stadium"], "relationships": [[0, "in", 1], [0, "watching", 2], [0, "with", 1], [0, "sitting in", 2], [2, "of", 3]]}

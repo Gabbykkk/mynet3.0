@@ -1,0 +1,1 @@
+{"objects": ["luggage", "beam", "chute"], "relationships": [[0, "closest to", 1], [0, "nearest", 1]]}

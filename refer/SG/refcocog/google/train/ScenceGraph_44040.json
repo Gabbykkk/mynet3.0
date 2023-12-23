@@ -1,0 +1,1 @@
+{"objects": ["man", "skating board", "top", "image", "boy", "black", "air", "skateboard", "othera"], "relationships": [[0, "on", 1], [0, "on", 2], [2, "of", 3], [0, "wearing", 1], [0, "in", 2]]}

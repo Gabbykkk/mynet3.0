@@ -1,0 +1,1 @@
+{"objects": ["table", "food", "space", "palcemats"], "relationships": [[0, "full of", 1], [0, "between", 1]]}

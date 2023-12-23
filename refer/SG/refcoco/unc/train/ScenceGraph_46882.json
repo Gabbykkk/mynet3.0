@@ -1,0 +1,1 @@
+{"objects": ["man", "luggage claim", "airport", "guy", "camera", "center", "screen", "shirt"], "relationships": [[0, "at", 1], [1, "in", 2], [0, "facing", 1], [2, "of", 3]]}

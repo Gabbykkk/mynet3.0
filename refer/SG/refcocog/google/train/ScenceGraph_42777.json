@@ -1,0 +1,1 @@
+{"objects": ["back", "woman", "seat", "airplane", "window", "lady", "chair"], "relationships": [[0, "of", 1], [1, "in", 2], [2, "at", 3], [2, "through", 4], [0, "sitting", 1], [1, "facing", 2]]}

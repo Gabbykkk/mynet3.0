@@ -1,0 +1,1 @@
+{"objects": ["slice", "cheese cake", "sauce", "top", "sides", "cake", "color sauce"], "relationships": [[0, "of", 1], [0, "with", 2], [0, "with", 4], [2, "on", 3], [4, "on", 3], [0, "having", 1]]}

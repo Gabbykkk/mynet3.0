@@ -1,0 +1,1 @@
+{"objects": ["giraffe", "fence", "pole", "background", "left", "hand picture"], "relationships": [[0, "next to", 1], [0, "next to", 2], [0, "in", 3], [3, "behind", 4], [0, "on", 1], [0, "in", 2]]}

@@ -1,0 +1,1 @@
+{"objects": ["chevrolet suv", "that", "chrome grille", "van", "baseball field", "league"], "relationships": [[1, "has", 2], [0, "at", 1]]}

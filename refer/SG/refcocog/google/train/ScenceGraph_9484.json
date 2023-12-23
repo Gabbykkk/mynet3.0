@@ -1,0 +1,1 @@
+{"objects": ["man", "hat", "elephant", "it", "picture", "back", "stick"], "relationships": [[0, "wearing", 1], [1, "riding", 2], [0, "is", 1], [1, "of", 2], [2, "sitting in", 3], [3, "of", 4], [4, "holding", 5]]}

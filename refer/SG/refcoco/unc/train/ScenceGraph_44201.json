@@ -1,0 +1,1 @@
+{"objects": ["brocci", "that", "bottom", "picture", "inline", "shrimp", "broccoli"], "relationships": [[1, "touches", 2], [1, "touches", 4], [2, "of", 3], [4, "of", 3], [1, "with", 5], [0, "on", 1], [0, "under", 1]]}

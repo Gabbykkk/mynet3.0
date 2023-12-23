@@ -1,0 +1,1 @@
+{"objects": ["train car", "locomotive", "motion", "track", "train cart", "tracks"], "relationships": [[1, "bypassed", 0], [1, "in", 2], [1, "on", 3], [0, "on", 1]]}

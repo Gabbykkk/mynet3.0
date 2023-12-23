@@ -1,0 +1,1 @@
+{"objects": ["crane", "streets", "work truck", "bucket", "wires", "right", "man"], "relationships": [[0, "in", 1], [0, "with", 1], [1, "under", 2], [0, "to", 3], [3, "of", 4]]}

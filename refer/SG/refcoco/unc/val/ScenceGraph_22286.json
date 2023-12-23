@@ -1,0 +1,1 @@
+{"objects": ["guy", "glass", "stick", "man", "middle", "object", "people", "right", "tool", "you"], "relationships": [[0, "with", 1], [0, "on", 2], [0, "in", 1], [0, "holding", 2], [0, "to", 3], [0, "on", 4], [0, "facing", 2]]}

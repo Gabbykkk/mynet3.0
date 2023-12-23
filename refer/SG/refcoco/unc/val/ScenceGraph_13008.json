@@ -1,0 +1,1 @@
+{"objects": ["row hotdog center", "front", "dog", "column"], "relationships": [[0, "left", 1], [0, "toward", 1], [1, "in", 2]]}

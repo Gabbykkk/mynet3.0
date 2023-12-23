@@ -1,0 +1,1 @@
+{"objects": ["woman", "hair", "mouth", "hand", "infant", "toothbrush", "lady", "teeth"], "relationships": [[0, "with", 1], [0, "open with", 3], [3, "of", 4], [4, "putting", 5], [4, "in", 6]]}

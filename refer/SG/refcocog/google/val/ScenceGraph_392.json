@@ -1,0 +1,1 @@
+{"objects": ["skier", "camera", "sketcher"], "relationships": [[0, "at", 1], [0, "near", 1]]}

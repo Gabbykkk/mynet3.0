@@ -1,0 +1,1 @@
+{"objects": ["thing", "fence", "girls head", "fence pole", "hitter head"], "relationships": [[0, "behind", 1], [1, "above", 2], [2, "of", 3], [0, "above", 1]]}

@@ -1,0 +1,1 @@
+{"objects": ["elephant", "cement wall", "wall", "right"], "relationships": [[0, "towards", 1], [0, "to", 2], [2, "of", 3], [3, "away from", 4]]}

@@ -1,0 +1,1 @@
+{"objects": ["napkin", "silverware", "band", "it", "sandwich plate", "utensil", "tape"], "relationships": [[1, "between", 2], [2, "with", 3], [1, "aroud", 4], [0, "containg", 5]]}

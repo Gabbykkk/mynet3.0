@@ -1,0 +1,1 @@
+{"objects": ["stove", "oven", "lady", "sweater"], "relationships": [[1, "wearing", 2]]}

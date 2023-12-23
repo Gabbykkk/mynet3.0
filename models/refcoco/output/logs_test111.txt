@@ -1,0 +1,18 @@
+/home/h/anaconda3/envs/pytorch6/lib/python3.9/site-packages/mmcv/__init__.py:20: UserWarning: On January 1, 2023, MMCV will release v2.0.0, in which it will remove components related to the training process and add a data transformation module. In addition, it will rename the package names mmcv to mmcv-lite and mmcv-full to mmcv. See https://github.com/open-mmlab/mmcv/blob/master/docs/en/compatibility.md for more details.
+  warnings.warn(
+Image size: 320
+loading dataset refcoco into memory...
+creating index...
+index created.
+DONE (t=4.73s)
+loading dataset refcoco into memory...
+creating index...
+index created.
+DONE (t=4.97s)
+local rank None / global rank 0 successfully built train dataset.
+lavt
+Initializing Multi-modal Swin Transformer weights from ./pretrained_weights/swin_small_patch4_window7_224_22k.pth
+Epoch: [0]  [   0/2120]  eta: 2:07:58  lr: 4.999929245227394e-05  loss: 0.9049 (0.9049)  time: 3.6218  data: 0.7204  max mem: 11876
+Epoch: [0]  [  10/2120]  eta: 1:02:55  lr: 4.999221691382183e-05  loss: 0.8315 (0.8204)  time: 1.7895  data: 0.0690  max mem: 13657
+Epoch: [0]  [  20/2120]  eta: 0:59:25  lr: 4.9985141264098994e-05  loss: 0.6931 (0.7167)  time: 1.6016  data: 0.0039  max mem: 13657
+Epoch: [0]  [  30/2120]  eta: 0:58:23  lr: 4.997806550308618e-05  loss: 0.5099 (0.6369)  time: 1.6141  data: 0.0045  max mem: 13657

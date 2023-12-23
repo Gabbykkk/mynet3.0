@@ -1,0 +1,1 @@
+{"objects": ["row", "cars", "city street", "car", "center"], "relationships": [[0, "of", 1], [0, "on", 2], [0, "in", 1], [2, "in", 1], [2, "on", 3]]}

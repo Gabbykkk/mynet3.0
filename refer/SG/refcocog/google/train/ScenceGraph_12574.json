@@ -1,0 +1,1 @@
+{"objects": ["gala apple", "pile", "oranges", "apple", "stickers", "it"], "relationships": [[0, "next to", 1], [1, "of", 2], [0, "with", 1], [1, "on", 2]]}

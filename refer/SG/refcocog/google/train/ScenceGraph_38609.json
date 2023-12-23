@@ -1,0 +1,1 @@
+{"objects": ["fire", "foot", "edge"], "relationships": [[0, "hydrant with", 1], [1, "on", 2]]}

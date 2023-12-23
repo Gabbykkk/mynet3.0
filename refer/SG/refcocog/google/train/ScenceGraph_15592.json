@@ -1,0 +1,1 @@
+{"objects": ["computer monitor", "screen", "left", "monitors", "apple monitor", "drawing", "airplane", "triangle", "swirls"], "relationships": [[0, "with", 1], [0, "to", 2], [2, "of", 3], [0, "under", 1], [1, "of", 2], [1, "of", 3]]}

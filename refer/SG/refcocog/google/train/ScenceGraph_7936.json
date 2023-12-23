@@ -1,0 +1,1 @@
+{"objects": ["horse", "stall", "veterinarian", "camouflage shirt", "women"], "relationships": [[2, "led", 0], [2, "into", 1], [2, "wearing", 3], [0, "near", 1]]}

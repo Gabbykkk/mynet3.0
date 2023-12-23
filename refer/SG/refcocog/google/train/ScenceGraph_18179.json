@@ -1,0 +1,1 @@
+{"objects": ["steel fork", "impressions", "edges", "glint", "light", "curve", "tong area", "tongs", "dessert fork", "dining table", "knife"], "relationships": [[0, "with", 1], [0, "with", 3], [1, "around", 2], [3, "around", 2], [3, "of", 4], [7, "of", 4], [3, "in", 5], [7, "in", 5], [5, "of", 6], [0, "on", 1], [0, "with", 2]]}

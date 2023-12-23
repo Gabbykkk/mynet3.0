@@ -1,0 +1,1 @@
+{"objects": ["officer", "horse", "helmet", "picture", "police officer", "shirt", "pants"], "relationships": [[0, "riding", 1], [0, "of", 1], [1, "sitting on", 2], [2, "wearing", 3], [2, "with", 4]]}

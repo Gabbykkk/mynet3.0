@@ -1,0 +1,1 @@
+{"objects": ["mouth", "giraffe", "middle giraffe", "tongue"], "relationships": [[0, "of", 1], [1, "caressing", 2], [0, "licking", 1]]}

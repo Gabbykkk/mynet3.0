@@ -1,0 +1,1 @@
+{"objects": ["decker bus", "words", "bus", "it", "windows", "decks", "object"], "relationships": [[0, "with", 1], [2, "on", 3], [4, "has", 5], [5, "along", 6], [0, "labeled", 1]]}

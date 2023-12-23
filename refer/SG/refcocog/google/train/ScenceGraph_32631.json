@@ -1,0 +1,1 @@
+{"objects": ["handle", "pair", "shears", "table", "scissors"], "relationships": [[0, "for", 1], [1, "of", 2], [1, "on", 3], [0, "with", 1]]}

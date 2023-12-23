@@ -1,0 +1,1 @@
+{"objects": ["car", "that", "picture", "chevy pickup", "construction zone"], "relationships": [[1, "towards", 2], [0, "passing through", 1]]}

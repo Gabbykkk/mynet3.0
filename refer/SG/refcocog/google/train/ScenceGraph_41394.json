@@ -1,0 +1,1 @@
+{"objects": ["reflection", "part", "sink", "refection", "sing", "right"], "relationships": [[0, "of", 1], [1, "of", 2], [0, "on", 1], [0, "on", 2]]}

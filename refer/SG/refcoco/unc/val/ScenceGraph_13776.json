@@ -1,0 +1,1 @@
+{"objects": ["kitchen drawers", "man", "top", "drawer", "table"], "relationships": [[0, "left on", 1], [0, "toward", 2], [0, "on", 1]]}

@@ -1,0 +1,1 @@
+{"objects": ["woman", "shirt", "glasses", "girl", "toy ladybug", "lady", "airport", "family", "hand jean bag"], "relationships": [[0, "in", 1], [0, "in", 2], [0, "pulling", 3], [0, "on", 4], [0, "coming from", 1], [0, "with", 2]]}

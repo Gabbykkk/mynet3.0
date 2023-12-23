@@ -1,0 +1,1 @@
+{"objects": ["image", "clock", "wall", "circle"], "relationships": [[0, "under", 1], [1, "on", 2]]}

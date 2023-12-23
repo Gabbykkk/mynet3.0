@@ -1,0 +1,1 @@
+{"objects": ["man", "island", "cabinets", "kitchen", "shirt", "khaki pants", "food"], "relationships": [[0, "between", 1], [0, "between", 2], [2, "in", 3], [0, "wearing", 1], [0, "wearing", 2], [0, "prepares", 3], [0, "in", 4]]}

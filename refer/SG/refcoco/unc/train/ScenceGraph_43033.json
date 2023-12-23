@@ -1,0 +1,1 @@
+{"objects": ["center", "pic", "flower pot", "flowerpot", "top", "screen"], "relationships": [[0, "of", 1], [0, "above", 2], [0, "going off", 1], [1, "of", 2]]}

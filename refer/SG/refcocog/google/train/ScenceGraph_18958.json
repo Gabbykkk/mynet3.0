@@ -1,0 +1,1 @@
+{"objects": ["man", "surf shirt", "logo", "it", "surfboard", "shirt", "beach", "men"], "relationships": [[0, "in", 1], [0, "with", 2], [2, "on", 3], [0, "holding", 4], [0, "carrying", 2], [0, "walking", 3], [0, "between", 4], [4, "in", 5]]}

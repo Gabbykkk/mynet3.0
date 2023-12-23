@@ -1,0 +1,1 @@
+{"objects": ["construction worker", "stop sign", "who", "back", "camera", "man", "stop", "middle", "road", "traffic"], "relationships": [[0, "holding", 1], [3, "turned to", 4], [0, "in", 2], [2, "of", 3], [3, "directing", 4]]}

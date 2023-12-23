@@ -1,0 +1,1 @@
+{"objects": ["holding bananas", "style bicycle", "green bananas", "shadow", "ground"], "relationships": [[0, "carring", 1], [1, "casting", 2], [2, "on", 3]]}

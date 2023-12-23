@@ -1,0 +1,1 @@
+{"objects": ["cleveland", "batting gloves", "player", "right", "name", "jersey"], "relationships": [[0, "on", 1], [1, "with", 2], [1, "with", 3], [3, "on", 4]]}

@@ -1,0 +1,1 @@
+{"objects": ["emtpy space", "pillows", "left", "guy", "section", "couch", "light"], "relationships": [[0, "with", 1], [0, "to", 2], [2, "of", 3], [0, "of", 1], [0, "in", 2]]}

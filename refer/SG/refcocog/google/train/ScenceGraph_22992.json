@@ -1,0 +1,1 @@
+{"objects": ["kerry john guy", "tie", "man", "who", "color tie", "hand", "shoulder"], "relationships": [[0, "in", 1], [1, "wearing", 2], [1, "wearing", 3], [1, "on", 4]]}

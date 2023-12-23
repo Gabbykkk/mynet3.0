@@ -1,0 +1,1 @@
+{"objects": ["pile", "broccolli", "side", "picture", "plate", "food", "it", "bunch", "broccoli", "left", "dish"], "relationships": [[0, "of", 1], [0, "near", 2], [2, "of", 3], [0, "sitting on", 4], [0, "with", 5], [0, "to", 2]]}

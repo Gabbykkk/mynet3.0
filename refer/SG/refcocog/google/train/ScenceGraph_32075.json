@@ -1,0 +1,1 @@
+{"objects": ["motorcycle", "gas prices", "sign", "prices"], "relationships": [[0, "closest to", 1], [0, "with", 2]]}

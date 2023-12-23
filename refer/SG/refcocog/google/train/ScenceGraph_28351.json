@@ -1,0 +1,1 @@
+{"objects": ["houseplant", "left", "entertainment center", "that", "flowers", "plant", "corner", "room", "exposure", "sunlight"], "relationships": [[0, "to", 1], [1, "of", 2], [3, "has", 4], [0, "in", 1], [0, "with", 3], [3, "to", 4]]}

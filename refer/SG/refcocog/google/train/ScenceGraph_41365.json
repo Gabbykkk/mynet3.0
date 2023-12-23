@@ -1,0 +1,1 @@
+{"objects": ["cow", "hay", "grass"], "relationships": [[0, "eating", 1], [0, "chewing", 1]]}

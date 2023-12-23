@@ -1,0 +1,1 @@
+{"objects": ["kitten", "mirrors", "tiger", "cat", "mirror"], "relationships": [[0, "stripped", 1], [1, "looking in", 2]]}

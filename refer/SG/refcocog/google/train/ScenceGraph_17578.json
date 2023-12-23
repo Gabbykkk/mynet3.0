@@ -1,0 +1,1 @@
+{"objects": ["nasa jet", "space shuttle", "air", "plane", "space craft"], "relationships": [[0, "transports", 1], [1, "in", 2], [0, "carrying", 1]]}

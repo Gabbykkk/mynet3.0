@@ -1,0 +1,1 @@
+{"objects": ["boat", "trailer", "wheels", "grass", "building", "color boat", "lawn"], "relationships": [[0, "on", 2], [1, "on", 2], [2, "sitting on", 3], [0, "in", 1]]}

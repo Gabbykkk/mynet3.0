@@ -1,0 +1,1 @@
+{"objects": ["airplane seat", "airline seats", "window", "seats", "seat", "front", "picture"], "relationships": [[0, "next to", 1], [0, "behind", 2], [3, "in", 4], [4, "of", 5]]}

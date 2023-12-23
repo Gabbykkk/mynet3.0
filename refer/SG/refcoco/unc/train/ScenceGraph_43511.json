@@ -1,0 +1,1 @@
+{"objects": ["girl", "her", "camera", "she", "herself", "towars", "you", "jumper"], "relationships": [[0, "has", 1], [0, "back toward", 2], [2, "turned", 0]]}

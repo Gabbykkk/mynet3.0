@@ -1,0 +1,1 @@
+{"objects": ["traffic light", "pedestrian sign", "which"], "relationships": [[0, "next to", 1]]}

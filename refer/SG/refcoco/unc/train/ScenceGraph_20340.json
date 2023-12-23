@@ -1,0 +1,1 @@
+{"objects": ["mirror image", "suit case", "refection", "mirror", "bag", "reflection", "luggage"], "relationships": [[0, "of", 1], [0, "in", 1], [1, "of", 2]]}

@@ -1,0 +1,1 @@
+{"objects": ["love seat", "pillows", "set", "stairs", "couceh", "stripes", "it", "flowers", "side", "sidetable", "lamp"], "relationships": [[0, "with", 1], [1, "facing", 2], [2, "of", 3], [1, "on", 2], [1, "next to", 3], [1, "next to", 5], [3, "on", 4], [5, "on", 4], [5, "with", 6], [6, "on", 7]]}

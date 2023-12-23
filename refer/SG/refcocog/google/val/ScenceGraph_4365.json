@@ -1,0 +1,1 @@
+{"objects": ["apple", "which", "half", "end", "fork"], "relationships": [[0, "on", 3], [3, "of", 4], [0, "of", 1], [0, "in", 2]]}

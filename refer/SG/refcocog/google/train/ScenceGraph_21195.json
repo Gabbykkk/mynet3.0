@@ -1,0 +1,1 @@
+{"objects": ["photo", "woman", "winter coat", "hill", "moutains", "background", "cap"], "relationships": [[0, "of", 1], [4, "of", 1], [0, "in", 2], [4, "in", 2], [0, "on", 3], [4, "on", 3], [4, "in", 5]]}

@@ -1,0 +1,1 @@
+{"objects": ["tennis player", "side", "chainlink", "fence"], "relationships": [[0, "on", 1], [1, "of", 2], [0, "behind", 1]]}

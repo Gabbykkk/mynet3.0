@@ -1,0 +1,1 @@
+{"objects": ["giraffe", "fence", "people", "it", "neck", "gate", "food"], "relationships": [[0, "through", 1], [0, "reaching", 1], [0, "s", 2], [0, "through", 3], [5, "watching", 6]]}

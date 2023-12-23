@@ -1,0 +1,1 @@
+{"objects": ["clock", "numerals", "clocks", "numbers", "table"], "relationships": [[0, "with", 1], [0, "between", 2], [2, "with", 3], [0, "on", 1]]}

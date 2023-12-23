@@ -1,0 +1,1 @@
+{"objects": ["man", "shirt", "jeans", "lanyard", "neck", "laptop", "that", "umbrella", "it", "sleeve shirt", "glasses"], "relationships": [[0, "in", 1], [0, "in", 2], [0, "with", 3], [3, "around", 4], [0, "towards", 5], [6, "has", 7], [7, "above", 8], [0, "wearing", 1], [0, "wearing", 2]]}

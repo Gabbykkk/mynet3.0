@@ -1,0 +1,1 @@
+{"objects": ["photo", "that", "camera", "he", "baseball cap", "shorts", "sneakers", "red", "them", "man", "tennis court", "tee shirt"], "relationships": [[1, "away from", 2], [3, "wearing", 4], [3, "wearing", 5], [6, "with", 7], [7, "on", 8], [0, "on", 1]]}

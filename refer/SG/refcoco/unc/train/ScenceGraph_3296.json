@@ -1,0 +1,1 @@
+{"objects": ["box", "piece split", "half", "handits", "hand"], "relationships": [[0, "in", 1], [0, "in", 2]]}

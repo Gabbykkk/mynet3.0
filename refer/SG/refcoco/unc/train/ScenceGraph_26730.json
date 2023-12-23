@@ -1,0 +1,1 @@
+{"objects": ["fridge", "door", "fridge magnets"], "relationships": [[0, "except", 1]]}

@@ -1,0 +1,1 @@
+{"objects": ["paperback book", "night watch", "cover", "book", "waters"], "relationships": [[0, "titled", 1], [1, "with", 2], [1, "by", 2]]}

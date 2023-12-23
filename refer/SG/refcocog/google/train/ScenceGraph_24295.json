@@ -1,0 +1,1 @@
+{"objects": ["baby duck", "pile", "sticks", "duck", "weeds"], "relationships": [[0, "sits in", 1], [1, "of", 2], [0, "sitting in", 1], [0, "next to", 2]]}

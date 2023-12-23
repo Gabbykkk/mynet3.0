@@ -1,0 +1,1 @@
+{"objects": ["slide", "suitcases", "cargo", "airplane", "converyor belt", "luggage", "part", "vehicle", "that", "it"], "relationships": [[0, "for", 1], [0, "for", 2], [0, "on", 2], [2, "of", 3], [4, "carried", 5]]}

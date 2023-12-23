@@ -1,0 +1,1 @@
+{"objects": ["decker bus", "stoplight", "turn", "road"], "relationships": [[0, "next to", 1], [0, "taking", 1], [1, "towards", 2]]}

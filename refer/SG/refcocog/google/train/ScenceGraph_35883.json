@@ -1,0 +1,1 @@
+{"objects": ["dump truck", "sort", "items", "ones", "truck", "cover", "trucks"], "relationships": [[0, "holding", 1], [1, "of", 2], [2, "behind", 3], [0, "with", 1]]}

@@ -1,0 +1,1 @@
+{"objects": ["bag", "parking meter", "foreground", "photo", "meter", "car driving"], "relationships": [[0, "covering", 1], [0, "in", 2], [2, "of", 3], [0, "next to", 2]]}

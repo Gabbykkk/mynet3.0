@@ -1,0 +1,1 @@
+{"objects": ["oxen", "plow", "farmer", "ox", "side", "yoke"], "relationships": [[0, "pulling", 1], [0, "from", 2], [0, "on", 1], [1, "of", 2]]}

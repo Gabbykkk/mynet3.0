@@ -1,0 +1,1 @@
+{"objects": ["child", "pants", "sticks", "skiis", "feet", "kid", "snow pants", "poles"], "relationships": [[0, "wearing", 1], [1, "holding", 2], [1, "with", 3], [3, "on", 4], [0, "in", 1]]}

@@ -1,0 +1,1 @@
+{"objects": ["person", "mask arms", "background", "mask", "gas kid mask"], "relationships": [[0, "wearing", 1], [1, "towards", 2], [0, "with", 1]]}

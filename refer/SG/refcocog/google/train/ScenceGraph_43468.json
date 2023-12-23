@@ -1,0 +1,1 @@
+{"objects": ["table top", "photo", "sequence", "step", "man", "table"], "relationships": [[1, "of", 2], [0, "in", 1], [2, "converting", 3]]}

@@ -1,0 +1,1 @@
+{"objects": ["plants", "home", "leafy plant", "tv"], "relationships": [[0, "inside", 1], [0, "behind", 1]]}

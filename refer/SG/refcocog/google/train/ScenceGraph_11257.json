@@ -1,0 +1,1 @@
+{"objects": ["elephant", "man", "it", "which", "cap"], "relationships": [[0, "carrying", 1], [0, "on", 2], [1, "has", 2], [2, "with", 3], [2, "on", 4]]}

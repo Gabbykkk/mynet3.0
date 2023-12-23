@@ -1,0 +1,1 @@
+{"objects": ["side view", "face", "tusks", "scene", "elephants", "riders", "trunk", "elephant", "body"], "relationships": [[0, "of", 1], [0, "of", 2], [0, "in", 3], [3, "with", 4], [4, "with", 5]]}

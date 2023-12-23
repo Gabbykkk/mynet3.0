@@ -1,0 +1,1 @@
+{"objects": ["woman", "stretch grey pants", "dot polka umbrella", "spiky hair", "denim overshirt"], "relationships": [[0, "wearing", 1], [1, "holding", 2], [0, "with", 1], [2, "holding", 3]]}

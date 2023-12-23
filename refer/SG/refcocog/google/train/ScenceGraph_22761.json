@@ -1,0 +1,1 @@
+{"objects": ["food", "that", "dough", "beans", "hotdog", "cheese", "biscuit"], "relationships": [[2, "touching", 3], [0, "with", 1]]}

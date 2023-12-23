@@ -1,0 +1,1 @@
+{"objects": ["horse", "another", "path", "donkey"], "relationships": [[0, "follows", 1], [0, "along", 2]]}

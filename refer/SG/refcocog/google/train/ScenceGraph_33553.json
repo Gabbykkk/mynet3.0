@@ -1,0 +1,1 @@
+{"objects": ["skateboard", "wheels", "sky", "print"], "relationships": [[0, "with", 1], [1, "toward", 2], [0, "underneath", 1]]}

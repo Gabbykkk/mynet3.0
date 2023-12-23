@@ -1,0 +1,1 @@
+{"objects": ["orange dog", "bottom", "pile", "stuff", "dogs", "it", "dog", "floor"], "relationships": [[0, "at", 1], [1, "of", 2], [0, "with", 3], [4, "on top of", 5], [0, "on", 1]]}

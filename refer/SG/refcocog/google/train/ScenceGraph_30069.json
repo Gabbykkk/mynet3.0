@@ -1,0 +1,1 @@
+{"objects": ["gray mug", "handle", "saucer", "mug", "table"], "relationships": [[0, "on", 2], [0, "down on", 1]]}

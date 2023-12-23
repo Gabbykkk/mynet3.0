@@ -1,0 +1,1 @@
+{"objects": ["chef", "woodblock table", "vegetables", "gas stove"], "relationships": [[0, "at", 1], [0, "cutting", 1], [1, "near", 2]]}

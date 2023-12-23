@@ -1,0 +1,1 @@
+{"objects": ["fire", "rescue truck", "field", "equipment", "pickup"], "relationships": [[0, "in", 2], [1, "in", 2], [0, "with", 2], [1, "with", 2], [2, "on", 3]]}

@@ -1,0 +1,1 @@
+{"objects": ["person", "rain slicker", "bridge", "woman", "raincoat", "water"], "relationships": [[0, "in", 1], [0, "crossing", 2], [1, "by", 2]]}

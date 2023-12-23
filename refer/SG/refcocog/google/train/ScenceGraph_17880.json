@@ -1,0 +1,1 @@
+{"objects": ["book", "chameleon clay", "top"], "relationships": [[0, "titled", 1], [0, "from", 1]]}

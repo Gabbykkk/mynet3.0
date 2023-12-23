@@ -1,0 +1,1 @@
+{"objects": ["zebra closet", "us", "zebra", "back", "pack", "camera"], "relationships": [[0, "to", 1], [0, "closest to", 1], [0, "in", 1], [1, "of", 2], [2, "closest to", 3]]}

@@ -1,0 +1,1 @@
+{"objects": ["cat", "mirror", "it", "picture"], "relationships": [[0, "next to", 1], [0, "laying", 3], [0, "by", 1]]}

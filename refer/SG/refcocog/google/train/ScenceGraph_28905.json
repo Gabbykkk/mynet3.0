@@ -1,0 +1,1 @@
+{"objects": ["red", "train", "train station"], "relationships": [[0, "db", 1], [0, "leaving", 1]]}

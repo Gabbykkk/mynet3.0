@@ -1,0 +1,1 @@
+{"objects": ["table", "pizza", "beer", "picnic patio", "bar", "restaurant", "tables", "food", "people", "it"], "relationships": [[0, "with", 1], [0, "with", 2], [0, "for", 1], [0, "for", 2], [1, "with", 3], [1, "with", 4], [2, "with", 3], [2, "with", 4], [3, "on", 6], [4, "on", 6]]}

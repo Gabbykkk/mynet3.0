@@ -1,0 +1,1 @@
+{"objects": ["baby", "dress", "umbrellas", "girl", "hat", "gown", "umbrella", "crib"], "relationships": [[0, "in", 1], [0, "holding", 2], [0, "with", 1], [0, "with", 2], [1, "with", 3], [2, "with", 3], [0, "holding", 4], [0, "over", 5], [0, "in", 6]]}

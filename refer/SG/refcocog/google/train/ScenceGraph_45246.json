@@ -1,0 +1,1 @@
+{"objects": ["woman", "horse", "that", "camera", "she", "bandeau bikini", "headband", "beach"], "relationships": [[0, "riding", 1], [4, "wearing", 5], [0, "with", 1], [0, "rides", 2], [0, "on", 3]]}

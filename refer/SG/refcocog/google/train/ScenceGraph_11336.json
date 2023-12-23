@@ -1,0 +1,1 @@
+{"objects": ["truck", "artwork", "right", "photographer", "images", "movie", "stallone"], "relationships": [[0, "with", 1], [0, "to", 2], [2, "of", 3], [0, "in", 1], [1, "from", 2], [2, "featuring", 3]]}

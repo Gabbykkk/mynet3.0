@@ -1,0 +1,1 @@
+{"objects": ["book", "bears", "bear", "group"], "relationships": [[0, "between", 1], [0, "in", 1]]}

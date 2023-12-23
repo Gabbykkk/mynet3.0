@@ -1,0 +1,1 @@
+{"objects": ["bus", "right", "frame"], "relationships": [[0, "on", 1], [1, "of", 2]]}

@@ -1,0 +1,1 @@
+{"objects": ["girl", "rain coat", "flowers", "chicks", "umbrella", "that", "pattern", "jacket", "child", "raincoat", "birds", "it"], "relationships": [[0, "in", 1], [0, "with", 2], [0, "with", 3], [2, "holding", 4], [3, "holding", 4], [5, "matches", 6], [5, "on", 7], [1, "with", 2], [1, "with", 3], [2, "on", 4], [3, "on", 4]]}

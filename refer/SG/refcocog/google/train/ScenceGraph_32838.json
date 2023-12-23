@@ -1,0 +1,1 @@
+{"objects": ["persing", "colour dress", "woman", "pieces", "boxing stance", "right", "companion"], "relationships": [[0, "wearing", 1], [0, "holds", 1], [0, "in", 2], [0, "to", 3], [3, "of", 4]]}

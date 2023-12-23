@@ -1,0 +1,1 @@
+{"objects": ["game video controller", "that", "child", "shirt", "control", "hand"], "relationships": [[2, "held", 1], [2, "wearing", 3], [0, "in", 1]]}

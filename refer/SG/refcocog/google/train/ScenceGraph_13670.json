@@ -1,0 +1,1 @@
+{"objects": ["lawn chair", "back", "camera", "chair", "cushions"], "relationships": [[1, "facing", 2], [0, "of", 1], [0, "without", 2]]}

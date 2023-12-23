@@ -1,0 +1,1 @@
+{"objects": ["bicycle", "wall", "plastic", "top", "corner", "doors"], "relationships": [[0, "with", 1], [1, "over", 2], [0, "against", 3], [3, "of", 4], [4, "near", 5]]}

@@ -1,0 +1,1 @@
+{"objects": ["scating board", "surfboard", "beach", "chair"], "relationships": [[0, "sitting on", 1], [0, "with", 2]]}

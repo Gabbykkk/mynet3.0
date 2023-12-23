@@ -1,0 +1,1 @@
+{"objects": ["sandwich", "pile", "wall"], "relationships": [[0, "on", 1], [0, "furthest from", 2]]}

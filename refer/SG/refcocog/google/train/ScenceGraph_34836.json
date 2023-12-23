@@ -1,0 +1,1 @@
+{"objects": ["straw umbrella", "right", "umbrellas", "this", "umbrella", "rigth"], "relationships": [[0, "to", 1], [1, "of", 2], [0, "is", 1], [1, "to", 2], [2, "of", 3]]}

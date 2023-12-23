@@ -1,0 +1,1 @@
+{"objects": ["van", "sidewalk", "people", "bikes", "omni maruthi van", "road"], "relationships": [[0, "next to", 1], [1, "with", 2], [2, "riding", 3]]}

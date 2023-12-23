@@ -1,0 +1,1 @@
+{"objects": ["color boat", "front", "side", "image", "fishing boat", "bicycle", "milk crate", "back"], "relationships": [[0, "in", 1], [0, "left", 2], [2, "of", 3], [0, "behind", 1], [0, "with", 2], [2, "on", 3]]}

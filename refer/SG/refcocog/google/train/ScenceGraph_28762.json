@@ -1,0 +1,1 @@
+{"objects": ["side door", "fridge", "door", "ice maker", "refridgerator"], "relationships": [[0, "of", 1], [0, "without", 1], [0, "on", 2]]}

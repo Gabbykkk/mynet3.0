@@ -1,0 +1,1 @@
+{"objects": ["scissors", "tray", "middle", "side", "top", "right", "picture"], "relationships": [[0, "toward", 2], [2, "on", 3], [0, "handle", 1], [1, "of", 2]]}

@@ -1,0 +1,1 @@
+{"objects": ["kid", "motorcycle", "boy", "shirt", "pants", "motocycle", "adult", "bike", "right"], "relationships": [[0, "riding", 1], [0, "in", 1], [2, "in", 1], [0, "sitting on", 3], [2, "sitting on", 3], [4, "holding", 5]]}

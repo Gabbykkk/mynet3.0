@@ -1,0 +1,1 @@
+{"objects": ["these", "housplants", "side", "room", "houseplant", "desk"], "relationships": [[0, "are", 1], [1, "in", 2], [2, "of", 3], [0, "next to", 1]]}

@@ -1,0 +1,1 @@
+{"objects": ["corner nothing", "space", "broc", "carrots", "plate"], "relationships": [[0, "between", 1], [0, "between", 2], [0, "under", 1]]}

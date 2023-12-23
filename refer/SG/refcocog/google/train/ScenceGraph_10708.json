@@ -1,0 +1,1 @@
+{"objects": ["airplanes", "airplane", "runway"], "relationships": [[0, "beside", 1], [1, "on", 2]]}

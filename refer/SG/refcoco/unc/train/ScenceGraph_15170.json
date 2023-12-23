@@ -1,0 +1,1 @@
+{"objects": ["glass table", "glass", "table", "glass ontop"], "relationships": [[0, "topped", 1], [0, "has", 1]]}

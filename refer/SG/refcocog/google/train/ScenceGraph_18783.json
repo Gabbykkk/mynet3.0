@@ -1,0 +1,1 @@
+{"objects": ["pizza pie", "tomatoes", "olives", "basil", "it", "dish", "pie", "cheese", "cherry tomatoes"], "relationships": [[0, "with", 1], [0, "with", 2], [1, "on", 4], [2, "on", 4], [0, "in", 5]]}

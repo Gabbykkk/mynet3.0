@@ -1,0 +1,1 @@
+{"objects": ["yo bus ucan", "tire", "rim", "bus", "that", "batman", "it"], "relationships": [[0, "of", 2], [1, "of", 2], [0, "behind", 3], [1, "behind", 3], [4, "has", 5], [4, "on", 6]]}

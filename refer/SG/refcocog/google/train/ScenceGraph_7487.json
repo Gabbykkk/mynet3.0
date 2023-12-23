@@ -1,0 +1,1 @@
+{"objects": ["hand", "nail polish", "pile", "plates", "stack", "pizza", "top"], "relationships": [[0, "with", 1], [0, "on", 2], [2, "of", 3], [0, "touches", 2], [0, "with", 4], [4, "on", 5]]}

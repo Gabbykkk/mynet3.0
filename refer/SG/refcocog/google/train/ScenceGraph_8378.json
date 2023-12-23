@@ -1,0 +1,1 @@
+{"objects": ["computer screen monitor", "tv screen", "news", "television", "news channel"], "relationships": [[0, "with", 2], [1, "with", 2], [0, "turned", 1]]}

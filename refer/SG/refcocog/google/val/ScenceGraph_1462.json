@@ -1,0 +1,1 @@
+{"objects": ["picture", "bottom", "page", "magazine", "types", "fruits", "vegetables", "table", "glass", "ice water"], "relationships": [[0, "on", 1], [0, "in", 1], [1, "showing", 2], [2, "of", 3], [2, "of", 4], [0, "sits on", 5], [0, "next to", 6], [6, "of", 7]]}

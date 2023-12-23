@@ -1,0 +1,1 @@
+{"objects": ["bathroom", "sign", "sink basin", "center", "countertop"], "relationships": [[0, "next to", 1], [0, "in", 1], [1, "of", 2]]}

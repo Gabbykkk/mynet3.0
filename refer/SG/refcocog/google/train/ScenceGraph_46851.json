@@ -1,0 +1,1 @@
+{"objects": ["this", "surfboard", "surf board", "ground", "man", "tailgate", "truck"], "relationships": [[0, "is", 1], [0, "sitting on", 1], [0, "next to", 2], [2, "sitting on", 3], [3, "of", 4]]}

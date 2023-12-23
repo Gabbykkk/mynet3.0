@@ -1,0 +1,1 @@
+{"objects": ["sliver laptop", "left", "stack", "cups", "tables", "information", "laptop color mail", "monitor"], "relationships": [[0, "to", 1], [1, "of", 2], [2, "of", 3], [0, "displays", 4], [4, "of", 5], [0, "in", 1]]}

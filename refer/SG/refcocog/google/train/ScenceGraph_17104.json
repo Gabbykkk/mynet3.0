@@ -1,0 +1,1 @@
+{"objects": ["broccoli", "bottom", "plate", "piece", "top", "onion"], "relationships": [[0, "from", 1], [1, "left on", 2], [0, "of", 1], [2, "of", 3]]}

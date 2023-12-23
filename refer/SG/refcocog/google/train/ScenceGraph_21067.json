@@ -1,0 +1,1 @@
+{"objects": ["man", "patio", "coffee", "crouisant", "shirt", "bread", "hand", "hotel"], "relationships": [[0, "sits on", 1], [1, "eating", 2], [0, "sits", 3], [0, "in", 1], [0, "holding", 2], [0, "in", 3], [0, "at", 4]]}

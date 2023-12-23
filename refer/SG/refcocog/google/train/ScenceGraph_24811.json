@@ -1,0 +1,1 @@
+{"objects": ["giraffe", "head", "railing", "rope", "giraffes", "which", "bystanders", "zoo"], "relationships": [[0, "sticking", 1], [0, "over", 2], [2, "near", 3], [1, "at", 2], [2, "in", 3]]}

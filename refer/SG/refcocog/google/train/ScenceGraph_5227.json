@@ -1,0 +1,1 @@
+{"objects": ["bowl", "orange marmalade", "that", "butter knife", "it", "image", "marmalade lemon drink", "cup", "stick"], "relationships": [[0, "of", 1], [2, "has", 3], [3, "in", 4], [1, "in", 2], [0, "with", 3]]}

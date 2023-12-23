@@ -1,0 +1,1 @@
+{"objects": ["broccoli stalk", "center", "right", "center piece", "broccoli"], "relationships": [[0, "in", 1], [0, "towards", 2], [0, "of", 1], [1, "of", 2]]}

@@ -1,0 +1,1 @@
+{"objects": ["man", "that", "george w", "bush", "tennis ball", "misses", "tennis player", "racket"], "relationships": [[1, "like", 2], [3, "at", 4], [3, "at", 5], [0, "swinging", 1]]}

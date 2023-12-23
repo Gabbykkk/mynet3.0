@@ -1,0 +1,1 @@
+{"objects": ["truck", "bottom", "you", "view mirror", "white van", "bus"], "relationships": [[0, "at", 1], [2, "see", 3]]}

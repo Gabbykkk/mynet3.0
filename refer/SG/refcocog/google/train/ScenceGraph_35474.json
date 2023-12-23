@@ -1,0 +1,1 @@
+{"objects": ["someone", "jeans", "back", "tennis court", "legs", "person", "sneakers", "tennis player"], "relationships": [[0, "wearing", 1], [0, "at", 2], [2, "of", 3], [0, "of", 1], [1, "wearing", 2], [1, "wearing", 3], [1, "behind", 4], [1, "on", 5]]}

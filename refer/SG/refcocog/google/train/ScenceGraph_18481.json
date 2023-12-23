@@ -1,0 +1,1 @@
+{"objects": ["cheese", "foccacia", "table", "mixture", "herbs", "that", "dough"], "relationships": [[0, "coveres", 1], [0, "on", 2], [0, "with", 1]]}

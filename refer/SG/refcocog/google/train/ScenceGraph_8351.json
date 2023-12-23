@@ -1,0 +1,1 @@
+{"objects": ["zipper bag", "toiletry bag", "shape", "white", "zipper"], "relationships": [[0, "with", 1], [0, "with", 2], [0, "unzipped", 3]]}

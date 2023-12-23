@@ -1,0 +1,1 @@
+{"objects": ["man", "butane", "candles", "cake", "raspberries", "lighting", "cake candles"], "relationships": [[0, "using", 1], [0, "to", 2], [0, "on", 3], [3, "with", 4]]}

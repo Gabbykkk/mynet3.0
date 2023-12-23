@@ -1,0 +1,1 @@
+{"objects": ["basket", "which", "papaya fruits", "fruit basket", "front"], "relationships": [[1, "contains", 2], [0, "from", 1]]}

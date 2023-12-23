@@ -1,0 +1,1 @@
+{"objects": ["rover land suv", "fence", "vehicle", "side"], "relationships": [[0, "sits on", 1], [1, "of", 2]]}

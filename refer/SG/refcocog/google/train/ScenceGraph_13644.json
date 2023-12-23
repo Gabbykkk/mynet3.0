@@ -1,0 +1,1 @@
+{"objects": ["pastries", "cake", "flowers", "bottom"], "relationships": [[0, "encircling", 1], [0, "around", 1], [1, "of", 2]]}

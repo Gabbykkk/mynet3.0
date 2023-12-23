@@ -1,0 +1,1 @@
+{"objects": ["man", "luggage", "car backside", "khaki shorts", "shirt", "sunglasses", "vehicle"], "relationships": [[0, "loading", 1], [0, "in", 2], [0, "in", 1], [2, "packing", 4], [3, "packing", 4]]}

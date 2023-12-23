@@ -1,0 +1,1 @@
+{"objects": ["decker buss", "bus", "parking lot", "air bus", "road"], "relationships": [[0, "between", 1], [0, "between", 2], [2, "in", 3], [0, "running", 1]]}

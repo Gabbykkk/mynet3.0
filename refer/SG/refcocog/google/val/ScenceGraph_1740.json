@@ -1,0 +1,1 @@
+{"objects": ["seond", "zebra", "who", "head", "tree", "middle", "zebras"], "relationships": [[0, "from", 1], [2, "has", 3], [0, "in", 1], [1, "of", 2]]}

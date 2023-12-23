@@ -1,0 +1,1 @@
+{"objects": ["female", "fatigues", "officer", "tan shirt", "woman", "hair", "camouflage shirt", "table", "camoflage", "glasses"], "relationships": [[0, "in", 1], [0, "closest to", 2], [0, "in", 3], [0, "with", 1], [0, "wearing", 2], [0, "at", 3], [3, "between", 4], [4, "wearing", 5], [4, "wearing", 6], [6, "with", 7], [4, "wearing", 8]]}

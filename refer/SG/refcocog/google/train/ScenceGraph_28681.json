@@ -1,0 +1,1 @@
+{"objects": ["stalin", "hotdog", "picture", "man", "hitler"], "relationships": [[0, "holding", 1], [0, "with", 2], [2, "of", 3], [3, "in", 4], [1, "held", 0]]}

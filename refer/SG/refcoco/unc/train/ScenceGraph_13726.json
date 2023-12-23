@@ -1,0 +1,1 @@
+{"objects": ["diet", "man", "scarf middlediet", "middle", "guy", "scarf"], "relationships": [[1, "with", 2], [1, "starts", 3], [1, "with", 4], [0, "with", 1]]}

@@ -1,0 +1,1 @@
+{"objects": ["panda", "man", "jacket", "figure", "panda bear", "bamboo", "winter coat"], "relationships": [[0, "next to", 1], [1, "in", 2], [0, "of", 1], [0, "chewing on", 2], [0, "beside", 3], [3, "with", 4]]}

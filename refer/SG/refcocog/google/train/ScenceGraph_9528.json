@@ -1,0 +1,1 @@
+{"objects": ["girl woman", "dog", "she", "headband", "woman", "puppy", "shoulders"], "relationships": [[0, "to", 1], [2, "wearing", 3], [0, "with", 1], [0, "holding", 2], [0, "on", 3]]}

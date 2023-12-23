@@ -1,0 +1,1 @@
+{"objects": ["white teddy", "hat", "holly berries", "ivy", "it", "christmas hat", "that", "mistletoe"], "relationships": [[1, "with", 2], [1, "with", 3], [2, "on", 4], [3, "on", 4], [2, "has", 3]]}

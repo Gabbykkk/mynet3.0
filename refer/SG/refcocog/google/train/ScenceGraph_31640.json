@@ -1,0 +1,1 @@
+{"objects": ["picture", "table", "cake", "strawberries", "hand picture", "scene", "person", "chair", "cakes", "chocolate treats", "plates"], "relationships": [[0, "of", 1], [0, "with", 2], [0, "with", 3], [0, "containing", 1], [1, "sitting on", 2]]}

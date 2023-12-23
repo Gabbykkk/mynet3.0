@@ -1,0 +1,1 @@
+{"objects": ["keeper", "end", "who", "ball", "referee", "wall", "chase sign"], "relationships": [[0, "at", 1], [0, "near", 1], [0, "next to", 2]]}

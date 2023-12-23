@@ -1,0 +1,1 @@
+{"objects": ["computer monitor", "computer", "this", "that", "use"], "relationships": [[0, "next to", 1], [0, "is", 1]]}

@@ -1,0 +1,1 @@
+{"objects": ["pastry", "right", "bottom", "pic center"], "relationships": [[0, "from", 1], [1, "on", 2]]}

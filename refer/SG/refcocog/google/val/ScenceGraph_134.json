@@ -1,0 +1,1 @@
+{"objects": ["horse", "face", "ear protection", "devil", "halloween"], "relationships": [[0, "with", 1], [1, "wearing", 2], [0, "as", 1], [1, "for", 2]]}

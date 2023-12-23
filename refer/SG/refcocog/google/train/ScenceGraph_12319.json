@@ -1,0 +1,1 @@
+{"objects": ["wheel", "bike", "shoe", "cyclist", "bicycle", "man", "track dress", "which", "palo alto"], "relationships": [[0, "of", 1], [2, "of", 1], [2, "of", 3], [0, "wearing", 2]]}

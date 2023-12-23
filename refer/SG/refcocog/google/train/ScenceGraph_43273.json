@@ -1,0 +1,1 @@
+{"objects": ["horses", "track", "derby", "middle", "racehorses", "legs", "midair", "it"], "relationships": [[0, "racing", 1], [0, "at", 2], [0, "of", 1], [0, "with", 2], [2, "in", 3]]}

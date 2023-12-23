@@ -1,0 +1,1 @@
+{"objects": ["girafee", "person", "picture", "baby giraffe", "camera"], "relationships": [[0, "at", 1], [1, "taking", 2]]}

@@ -1,0 +1,1 @@
+{"objects": ["elephant", "trunk", "branch", "it", "stick"], "relationships": [[0, "curling", 1], [0, "with", 2], [2, "in", 3], [0, "following", 4], [0, "grabbing", 1]]}

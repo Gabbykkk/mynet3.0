@@ -1,0 +1,1 @@
+{"objects": ["tablecloth", "that", "coffee", "cream tray", "display", "pastries", "fruit", "table cloth", "camera"], "relationships": [[1, "underneath", 2], [1, "underneath", 3], [1, "underneath", 4], [4, "of", 5], [0, "closest to", 1]]}

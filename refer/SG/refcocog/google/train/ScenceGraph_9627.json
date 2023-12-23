@@ -1,0 +1,1 @@
+{"objects": ["face", "head", "horse", "foreground", "spot", "forehead", "boy", "s", "side", "camera"], "relationships": [[0, "of", 2], [1, "of", 2], [0, "in", 3], [1, "in", 3], [0, "with", 4], [1, "with", 4], [4, "on", 5], [0, "on", 1], [0, "on", 2], [0, "left", 3], [0, "closest to", 4]]}

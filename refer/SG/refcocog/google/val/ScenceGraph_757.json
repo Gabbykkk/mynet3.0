@@ -1,0 +1,1 @@
+{"objects": ["man squats", "breakdancer", "man", "ground", "floor", "wristband"], "relationships": [[0, "behind", 1], [0, "in", 1], [0, "over", 2], [0, "with", 3]]}

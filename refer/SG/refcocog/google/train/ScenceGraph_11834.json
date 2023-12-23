@@ -1,0 +1,1 @@
+{"objects": ["horse color carriage", "man", "woman", "road", "horse", "carriage", "people"], "relationships": [[0, "carrying", 1], [0, "carrying", 2], [0, "pulling", 1], [1, "of", 2]]}

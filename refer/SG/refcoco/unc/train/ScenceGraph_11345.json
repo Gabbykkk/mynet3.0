@@ -1,0 +1,1 @@
+{"objects": ["banana pieces", "yogurt", "banana slices", "right", "granola", "them", "spoon", "bananas", "choba", "greek yogurt"], "relationships": [[0, "near", 1], [0, "on", 1], [1, "with", 2], [0, "on", 3], [0, "above", 4], [0, "nearest", 1]]}

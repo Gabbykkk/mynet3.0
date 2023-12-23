@@ -1,0 +1,1 @@
+{"objects": ["kite", "u", "o", "riding", "it", "color kite", "ground"], "relationships": [[0, "like", 1], [2, "with", 3], [3, "inside of", 4], [0, "in", 1]]}

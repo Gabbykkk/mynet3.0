@@ -1,0 +1,1 @@
+{"objects": ["balloon", "spikes", "object", "cones", "it", "initials"], "relationships": [[0, "with", 1], [1, "around", 2], [3, "on", 4]]}

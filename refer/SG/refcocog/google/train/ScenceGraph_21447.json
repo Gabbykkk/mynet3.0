@@ -1,0 +1,1 @@
+{"objects": ["umbrella", "end", "bench", "that", "pole", "ground"], "relationships": [[0, "at", 1], [1, "of", 2], [3, "has", 4], [4, "to", 5], [0, "in front of", 1]]}

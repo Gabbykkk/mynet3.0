@@ -1,0 +1,1 @@
+{"objects": ["this", "placemat", "plate", "table", "plates"], "relationships": [[0, "is", 1], [1, "under", 2], [0, "under", 1]]}

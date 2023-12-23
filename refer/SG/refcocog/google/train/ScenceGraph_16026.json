@@ -1,0 +1,1 @@
+{"objects": ["cactus plant", "pot", "floor", "window", "cactus"], "relationships": [[0, "in", 1], [1, "on", 2], [0, "next to", 3], [0, "next to", 4]]}

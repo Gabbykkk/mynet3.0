@@ -1,0 +1,1 @@
+{"objects": ["batch", "flowers", "building"], "relationships": [[0, "of", 1], [0, "available on", 1]]}

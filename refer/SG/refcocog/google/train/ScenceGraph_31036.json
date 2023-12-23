@@ -1,0 +1,1 @@
+{"objects": ["car", "mirror reflection", "door", "reflection", "store window"], "relationships": [[0, "passing through", 1], [1, "of", 2], [0, "of", 1], [1, "in", 2]]}

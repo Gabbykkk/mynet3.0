@@ -1,0 +1,1 @@
+{"objects": ["bus", "roof top", "city", "decker bus", "flags", "top"], "relationships": [[1, "in", 2], [0, "with", 1], [1, "decorating", 2]]}

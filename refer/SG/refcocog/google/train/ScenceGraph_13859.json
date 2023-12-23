@@ -1,0 +1,1 @@
+{"objects": ["man", "sunglasses", "head", "smile", "shirt", "glass", "wine", "pizza", "bacon", "it"], "relationships": [[0, "with", 1], [1, "on top of", 2], [0, "giving", 3], [0, "in", 1], [2, "in", 1], [2, "on", 3], [0, "holding", 4], [2, "holding", 4], [4, "of", 5], [6, "with", 7], [6, "on", 8]]}

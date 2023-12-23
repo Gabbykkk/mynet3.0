@@ -1,0 +1,1 @@
+{"objects": ["parsley", "pepper", "bit", "lettuce", "left", "bell pepper"], "relationships": [[0, "underneath", 1], [0, "of", 1], [0, "to", 2], [2, "of", 3]]}

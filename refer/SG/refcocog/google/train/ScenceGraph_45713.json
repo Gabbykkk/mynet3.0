@@ -1,0 +1,1 @@
+{"objects": ["car", "traffic signal"], "relationships": [[0, "next to", 1]]}

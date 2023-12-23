@@ -1,0 +1,1 @@
+{"objects": ["plane", "flyer", "it", "midst", "snow", "airplane", "front"], "relationships": [[0, "with", 1], [2, "in", 3], [3, "of", 4], [0, "in", 1]]}

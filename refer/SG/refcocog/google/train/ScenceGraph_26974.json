@@ -1,0 +1,1 @@
+{"objects": ["sandwich", "tissue", "plate", "potato chips", "sandwich plate", "piece", "paper", "submarine sandwich", "that"], "relationships": [[0, "in", 1], [1, "on", 2], [1, "on", 3], [0, "of", 1], [3, "sitting on", 4]]}

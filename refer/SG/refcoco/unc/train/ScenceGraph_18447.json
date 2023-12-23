@@ -1,0 +1,1 @@
+{"objects": ["set", "stoplights", "part", "stoplight", "group", "lights", "that", "sky"], "relationships": [[0, "of", 1], [0, "in", 2], [1, "toward", 2]]}

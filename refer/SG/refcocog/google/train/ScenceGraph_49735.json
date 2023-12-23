@@ -1,0 +1,1 @@
+{"objects": ["book", "kurt vonnegut", "that"], "relationships": [[0, "by", 1], [0, "below", 2], [0, "underneath", 1]]}

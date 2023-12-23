@@ -1,0 +1,1 @@
+{"objects": ["flower clay pot", "pond", "pot", "plan", "back", "picture"], "relationships": [[0, "across", 1], [0, "near", 2], [0, "in", 1], [1, "of", 2]]}

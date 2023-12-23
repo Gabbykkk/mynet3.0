@@ -1,0 +1,1 @@
+{"objects": ["woman", "leather skirt", "cardigan", "purse", "hair", "visage", "person", "skirt"], "relationships": [[0, "with", 1], [0, "with", 2], [0, "holding", 3], [0, "with", 4], [0, "with", 5], [0, "in", 1], [0, "holding", 2]]}

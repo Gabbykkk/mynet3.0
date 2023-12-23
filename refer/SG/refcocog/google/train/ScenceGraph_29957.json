@@ -1,0 +1,1 @@
+{"objects": ["man", "coat", "glasses", "river", "up"], "relationships": [[0, "in", 1], [2, "in", 1], [2, "near", 3]]}

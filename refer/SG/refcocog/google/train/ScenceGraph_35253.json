@@ -1,0 +1,1 @@
+{"objects": ["backpak", "shirt person", "bag", "someone", "background"], "relationships": [[0, "behind", 1], [1, "held", 0]]}

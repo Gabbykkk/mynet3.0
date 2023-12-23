@@ -1,0 +1,1 @@
+{"objects": ["vendor", "street corner", "umbrella hats", "man", "chair", "hat"], "relationships": [[0, "sitting on", 1], [1, "selling", 2], [0, "sitting in", 1], [0, "with", 2]]}

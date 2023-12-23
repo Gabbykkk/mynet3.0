@@ -1,0 +1,1 @@
+{"objects": ["bananas", "books", "center bananas"], "relationships": [[0, "on top of", 1], [0, "above", 1], [0, "behind", 1]]}

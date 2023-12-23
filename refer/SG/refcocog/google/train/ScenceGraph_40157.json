@@ -1,0 +1,1 @@
+{"objects": ["man", "music instrument", "hand", "mouth", "teenager", "shirt", "tie", "instrument"], "relationships": [[0, "holding", 1], [0, "by", 2], [0, "in", 1], [0, "playing", 3]]}

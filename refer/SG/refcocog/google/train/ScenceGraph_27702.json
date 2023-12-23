@@ -1,0 +1,1 @@
+{"objects": ["sugar cubes", "jar", "silver cannister", "silver tray"], "relationships": [[0, "in", 1], [0, "full of", 1], [0, "sits on", 2]]}

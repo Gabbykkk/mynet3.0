@@ -1,0 +1,1 @@
+{"objects": ["giraffe", "others", "giraffes"], "relationships": [[0, "lower than", 1], [0, "between", 1]]}

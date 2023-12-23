@@ -1,0 +1,1 @@
+{"objects": ["chair", "which", "part", "table", "plant vase", "flowers", "pots", "pieces", "stones", "plates", "bowls", "wine glass", "table cloth"], "relationships": [[1, "is", 2], [2, "of", 3], [8, "of", 9], [8, "of", 10], [12, "of", 9], [12, "of", 10], [12, "on", 13], [0, "closest to", 1]]}

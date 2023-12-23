@@ -1,0 +1,1 @@
+{"objects": ["giraffe", "horizon", "fence", "left"], "relationships": [[0, "on", 1], [0, "next to", 2], [0, "to", 1], [1, "of", 2]]}

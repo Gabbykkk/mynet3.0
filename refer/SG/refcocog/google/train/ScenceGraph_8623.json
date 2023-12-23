@@ -1,0 +1,1 @@
+{"objects": ["hand", "person", "cone", "giraffe", "girl", "arm", "red", "cream cone"], "relationships": [[0, "of", 1], [1, "holding", 2], [0, "with", 3], [0, "with", 4], [0, "with", 1]]}

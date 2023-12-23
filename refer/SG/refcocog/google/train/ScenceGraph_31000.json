@@ -1,0 +1,1 @@
+{"objects": ["goblet", "ice water", "foreground", "glass", "water", "ice", "table", "orange juice", "plate", "pastry", "potatoes", "fruit"], "relationships": [[0, "of", 1], [0, "with", 2], [0, "sitting on", 3], [0, "next to", 4], [0, "next to", 6], [4, "of", 5], [6, "of", 5], [6, "of", 7], [6, "of", 8]]}

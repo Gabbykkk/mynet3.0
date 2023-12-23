@@ -1,0 +1,1 @@
+{"objects": ["pinapples", "lunch box", "cucumbers", "carrots", "pineapple"], "relationships": [[0, "inside", 1], [0, "with", 2], [0, "with", 3]]}

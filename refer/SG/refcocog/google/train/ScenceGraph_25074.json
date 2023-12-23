@@ -1,0 +1,1 @@
+{"objects": ["trail mix", "container", "side", "lid", "it", "plastic cup", "bowl"], "relationships": [[0, "in", 1], [0, "on", 2], [0, "with", 3], [3, "on", 4]]}

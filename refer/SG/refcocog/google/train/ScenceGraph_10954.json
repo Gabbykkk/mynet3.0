@@ -1,0 +1,1 @@
+{"objects": ["umbrella", "samuel adams", "it", "man", "sunglasses", "menu", "table", "jacket"], "relationships": [[0, "with", 1], [1, "on", 2], [0, "behind", 3], [3, "wearing", 4], [4, "reading", 5], [0, "over", 1], [0, "behind", 2], [2, "in", 3]]}

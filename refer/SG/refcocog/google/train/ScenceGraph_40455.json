@@ -1,0 +1,1 @@
+{"objects": ["saucer", "that", "jus au juice", "sandwhich", "dish", "cup", "au jus"], "relationships": [[1, "holding", 2], [1, "for", 3], [0, "underneath", 1], [1, "of", 2]]}

@@ -1,0 +1,1 @@
+{"objects": ["man", "wheel chair", "medal", "neck", "shirt", "nametag", "wheelchair", "cake"], "relationships": [[0, "on", 1], [1, "with", 2], [1, "on", 3], [0, "with", 1], [2, "with", 1], [0, "in", 3], [2, "in", 3], [3, "with", 4]]}

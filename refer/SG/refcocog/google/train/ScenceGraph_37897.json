@@ -1,0 +1,1 @@
+{"objects": ["giraffe", "zoo", "girl", "t color shirt", "fence", "mouth"], "relationships": [[0, "at", 1], [0, "in front of", 2], [2, "wearing", 3], [1, "with", 2]]}

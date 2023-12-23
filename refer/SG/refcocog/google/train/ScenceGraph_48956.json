@@ -1,0 +1,1 @@
+{"objects": ["elephant", "branch", "left", "trunk"], "relationships": [[0, "behind", 1], [0, "from", 1]]}

@@ -1,0 +1,1 @@
+{"objects": ["portion", "gas range", "counter", "top", "gas stove"], "relationships": [[0, "of", 1], [2, "of", 1], [3, "of", 1]]}

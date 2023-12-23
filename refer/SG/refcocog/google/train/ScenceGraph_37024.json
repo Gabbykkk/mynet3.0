@@ -1,0 +1,1 @@
+{"objects": ["boy", "sauce", "face", "shirt", "pasta sauce", "mouth"], "relationships": [[0, "with", 1], [1, "on", 2], [0, "in", 1], [1, "with", 2], [1, "on", 3]]}

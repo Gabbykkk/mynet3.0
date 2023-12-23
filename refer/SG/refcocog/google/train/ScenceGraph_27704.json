@@ -1,0 +1,1 @@
+{"objects": ["tiger animal", "baby crib", "animal tiger", "corner", "crib"], "relationships": [[0, "in", 1], [0, "sits in", 1], [1, "of", 2]]}

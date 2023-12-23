@@ -1,0 +1,1 @@
+{"objects": ["fork", "pancake", "foreground"], "relationships": [[0, "touching", 1], [1, "in", 2]]}

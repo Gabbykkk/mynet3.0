@@ -1,0 +1,1 @@
+{"objects": ["boy", "hair", "marks", "cheek", "glove", "hand", "baseball attire", "eye black"], "relationships": [[0, "with", 1], [0, "with", 2], [4, "with", 1], [4, "with", 2], [0, "on", 3], [4, "on", 3], [4, "on", 5], [0, "in", 1]]}

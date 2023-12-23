@@ -1,0 +1,1 @@
+{"objects": ["computer monitor", "background", "computer screen", "dog"], "relationships": [[0, "displaying", 1], [0, "furthest from", 1]]}

@@ -1,0 +1,1 @@
+{"objects": ["plant", "sleeve", "background", "arm", "sweater"], "relationships": [[0, "above", 1], [0, "in", 1], [1, "behind", 2], [0, "with", 3]]}

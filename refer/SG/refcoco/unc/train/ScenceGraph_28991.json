@@ -1,0 +1,1 @@
+{"objects": ["light", "rght", "right"], "relationships": [[0, "facing", 1], [0, "on", 1]]}

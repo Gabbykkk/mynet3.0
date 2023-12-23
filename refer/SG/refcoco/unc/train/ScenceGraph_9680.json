@@ -1,0 +1,1 @@
+{"objects": ["vehicle", "cars", "front", "truck", "backgroun"], "relationships": [[0, "visible between", 1], [0, "of", 1], [0, "in", 2]]}

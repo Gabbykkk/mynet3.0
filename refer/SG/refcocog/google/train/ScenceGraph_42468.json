@@ -1,0 +1,1 @@
+{"objects": ["laptop computer", "man", "shirt", "computer", "hands", "keyboard"], "relationships": [[1, "typed", 0], [1, "in", 2], [0, "with", 1], [0, "on", 2]]}

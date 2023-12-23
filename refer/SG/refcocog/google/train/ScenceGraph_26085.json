@@ -1,0 +1,1 @@
+{"objects": ["lady infront", "podium", "hear", "jacket", "jeans", "woman", "front", "room", "presentation"], "relationships": [[0, "of", 1], [0, "with", 2], [0, "wearing", 3], [0, "wearing", 4], [0, "at", 1], [1, "of", 2], [2, "giving", 3]]}

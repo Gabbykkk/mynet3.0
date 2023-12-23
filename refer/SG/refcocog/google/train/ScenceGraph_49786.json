@@ -1,0 +1,1 @@
+{"objects": ["women", "jacket", "snow mountain", "woman", "ground", "snow", "man", "teddy"], "relationships": [[0, "wearing", 1], [1, "from", 2], [0, "walking on", 1], [1, "with", 2], [1, "towards", 3], [3, "pulling", 4]]}

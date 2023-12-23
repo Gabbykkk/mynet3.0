@@ -1,0 +1,1 @@
+{"objects": ["laptop keyboard", "touchpad", "silver keyboard", "macbook laptop", "part", "screen", "trackpad"], "relationships": [[0, "from", 1], [0, "showing", 2], [2, "of", 3], [2, "of", 4]]}

@@ -1,0 +1,1 @@
+{"objects": ["car", "biker", "middle", "bike"], "relationships": [[0, "in", 1], [0, "in front of", 2]]}

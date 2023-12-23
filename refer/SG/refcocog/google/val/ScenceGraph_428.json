@@ -1,0 +1,1 @@
+{"objects": ["man", "tennis racket", "tennis court", "t shirt", "pants", "stripe", "side"], "relationships": [[0, "carrying", 1], [0, "on", 1], [0, "in", 2], [0, "in", 3], [0, "with", 4], [4, "down", 5], [0, "holding", 6]]}

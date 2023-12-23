@@ -1,0 +1,1 @@
+{"objects": ["reflection", "wheel reflections", "bike wheel", "mirror", "wheel", "right"], "relationships": [[0, "in", 1], [0, "on", 1], [1, "in", 2]]}

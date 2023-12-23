@@ -1,0 +1,1 @@
+{"objects": ["station wagon", "windows", "car", "fist", "shoulder", "man", "tee shirt"], "relationships": [[0, "with", 1], [0, "closest to", 1], [0, "closest to", 2], [1, "of", 3], [2, "of", 3], [0, "closest in", 4]]}

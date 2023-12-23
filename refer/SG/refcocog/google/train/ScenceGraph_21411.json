@@ -1,0 +1,1 @@
+{"objects": ["tan sofa", "wall", "back", "picture", "couch", "pillows", "design", "them", "background"], "relationships": [[0, "against", 1], [1, "in", 2], [2, "of", 3], [0, "with", 1], [0, "with", 2], [2, "on", 3], [2, "in", 4]]}

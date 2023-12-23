@@ -1,0 +1,1 @@
+{"objects": ["honda accord", "right", "pay station", "rear", "honda", "road", "meter machine"], "relationships": [[0, "to", 1], [1, "of", 2], [0, "of", 1], [1, "near", 3]]}

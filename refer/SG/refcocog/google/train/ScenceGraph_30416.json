@@ -1,0 +1,1 @@
+{"objects": ["person", "weather clothes", "helmet", "man", "snowboard", "goggles"], "relationships": [[0, "in", 1], [0, "wearing", 2], [0, "on", 1], [1, "wearing", 2], [1, "without", 3]]}

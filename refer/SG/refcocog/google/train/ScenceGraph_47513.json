@@ -1,0 +1,1 @@
+{"objects": ["railing", "man", "hair", "him", "back", "bench", "one", "guys"], "relationships": [[0, "behind", 1], [0, "behind", 3], [1, "with", 2], [3, "with", 2], [3, "next to", 4], [0, "of", 1], [0, "behind", 2]]}

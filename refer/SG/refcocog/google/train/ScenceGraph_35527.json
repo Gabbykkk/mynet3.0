@@ -1,0 +1,1 @@
+{"objects": ["man", "orioles", "baseball tshirt", "baltimore orioles", "t shirt", "slice", "pizza"], "relationships": [[0, "wearing", 1], [0, "choosing", 3], [3, "of", 4]]}

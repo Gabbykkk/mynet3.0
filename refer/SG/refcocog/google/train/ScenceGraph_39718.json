@@ -1,0 +1,1 @@
+{"objects": ["boy keeper", "teashirt", "camera", "player", "players", "ball"], "relationships": [[0, "wearing", 1], [0, "behind", 1]]}

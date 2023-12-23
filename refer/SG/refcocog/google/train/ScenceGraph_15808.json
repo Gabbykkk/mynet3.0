@@ -1,0 +1,1 @@
+{"objects": ["motorcycle", "harley", "body", "water", "background", "bike"], "relationships": [[0, "behind", 1], [0, "with", 2], [2, "of", 3], [2, "in", 4]]}

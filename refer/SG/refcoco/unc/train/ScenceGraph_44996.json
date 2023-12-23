@@ -1,0 +1,1 @@
+{"objects": ["person", "player", "fence", "girl", "background"], "relationships": [[0, "behind", 1], [0, "in", 1]]}

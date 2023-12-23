@@ -1,0 +1,1 @@
+{"objects": ["sink", "fountain", "bathroom", "urinals", "it", "left", "dna statue"], "relationships": [[0, "under", 1], [1, "in", 2], [0, "with", 3], [3, "behind", 4], [0, "to", 1], [1, "of", 2]]}

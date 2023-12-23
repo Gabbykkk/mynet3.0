@@ -1,0 +1,1 @@
+{"objects": ["plants", "display", "rocks", "edge", "tererrium", "background"], "relationships": [[0, "on", 1], [0, "on", 2], [1, "on", 3], [2, "on", 3], [0, "in", 1]]}

@@ -1,0 +1,1 @@
+{"objects": ["duck", "fence", "fluffy", "chest", "right", "ducklings"], "relationships": [[0, "furthest from", 1], [0, "with", 1], [0, "to", 2], [2, "of", 3]]}

@@ -1,0 +1,1 @@
+{"objects": ["racer", "edge", "track", "arm", "motocross rider", "handlebar", "he", "finish line"], "relationships": [[0, "at", 1], [1, "of", 2], [1, "with", 3], [0, "releases", 1], [2, "crosses", 3]]}

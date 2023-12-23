@@ -1,0 +1,1 @@
+{"objects": ["man", "suit", "who", "cross", "crosswalk", "umbrella"], "relationships": [[0, "in", 1], [2, "across", 3], [0, "crossing", 1]]}

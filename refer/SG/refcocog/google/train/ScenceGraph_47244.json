@@ -1,0 +1,1 @@
+{"objects": ["planter", "plants", "lamp", "umbrellas", "beautfil flower", "flower", "pink", "umbrella"], "relationships": [[0, "of", 1], [1, "from", 2], [1, "under", 3], [0, "under", 2], [0, "boquet", 3]]}

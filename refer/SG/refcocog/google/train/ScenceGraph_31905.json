@@ -1,0 +1,1 @@
+{"objects": ["bottle", "mouthwash", "mouthwash bottle", "mirror"], "relationships": [[0, "containing", 1], [0, "near", 1]]}

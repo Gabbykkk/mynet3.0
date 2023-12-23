@@ -1,0 +1,1 @@
+{"objects": ["giraffe", "neck", "body", "it", "leg"], "relationships": [[0, "with", 1], [0, "bent towards", 2], [0, "licking", 1]]}

@@ -1,0 +1,1 @@
+{"objects": ["loading luggage", "plane", "luggage remover", "ramp", "front"], "relationships": [[0, "onto", 1], [0, "with", 1], [0, "next to", 2], [2, "of", 3]]}

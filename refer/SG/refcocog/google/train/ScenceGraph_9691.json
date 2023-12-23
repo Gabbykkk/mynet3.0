@@ -1,0 +1,1 @@
+{"objects": ["person", "tan pants", "background", "hands", "legs", "line judge", "tennis match", "roger federer"], "relationships": [[0, "with", 1], [1, "in", 2], [2, "with", 3], [3, "on", 4], [0, "at", 1], [1, "with", 2]]}

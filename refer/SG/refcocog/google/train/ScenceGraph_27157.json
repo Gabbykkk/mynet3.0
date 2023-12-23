@@ -1,0 +1,1 @@
+{"objects": ["chair", "table", "laptop", "glass", "water"], "relationships": [[0, "opposite at", 1], [0, "with", 2], [0, "with", 3], [2, "of", 4], [3, "of", 4]]}

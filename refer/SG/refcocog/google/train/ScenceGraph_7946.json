@@ -1,0 +1,1 @@
+{"objects": ["man", "tattoo", "rim glasses", "sleeve", "person"], "relationships": [[0, "giving", 1], [0, "in", 1], [0, "sporting", 2], [2, "giving", 3], [2, "to", 4]]}

@@ -1,0 +1,1 @@
+{"objects": ["cat", "playstation controller", "kitten", "friend", "monitor", "men"], "relationships": [[0, "nearest", 1], [0, "watch", 2], [1, "watch", 2], [2, "featuring", 3]]}

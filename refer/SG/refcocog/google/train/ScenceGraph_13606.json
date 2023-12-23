@@ -1,0 +1,1 @@
+{"objects": ["horse", "mane", "patch", "face", "legs", "dust", "left", "sort", "carriage"], "relationships": [[0, "with", 1], [0, "with", 2], [2, "on", 3], [4, "kicking", 5], [0, "on", 1], [0, "pulling", 2], [2, "of", 3]]}

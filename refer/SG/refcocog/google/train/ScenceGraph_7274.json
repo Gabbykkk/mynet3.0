@@ -1,0 +1,1 @@
+{"objects": ["giraffe", "rocks", "it", "neck", "angle", "zebra", "right"], "relationships": [[0, "behind", 1], [5, "away from", 6], [0, "on", 1], [1, "near", 2]]}

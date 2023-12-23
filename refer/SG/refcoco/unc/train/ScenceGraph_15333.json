@@ -1,0 +1,1 @@
+{"objects": ["person", "right", "shirt", "center", "camera", "blk shirt"], "relationships": [[0, "to", 1], [0, "near", 1], [1, "with", 2], [0, "back to", 3]]}

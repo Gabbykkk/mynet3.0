@@ -1,0 +1,1 @@
+{"objects": ["taxi", "road", "taxi cab"], "relationships": [[0, "on", 1], [0, "driving", 1]]}

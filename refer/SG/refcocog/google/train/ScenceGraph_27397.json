@@ -1,0 +1,1 @@
+{"objects": ["banana", "counter", "bananas", "direction"], "relationships": [[0, "sitting on", 1], [0, "older than", 1]]}

@@ -1,0 +1,1 @@
+{"objects": ["bread bowl", "napkin", "roll", "silver bowl", "bread roll"], "relationships": [[0, "with", 1], [2, "with", 1], [0, "containing", 1], [2, "containing", 1]]}

@@ -1,0 +1,1 @@
+{"objects": ["man", "fingers", "right", "photo", "person", "bench", "hands", "skateboard", "ground"], "relationships": [[0, "with", 1], [0, "on", 2], [2, "of", 3], [0, "sitting on", 1], [0, "with", 2], [0, "with", 3], [3, "on", 4], [0, "to", 5]]}

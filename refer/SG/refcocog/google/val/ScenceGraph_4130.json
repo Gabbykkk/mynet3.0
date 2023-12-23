@@ -1,0 +1,1 @@
+{"objects": ["dog", "which", "top", "pile", "bar", "candy", "box", "side", "picture", "one"], "relationships": [[0, "of", 1], [5, "of", 1], [0, "in", 2], [5, "in", 2], [0, "on", 3], [5, "on", 3], [3, "of", 4], [5, "in", 6]]}

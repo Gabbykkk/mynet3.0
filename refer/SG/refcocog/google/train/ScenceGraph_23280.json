@@ -1,0 +1,1 @@
+{"objects": ["skateboard", "display", "top", "deck", "brackets", "wall", "another"], "relationships": [[0, "on", 1], [1, "on", 2], [0, "atop", 1], [0, "on", 2], [2, "above", 3]]}

@@ -1,0 +1,1 @@
+{"objects": ["women", "dress", "road", "woman", "coat", "pants", "umbrella"], "relationships": [[0, "wearing", 1], [0, "walking on", 2], [2, "wearing", 1], [2, "holding", 3]]}

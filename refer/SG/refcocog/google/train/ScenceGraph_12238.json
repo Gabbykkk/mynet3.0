@@ -1,0 +1,1 @@
+{"objects": ["man", "t shirt", "bag", "train station", "luggage", "commuter train", "ride"], "relationships": [[0, "wearing", 1], [1, "holding", 2], [1, "in", 3], [0, "with", 1], [1, "outside of", 2]]}

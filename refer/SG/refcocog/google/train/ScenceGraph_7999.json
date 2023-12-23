@@ -1,0 +1,1 @@
+{"objects": ["man", "pants", "coat", "toboggan", "snow skier", "competition country skiiers"], "relationships": [[0, "wearing", 1], [3, "observing", 4]]}

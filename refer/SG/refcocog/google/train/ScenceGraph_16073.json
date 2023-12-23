@@ -1,0 +1,1 @@
+{"objects": ["man", "toilet room", "front", "mirrior", "mirror"], "relationships": [[0, "standing", 1], [0, "standing", 2], [2, "of", 3], [0, "looking to", 1]]}

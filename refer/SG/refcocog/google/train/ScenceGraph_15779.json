@@ -1,0 +1,1 @@
+{"objects": ["table", "foreground", "that", "chairs", "it", "color table", "holes", "middle", "which", "front", "picture"], "relationships": [[0, "in", 1], [2, "has", 3], [2, "at", 4], [0, "with", 1], [1, "in", 2], [4, "with", 6]]}

@@ -1,0 +1,1 @@
+{"objects": ["truck box", "that", "new jersey", "new england", "new york", "truck"], "relationships": [[1, "reads", 2], [1, "reads", 3], [0, "behind", 1]]}

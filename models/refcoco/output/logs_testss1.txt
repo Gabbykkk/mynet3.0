@@ -1,0 +1,89 @@
+/home/h/anaconda3/envs/pytorch6/lib/python3.9/site-packages/mmcv/__init__.py:20: UserWarning: On January 1, 2023, MMCV will release v2.0.0, in which it will remove components related to the training process and add a data transformation module. In addition, it will rename the package names mmcv to mmcv-lite and mmcv-full to mmcv. See https://github.com/open-mmlab/mmcv/blob/master/docs/en/compatibility.md for more details.
+  warnings.warn(
+Image size: 320
+loading dataset refcoco into memory...
+creating index...
+index created.
+DONE (t=4.80s)
+loading dataset refcoco into memory...
+creating index...
+index created.
+DONE (t=4.97s)
+local rank None / global rank 0 successfully built train dataset.
+lavt
+Initializing Multi-modal Swin Transformer weights from ./pretrained_weights/swin_small_patch4_window7_224_22k.pth
+> /home/h/code/tmp/My3.0newest/lib/backbone.py(495)forward()
+-> outs = []
+(Pdb) tensor([[[ 0.9650,  2.8538, -0.8537,  ..., -0.1426,  3.0276,  0.6450],
+         [ 1.2081,  2.8662, -0.7000,  ..., -0.1422,  2.8480,  0.5776],
+         [ 0.6476,  2.9129, -0.2638,  ..., -0.1419,  2.9656, -0.2020],
+         ...,
+         [-0.3054,  2.6289,  2.4521,  ..., -0.1382,  2.5155,  2.6433],
+         [-0.1777,  2.1805,  1.5128,  ..., -0.1485,  3.2870, -1.0429],
+         [-0.6774,  1.3842,  1.4212,  ..., -0.1345,  3.0948, -0.9419]],
+
+        [[ 0.9650,  2.8538, -0.8537,  ..., -0.1426,  3.0276,  0.6450],
+         [ 1.2081,  2.8662, -0.7000,  ..., -0.1422,  2.8480,  0.5776],
+         [ 0.6476,  2.9129, -0.2638,  ..., -0.1419,  2.9656, -0.2020],
+         ...,
+         [-0.3054,  2.6289,  2.4521,  ..., -0.1382,  2.5155,  2.6433],
+         [-0.1777,  2.1805,  1.5128,  ..., -0.1485,  3.2870, -1.0429],
+         [-0.6774,  1.3842,  1.4212,  ..., -0.1345,  3.0948, -0.9419]],
+
+        [[ 1.4576,  4.4869,  0.8125,  ..., -0.1382,  1.4325, -0.5428],
+         [ 0.9299,  4.4611,  1.7225,  ..., -0.1421,  1.5329, -0.7588],
+         [ 1.5010,  4.3893, -1.2628,  ..., -0.1391,  1.3653,  0.8016],
+         ...,
+         [ 1.6474,  4.4397,  1.0974,  ..., -0.1381,  1.2176, -0.6483],
+         [ 1.1809,  4.4550,  0.1016,  ..., -0.1447,  1.4157, -0.0664],
+         [ 0.8475,  4.3538, -1.2809,  ..., -0.1388,  1.4501,  0.3481]],
+
+        ...,
+
+        [[ 1.4198,  4.6050,  0.5122,  ..., -0.1422,  0.5112, -0.6655],
+         [ 1.8006,  4.5180, -0.1237,  ..., -0.1417,  0.6390,  0.7841],
+         [ 1.1699,  4.6534,  0.1041,  ..., -0.1358,  0.5927, -0.8143],
+         ...,
+         [ 2.5592,  4.2228,  0.1810,  ..., -0.1366,  0.4289, -0.9869],
+         [ 2.3710,  4.2884,  0.3406,  ..., -0.1390,  0.4113, -0.3737],
+         [ 1.9455,  4.1512,  0.5502,  ..., -0.1522,  0.3276,  0.7171]],
+
+        [[ 0.1131,  2.2183, -0.4821,  ..., -0.1441,  4.6413,  0.7393],
+         [ 0.1399,  2.3264,  0.8672,  ..., -0.1411,  4.3679,  0.8457],
+         [ 0.8358,  2.6126,  2.2574,  ..., -0.1347,  3.3550,  0.2950],
+         ...,
+         [ 1.5858,  1.5792,  0.6031,  ..., -0.1494,  2.5268,  1.0461],
+         [ 1.5660,  1.5727,  0.3552,  ..., -0.1542,  2.5642,  1.1111],
+         [ 1.5072,  1.5570,  0.4990,  ..., -0.1514,  2.5620,  0.7866]],
+
+        [[ 0.1131,  2.2183, -0.4821,  ..., -0.1441,  4.6413,  0.7393],
+         [ 0.1399,  2.3264,  0.8672,  ..., -0.1411,  4.3679,  0.8457],
+         [ 0.8358,  2.6126,  2.2574,  ..., -0.1347,  3.3550,  0.2950],
+         ...,
+         [ 1.5858,  1.5792,  0.6031,  ..., -0.1494,  2.5268,  1.0461],
+         [ 1.5660,  1.5727,  0.3552,  ..., -0.1542,  2.5642,  1.1111],
+         [ 1.5072,  1.5570,  0.4990,  ..., -0.1514,  2.5620,  0.7866]]],
+       device='cuda:0', grad_fn=<TransposeBackward0>)
+(Pdb) torch.Size([20, 6400, 96])
+(Pdb) Traceback (most recent call last):
+  File "/home/h/code/tmp/My3.0newest/train.py", line 392, in <module>
+    main(args)
+  File "/home/h/code/tmp/My3.0newest/train.py", line 354, in main
+    train_one_epoch(model, criterion, optimizer, data_loader, lr_scheduler, epoch, args.print_freq,
+  File "/home/h/code/tmp/My3.0newest/train.py", line 192, in train_one_epoch
+    output = model(image, embedding, l_pooler, l_mask=attentions)  # model模型前向传播，得到output
+  File "/home/h/anaconda3/envs/pytorch6/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1190, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/h/code/tmp/My3.0newest/lib/_utils.py", line 22, in forward
+    features = self.backbone(x, l_feats, l_pooler, l_mask)  # 首先通过主干网络将输入图像和特征进行处理，得到不同层级的特征表示
+  File "/home/h/anaconda3/envs/pytorch6/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1190, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/h/code/tmp/My3.0newest/lib/backbone.py", line 495, in forward
+    for i in range(self.num_layers):
+  File "/home/h/code/tmp/My3.0newest/lib/backbone.py", line 495, in forward
+    for i in range(self.num_layers):
+  File "/home/h/anaconda3/envs/pytorch6/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/home/h/anaconda3/envs/pytorch6/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit

@@ -1,0 +1,1 @@
+{"objects": ["notebook", "stack", "papers", "table", "paper", "notebooks", "apple"], "relationships": [[1, "of", 2], [2, "on", 3], [0, "of", 1], [2, "of", 1], [2, "adjacent to", 3]]}

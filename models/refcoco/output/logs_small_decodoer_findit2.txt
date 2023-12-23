@@ -1,0 +1,38 @@
+/home/h/anaconda3/envs/pytorch6/lib/python3.9/site-packages/mmcv/__init__.py:20: UserWarning: On January 1, 2023, MMCV will release v2.0.0, in which it will remove components related to the training process and add a data transformation module. In addition, it will rename the package names mmcv to mmcv-lite and mmcv-full to mmcv. See https://github.com/open-mmlab/mmcv/blob/master/docs/en/compatibility.md for more details.
+  warnings.warn(
+Image size: 320
+loading dataset refcoco into memory...
+creating index...
+index created.
+DONE (t=5.51s)
+loading dataset refcoco into memory...
+creating index...
+index created.
+DONE (t=5.02s)
+local rank None / global rank 0 successfully built train dataset.
+lavt
+Initializing Multi-modal Swin Transformer weights from ./pretrained_weights/swin_small_patch4_window7_224_22k.pth
+Traceback (most recent call last):
+  File "/home/h/code/tmp/My2.0/train.py", line 357, in <module>
+    main(args)
+  File "/home/h/code/tmp/My2.0/train.py", line 321, in main
+    train_one_epoch(model, criterion, optimizer, data_loader, lr_scheduler, epoch, args.print_freq,
+  File "/home/h/code/tmp/My2.0/train.py", line 176, in train_one_epoch
+    output = model(image, embedding, l_pooler, l_mask=attentions)
+  File "/home/h/anaconda3/envs/pytorch6/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1190, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/h/code/tmp/My2.0/lib/_utils.py", line 19, in forward
+    x = self.classifier(x_c4, x_c3, x_c2, x_c1)
+  File "/home/h/anaconda3/envs/pytorch6/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1190, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/h/code/tmp/My2.0/lib/mask_predictor.py", line 95, in forward
+    x = self.findit2(x,x_c1)
+  File "/home/h/anaconda3/envs/pytorch6/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1190, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/h/code/tmp/My2.0/add/findit_decoder.py", line 42, in forward
+    attn = self.self_attn(x)  # [B,H*W+T,4C]
+  File "/home/h/anaconda3/envs/pytorch6/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1190, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/h/code/tmp/My2.0/add/findit_decoder.py", line 78, in forward
+    result = torch.bmm(chunk,k.transpose(1,2))
+torch.cuda.OutOfMemoryError: CUDA out of memory. Tried to allocate 2.00 MiB (GPU 0; 23.69 GiB total capacity; 21.15 GiB already allocated; 29.12 MiB free; 21.82 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF

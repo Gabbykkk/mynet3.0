@@ -1,0 +1,1 @@
+{"objects": ["bus", "stories", "it", "side", "road", "decker buss", "city"], "relationships": [[0, "with", 1], [1, "inside of", 2], [0, "on", 3], [3, "of", 4], [0, "through", 1]]}

@@ -1,0 +1,1 @@
+{"objects": ["game box", "controller", "middle", "console", "control", "mario"], "relationships": [[0, "in", 1], [3, "in", 1], [1, "of", 2]]}

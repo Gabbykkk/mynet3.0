@@ -1,0 +1,1 @@
+{"objects": ["banana slice", "edge", "pic", "slice leftmiddle", "walnut", "bowl center"], "relationships": [[0, "nearest", 1], [1, "of", 2], [0, "next to", 1], [0, "at", 2], [2, "of", 3], [3, "of", 4]]}

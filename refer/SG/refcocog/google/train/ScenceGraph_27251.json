@@ -1,0 +1,1 @@
+{"objects": ["man", "violet pullover", "rail engine", "person", "uniform", "train platform", "work", "train"], "relationships": [[0, "wearing", 1], [0, "standing", 2], [0, "in", 1], [1, "on", 2], [2, "watching", 3], [2, "in", 4], [4, "on", 5]]}

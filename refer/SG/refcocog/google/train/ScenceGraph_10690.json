@@ -1,0 +1,1 @@
+{"objects": ["tan crock", "grasses", "that", "brick sidewalk", "plants", "house", "plant container", "right"], "relationships": [[0, "holding", 1], [2, "touch", 3], [0, "are", 1], [1, "in", 2]]}

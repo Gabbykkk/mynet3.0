@@ -1,0 +1,1 @@
+{"objects": ["table", "apples", "market", "sale"], "relationships": [[0, "of", 1], [0, "in", 1], [1, "for", 2]]}

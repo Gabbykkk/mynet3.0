@@ -1,0 +1,1 @@
+{"objects": ["seat", "boot", "bit", "boot bottom"], "relationships": [[0, "of", 1], [0, "behind", 2]]}

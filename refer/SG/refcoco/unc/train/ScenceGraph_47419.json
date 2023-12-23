@@ -1,0 +1,1 @@
+{"objects": ["vaseblue", "vase", "shape", "table", "side", "frame"], "relationships": [[0, "on", 1], [0, "along", 2], [2, "of", 3]]}

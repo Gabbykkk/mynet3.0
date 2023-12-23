@@ -1,0 +1,1 @@
+{"objects": ["sign", "language", "banner", "logo"], "relationships": [[0, "written in", 1], [0, "with", 1]]}

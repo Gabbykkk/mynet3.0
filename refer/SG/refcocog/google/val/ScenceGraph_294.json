@@ -1,0 +1,1 @@
+{"objects": ["water vehicle", "corner", "water body", "boat", "river", "camera", "side"], "relationships": [[1, "of", 2], [0, "going down", 1], [2, "facing", 3]]}

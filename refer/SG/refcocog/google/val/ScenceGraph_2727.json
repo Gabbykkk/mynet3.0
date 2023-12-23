@@ -1,0 +1,1 @@
+{"objects": ["bird", "precipice", "body", "water", "grey bird"], "relationships": [[0, "at", 1], [1, "of", 2], [2, "of", 3], [0, "next to", 4], [0, "near", 1]]}

@@ -1,0 +1,1 @@
+{"objects": ["clock face", "numbers", "clock", "front"], "relationships": [[0, "facing", 1]]}

@@ -1,0 +1,1 @@
+{"objects": ["plane", "jet", "picture", "plain", "front"], "relationships": [[0, "largest in", 1]]}

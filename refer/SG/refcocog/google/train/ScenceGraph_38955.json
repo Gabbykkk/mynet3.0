@@ -1,0 +1,1 @@
+{"objects": ["bed", "left", "scroll design", "mattress", "sheet", "window"], "relationships": [[0, "on", 1], [1, "with", 2], [2, "in", 3], [0, "with", 1], [1, "near", 2]]}

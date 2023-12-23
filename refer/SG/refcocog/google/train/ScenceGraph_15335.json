@@ -1,0 +1,1 @@
+{"objects": ["fire truck", "men", "flags", "firetruck", "group", "soldiers", "street", "parade"], "relationships": [[0, "behind", 1], [1, "carrying", 2], [1, "of", 2], [1, "down", 3], [1, "for", 4]]}

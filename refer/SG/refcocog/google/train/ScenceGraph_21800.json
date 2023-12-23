@@ -1,0 +1,1 @@
+{"objects": ["part", "body", "that", "shirt", "whistle", "it", "neck", "person", "lanyard"], "relationships": [[0, "of", 1], [2, "wearing", 3], [2, "with", 4], [4, "around", 5], [2, "wearing", 6], [0, "in", 1], [0, "wearing", 2]]}

@@ -1,0 +1,1 @@
+{"objects": ["pizza", "woman", "glasses", "meal", "pan", "bottom", "picture"], "relationships": [[0, "furthest from", 1], [0, "furthest with", 2], [0, "on", 1], [2, "of", 3]]}

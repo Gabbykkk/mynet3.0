@@ -1,0 +1,1 @@
+{"objects": ["bear", "crib", "child", "it", "animal", "baby"], "relationships": [[0, "in", 1], [2, "at", 3], [0, "by", 1]]}

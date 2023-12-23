@@ -1,0 +1,1 @@
+{"objects": ["clock", "wall", "time", "bac", "kinh", "bac kinh"], "relationships": [[0, "on", 1], [1, "calling", 2], [2, "in", 3], [0, "for", 1]]}

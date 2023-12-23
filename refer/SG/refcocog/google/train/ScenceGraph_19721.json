@@ -1,0 +1,1 @@
+{"objects": ["motorcycle", "saddle", "seat"], "relationships": [[0, "has", 1], [1, "for", 2]]}

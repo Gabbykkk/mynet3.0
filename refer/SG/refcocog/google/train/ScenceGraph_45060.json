@@ -1,0 +1,1 @@
+{"objects": ["man", "tie", "scissors", "someone", "uniform", "soldier"], "relationships": [[1, "with", 2], [2, "by", 3]]}

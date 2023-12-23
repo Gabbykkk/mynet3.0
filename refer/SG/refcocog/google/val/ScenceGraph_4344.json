@@ -1,0 +1,1 @@
+{"objects": ["orange", "boiling wate", "crack", "side", "spot", "top", "lemon", "boiling pot", "lemons"], "relationships": [[0, "sitting in", 1], [0, "with", 2], [0, "with", 4], [2, "on", 3], [4, "on", 3], [4, "on", 5], [0, "in", 1]]}

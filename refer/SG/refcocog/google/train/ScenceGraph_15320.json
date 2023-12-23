@@ -1,0 +1,1 @@
+{"objects": ["man", "stream", "water", "jeans", "vest", "creek", "stones"], "relationships": [[0, "crossing", 1], [1, "of", 2], [0, "wearing", 1], [0, "wearing", 2], [3, "walking on", 4]]}

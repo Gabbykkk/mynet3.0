@@ -1,0 +1,1 @@
+{"objects": ["bleacher", "bench", "fence"], "relationships": [[0, "behind", 1]]}

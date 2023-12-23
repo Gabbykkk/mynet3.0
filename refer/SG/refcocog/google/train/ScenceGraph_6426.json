@@ -1,0 +1,1 @@
+{"objects": ["broccoli", "hair", "piece", "food art", "top", "dish", "food", "person"], "relationships": [[0, "forming", 1], [0, "in", 2], [2, "of", 3], [1, "of", 2]]}

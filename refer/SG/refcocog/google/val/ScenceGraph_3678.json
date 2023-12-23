@@ -1,0 +1,1 @@
+{"objects": ["sandwich", "camera", "upper", "sandwiches"], "relationships": [[0, "furthest from", 1], [0, "of", 1]]}

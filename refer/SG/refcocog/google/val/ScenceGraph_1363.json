@@ -1,0 +1,1 @@
+{"objects": ["man", "sweatshirt", "shoulder", "boy", "candles", "cake", "someone", "red"], "relationships": [[0, "in", 1], [0, "looks over", 2], [2, "of", 3], [3, "blowing", 4], [3, "atop", 5], [0, "between", 2], [2, "blowing", 3], [2, "blowing", 4], [4, "in", 5]]}

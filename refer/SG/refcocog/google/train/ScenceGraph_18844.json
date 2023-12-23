@@ -1,0 +1,1 @@
+{"objects": ["giraffe", "neck", "another", "it", "shoulders", "right"], "relationships": [[0, "tilts", 1], [0, "forward as", 2], [0, "to", 1], [1, "of", 2]]}

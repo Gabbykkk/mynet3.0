@@ -1,0 +1,1 @@
+{"objects": ["helicopter", "number", "sky", "plane", "rear", "formation"], "relationships": [[0, "with", 1], [0, "over", 2], [0, "brings", 1], [0, "in", 2]]}

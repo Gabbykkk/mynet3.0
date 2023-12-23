@@ -1,0 +1,1 @@
+{"objects": ["computer monitor", "that", "wire", "computer laptop screen"], "relationships": [[1, "reads", 2], [0, "displaying", 1]]}

@@ -1,0 +1,1 @@
+{"objects": ["bluepurple couch", "woman", "top", "chair", "leg", "front", "screen", "people"], "relationships": [[0, "under", 1], [0, "wearing", 2], [0, "next to", 1], [2, "of", 3], [0, "between", 1], [1, "in", 2]]}

@@ -1,0 +1,1 @@
+{"objects": ["bowl", "counter top", "coffee mugs", "counter", "bowls", "plates"], "relationships": [[0, "sitting on", 1], [0, "under", 2], [1, "next to", 2], [2, "on", 3]]}

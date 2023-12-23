@@ -1,0 +1,1 @@
+{"objects": ["chysler", "cross walk", "car", "light"], "relationships": [[0, "stopped in", 1], [0, "at", 1]]}

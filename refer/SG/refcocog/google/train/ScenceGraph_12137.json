@@ -1,0 +1,1 @@
+{"objects": ["part", "booth", "man", "hands", "hand picture", "section", "backs", "booths", "subjects", "forefront"], "relationships": [[0, "of", 1], [0, "by", 2], [2, "eating", 3], [2, "in", 4], [0, "between", 1], [1, "of", 2], [0, "behind", 3], [3, "in", 4]]}

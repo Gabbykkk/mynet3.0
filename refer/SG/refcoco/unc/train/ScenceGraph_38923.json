@@ -1,0 +1,1 @@
+{"objects": ["player", "right", "air", "picture", "man"], "relationships": [[0, "second from", 1], [1, "in", 2]]}

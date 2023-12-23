@@ -1,0 +1,1 @@
+{"objects": ["flamingos", "body", "water", "flamingo", "others"], "relationships": [[0, "between", 1], [1, "in", 2], [2, "of", 3], [0, "in front of", 1]]}

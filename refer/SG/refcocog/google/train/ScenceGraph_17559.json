@@ -1,0 +1,1 @@
+{"objects": ["man", "tennis court", "tennis racket", "chest", "right", "group", "men"], "relationships": [[0, "on", 1], [0, "holding", 2], [0, "to", 3], [0, "to", 1], [1, "of", 2], [2, "of", 3]]}

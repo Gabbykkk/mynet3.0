@@ -1,0 +1,1 @@
+{"objects": ["bus", "characters", "side", "passenger bus", "cartoon figures"], "relationships": [[0, "with", 1], [1, "on", 2], [1, "drawn on", 2]]}

@@ -1,0 +1,1 @@
+{"objects": ["this", "soccer player", "shirt", "who", "opponent", "man", "jersey", "that", "soccer ball"], "relationships": [[0, "is", 1], [1, "wearing", 2], [3, "blocking", 4], [0, "in", 1], [2, "headed", 3]]}

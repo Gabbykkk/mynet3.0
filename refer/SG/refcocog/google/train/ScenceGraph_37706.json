@@ -1,0 +1,1 @@
+{"objects": ["book", "picture", "pasta", "cover", "words", "twist", "wrist", "nancy silverton", "fork"], "relationships": [[0, "with", 1], [0, "with", 4], [1, "of", 2], [4, "of", 2], [1, "on", 3], [4, "on", 3], [5, "of", 6], [0, "by", 1], [0, "with", 2], [2, "on", 3]]}

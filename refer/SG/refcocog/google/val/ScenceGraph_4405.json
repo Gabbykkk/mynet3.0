@@ -1,0 +1,1 @@
+{"objects": ["male", "museum display", "child", "hand", "window", "zebras"], "relationships": [[0, "next to", 1], [0, "rests", 1], [0, "on", 2], [0, "behind", 3]]}

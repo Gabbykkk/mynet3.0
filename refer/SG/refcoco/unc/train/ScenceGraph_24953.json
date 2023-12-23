@@ -1,0 +1,1 @@
+{"objects": ["bannas", "tree", "row", "top", "bunch", "second bunch"], "relationships": [[0, "on", 1], [0, "from", 1], [0, "of", 1], [0, "from", 2]]}

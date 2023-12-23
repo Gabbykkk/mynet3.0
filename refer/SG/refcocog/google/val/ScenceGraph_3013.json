@@ -1,0 +1,1 @@
+{"objects": ["cow", "front", "that", "shadow", "shadows", "foreground", "picture"], "relationships": [[0, "in", 1], [3, "darkened", 2], [0, "in", 2], [2, "of", 3]]}

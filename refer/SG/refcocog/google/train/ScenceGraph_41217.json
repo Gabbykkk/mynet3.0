@@ -1,0 +1,1 @@
+{"objects": ["kite", "man", "wings", "butterfly kite"], "relationships": [[0, "like", 1], [1, "with", 2]]}

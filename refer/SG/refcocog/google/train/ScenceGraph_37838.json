@@ -1,0 +1,1 @@
+{"objects": ["giraffe", "neck", "wall", "rocks"], "relationships": [[0, "stretching", 1], [0, "standing by", 1], [0, "standing by", 2]]}

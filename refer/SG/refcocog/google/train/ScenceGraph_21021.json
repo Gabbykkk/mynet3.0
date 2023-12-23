@@ -1,0 +1,1 @@
+{"objects": ["child", "hat", "train", "children", "adult", "ride", "fishermans hat", "orange shirt", "hands"], "relationships": [[0, "with", 1], [1, "riding", 2], [2, "with", 3], [0, "sitting on", 1], [4, "sitting on", 1], [1, "with", 2], [1, "with", 3]]}

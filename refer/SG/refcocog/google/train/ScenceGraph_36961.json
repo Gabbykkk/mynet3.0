@@ -1,0 +1,1 @@
+{"objects": ["this", "display screen", "presentations", "table", "screen", "room", "projection image", "email client"], "relationships": [[0, "is", 1], [1, "for", 2], [0, "in", 1], [1, "showing", 2], [2, "of", 3]]}

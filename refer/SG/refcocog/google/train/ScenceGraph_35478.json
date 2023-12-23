@@ -1,0 +1,1 @@
+{"objects": ["airline", "that", "left", "airplanes", "right", "plane", "front", "picture"], "relationships": [[1, "sits on", 2], [0, "next to", 3], [3, "on", 4], [0, "on", 1], [0, "with", 2]]}

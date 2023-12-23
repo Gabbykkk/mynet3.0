@@ -1,0 +1,1 @@
+{"objects": ["man", "foot", "group", "another", "plane", "businessman", "airplane door"], "relationships": [[0, "with", 1], [0, "with", 3], [1, "on", 2], [3, "on", 2]]}

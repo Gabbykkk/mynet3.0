@@ -1,0 +1,1 @@
+{"objects": ["chair", "lady", "coffee table", "woman", "white"], "relationships": [[0, "closest to", 1], [0, "behind", 1], [0, "next to", 2], [2, "in", 3]]}

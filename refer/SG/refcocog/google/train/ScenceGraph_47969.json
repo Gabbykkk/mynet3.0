@@ -1,0 +1,1 @@
+{"objects": ["bat", "label tpx", "player", "field", "side", "picture", "which", "shirt color person"], "relationships": [[0, "with", 1], [2, "on", 3], [2, "in", 4], [4, "of", 5]]}

@@ -1,0 +1,1 @@
+{"objects": ["calf", "mom", "cow", "middle", "front", "baby cow"], "relationships": [[0, "next to", 1], [0, "in", 1], [0, "in", 2]]}

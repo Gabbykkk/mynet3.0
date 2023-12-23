@@ -1,0 +1,1 @@
+{"objects": ["volleyball player", "teammates", "ball", "side", "guy", "middle", "group"], "relationships": [[0, "between", 1], [1, "with", 2], [2, "at", 3], [0, "in", 1], [1, "of", 2]]}

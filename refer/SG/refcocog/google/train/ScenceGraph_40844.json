@@ -1,0 +1,1 @@
+{"objects": ["truck grill", "man", "jeans", "right", "motorcycle", "mams leg"], "relationships": [[0, "next to", 1], [1, "wearing", 2], [0, "of", 1], [1, "near", 2]]}

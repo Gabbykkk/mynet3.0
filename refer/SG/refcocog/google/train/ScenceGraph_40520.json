@@ -1,0 +1,1 @@
+{"objects": ["this", "reflection", "cat", "mirror", "collar"], "relationships": [[0, "is", 1], [1, "of", 2], [2, "on", 3], [0, "of", 1], [1, "with", 2], [0, "on", 3]]}

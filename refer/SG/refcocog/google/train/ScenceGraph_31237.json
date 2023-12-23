@@ -1,0 +1,1 @@
+{"objects": ["car", "surfboards", "covers", "side", "picture", "kayak", "roof"], "relationships": [[0, "carrying", 1], [1, "in", 2], [0, "on", 1], [1, "of", 2], [1, "with", 3], [0, "strapped to", 4]]}

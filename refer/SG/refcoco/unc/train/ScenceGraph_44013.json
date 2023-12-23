@@ -1,0 +1,1 @@
+{"objects": ["wine", "half", "bottle"], "relationships": [[0, "bottlecounting", 1]]}

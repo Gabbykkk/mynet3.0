@@ -1,0 +1,1 @@
+{"objects": ["parking meter", "red", "display window", "object"], "relationships": [[0, "showing", 1], [0, "in", 2]]}

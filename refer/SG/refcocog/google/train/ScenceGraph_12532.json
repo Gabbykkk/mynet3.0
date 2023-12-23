@@ -1,0 +1,1 @@
+{"objects": ["man", "t color shirt", "right", "computer mouse", "laptop", "eye glass"], "relationships": [[0, "wearing", 1], [0, "placing", 2], [0, "on", 3], [0, "watching", 1]]}

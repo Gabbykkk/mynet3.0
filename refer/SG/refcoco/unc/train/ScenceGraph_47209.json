@@ -1,0 +1,1 @@
+{"objects": ["blob", "greens", "broccoli", "sitting", "meat"], "relationships": [[0, "in", 1], [1, "on", 2]]}

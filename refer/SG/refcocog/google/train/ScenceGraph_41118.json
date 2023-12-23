@@ -1,0 +1,1 @@
+{"objects": ["metal bench", "water", "patch", "plants", "benches", "bench", "right"], "relationships": [[0, "sitting in", 1], [2, "of", 3], [0, "apart from", 4], [0, "to", 1], [1, "of", 2], [2, "sitting in", 3]]}

@@ -1,0 +1,1 @@
+{"objects": ["man", "tie", "tattoos", "fingers", "suit", "tatoos", "hands", "photo", "himself", "cell phone"], "relationships": [[0, "with", 1], [0, "with", 2], [1, "on", 3], [2, "on", 3], [0, "in", 1], [1, "with", 2], [2, "taking", 4], [4, "of", 5], [2, "with", 6]]}

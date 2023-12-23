@@ -1,0 +1,1 @@
+{"objects": ["man", "ropes", "horse", "reigns", "middle", "field"], "relationships": [[0, "holding", 1], [1, "to", 2], [0, "for", 2], [0, "in", 3], [3, "of", 4]]}

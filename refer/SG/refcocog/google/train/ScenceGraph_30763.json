@@ -1,0 +1,1 @@
+{"objects": ["bull statue", "hooves", "end", "line", "display", "head", "statue", "cow", "nose"], "relationships": [[0, "with", 1], [0, "at", 2], [2, "of", 3], [3, "in", 4], [0, "with", 5], [0, "of", 1], [0, "with", 2]]}

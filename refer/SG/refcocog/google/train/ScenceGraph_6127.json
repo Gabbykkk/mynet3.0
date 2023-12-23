@@ -1,0 +1,1 @@
+{"objects": ["boat", "characters", "nn200", "side", "beach"], "relationships": [[0, "with", 1], [2, "on", 3], [0, "on", 1]]}

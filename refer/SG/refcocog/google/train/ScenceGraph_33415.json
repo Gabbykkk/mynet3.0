@@ -1,0 +1,1 @@
+{"objects": ["cream cone", "gentleman", "foreground", "sunglasses", "top", "head"], "relationships": [[0, "in", 1], [0, "wearing", 2], [2, "on", 3], [3, "of", 4]]}

@@ -1,0 +1,1 @@
+{"objects": ["truck", "that", "damages", "front", "staples truck", "wreck"], "relationships": [[1, "has", 2], [1, "on", 3], [0, "of", 1]]}

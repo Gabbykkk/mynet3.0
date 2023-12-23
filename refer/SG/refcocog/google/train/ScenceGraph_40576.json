@@ -1,0 +1,1 @@
+{"objects": ["tractor", "that", "tire", "stumps", "logs", "farm"], "relationships": [[1, "missing", 2], [0, "sitting on", 1], [0, "on", 2]]}

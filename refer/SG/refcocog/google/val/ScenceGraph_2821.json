@@ -1,0 +1,1 @@
+{"objects": ["air", "arm", "tattoos", "corner", "skateboard", "it", "man", "forearm", "trick"], "relationships": [[2, "has", 3], [2, "with", 4], [4, "of", 5], [5, "in", 6], [0, "on", 1], [0, "in", 2], [0, "doing", 3]]}

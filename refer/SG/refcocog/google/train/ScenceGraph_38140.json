@@ -1,0 +1,1 @@
+{"objects": ["tram", "city", "night", "train", "front"], "relationships": [[0, "through", 1], [0, "at", 2], [0, "with", 1]]}

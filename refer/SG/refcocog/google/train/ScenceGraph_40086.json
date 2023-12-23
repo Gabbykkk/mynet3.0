@@ -1,0 +1,1 @@
+{"objects": ["man", "front", "dollsin suit", "camera"], "relationships": [[0, "behind", 1], [0, "in", 2], [0, "away from", 1], [0, "behind", 2]]}

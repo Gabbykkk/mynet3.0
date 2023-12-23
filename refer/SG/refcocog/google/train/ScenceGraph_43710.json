@@ -1,0 +1,1 @@
+{"objects": ["person", "hands", "wheel", "man", "car", "street", "he", "cow", "him"], "relationships": [[0, "with", 1], [0, "on", 2], [0, "driving", 1], [3, "passes", 4], [4, "towards", 5]]}

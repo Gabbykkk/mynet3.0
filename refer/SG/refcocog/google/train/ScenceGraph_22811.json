@@ -1,0 +1,1 @@
+{"objects": ["color bucket", "color mug", "tooth color brush", "bucket"], "relationships": [[0, "holding", 1], [0, "with", 2]]}

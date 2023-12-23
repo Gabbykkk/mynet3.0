@@ -1,0 +1,1 @@
+{"objects": ["top", "sandwich bread", "edge", "potatoes", "piece", "sandwich", "cross", "fries"], "relationships": [[0, "of", 1], [0, "with", 2], [2, "touching", 3], [0, "without", 2], [2, "facing", 3]]}

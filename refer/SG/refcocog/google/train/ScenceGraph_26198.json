@@ -1,0 +1,1 @@
+{"objects": ["bear", "all", "bears", "statue", "liberty", "shirt", "that", "new york", "it"], "relationships": [[0, "in front of", 1], [0, "as", 1], [1, "of", 2], [0, "with", 3], [4, "says", 5]]}
